@@ -1,0 +1,56 @@
+{
+  "idReport": "02388900",
+  "idLaboratory": "0011858274",
+  "descripcion": "ECOGRAFIA COMPLETA DE ABDOMEN",
+  "servicio": "Diagnóstico por Imágenes",
+  "fecha": "2025-07-15",
+  "accession": "0011858274",
+  "study_uid": "1.2.840.113845.11.1000000002152132195.20250715084446.5507964",
+  "study_date": "20250715",
+  "modalidades": "PR\\SR\\US",
+  "procedimiento": "ECOGRAFIA COMPLETA DE ABDOMEN",
+  "urlViewer": "https://estudios.hbritanico.com.ar/im/#/125/6ba4f1b0f0b2eebc249c7de6f6c66c89?fromportal=true",
+  "documentos_visor": [
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "646F4372676B72574B2B73472F5654647833576177513D3D0A"
+    }
+  ],
+  "documentos_extra": [],
+  "series": [
+    {
+      "numero": 1,
+      "modalidad": "US",
+      "descripcion": "",
+      "series_uid": "1.2.392.200036.9116.6.20.14623447.9500.20250715132326721.1.4",
+      "instancias": 14,
+      "carpeta": "estudios/ecografia/2025-07-15_ecografia_ecografia-completa-de-abdomen/dicom/001_us",
+      "descargadas": 14,
+      "errores": 0
+    }
+  ],
+  "dicom_series": 1,
+  "dicom_instancias": 14,
+  "dicom_descargadas": 14,
+  "dicom_completo": true,
+  "dicom_metadata": {
+    "Modality": "US",
+    "StudyDate": "20250715",
+    "StudyTime": "102326",
+    "StudyDescription": "ECOGRAFIA COMPLETA DE ABDOMEN",
+    "SeriesDescription": "",
+    "SeriesNumber": 1,
+    "InstanceNumber": 1,
+    "Manufacturer": "TOSHIBA_MEC_US",
+    "ManufacturerModelName": "TUS-X100",
+    "BodyPartExamined": "",
+    "ProtocolName": "Abdomen",
+    "Rows": 720,
+    "Columns": 960,
+    "SOPClassUID": "1.2.840.10008.5.1.4.1.1.6.1",
+    "SOPInstanceUID": "1.2.392.200036.9116.6.20.14623447.1467.20250715132340189.9.7",
+    "SeriesInstanceUID": "1.2.392.200036.9116.6.20.14623447.9500.20250715132326721.1.4",
+    "StudyInstanceUID": "1.2.840.113845.11.1000000002152132195.20250715084446.5507964"
+  }
+}

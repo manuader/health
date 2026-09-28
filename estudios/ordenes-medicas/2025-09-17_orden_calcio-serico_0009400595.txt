@@ -1,0 +1,37 @@
+RFC-MICROSITImpreso por: Hospital Británico – Orden Clinica
+10/09/2026Fecha y Hora de impresión: 10:17:29
+ORDEN CLÍNICA/ Laboratorio Int HB Central
+ADERApellido:
+CME-UTI1UM:
+45683086DNI:22 añosEdad:
+CE-UTI1UT:
+9400595Nro. Orden:
+26/04/2004F.Nac.:
+MANUELNombre:
+17/09/2025Fecha:
+A la BrevedadPrioridad:
+MEDICUSFinanciador:
+CELESTEPlan: EXENTOCond. de I.V.A.:
+10097779003Nro. Afiliado:
+20042/001Cod. Finan:
+Consultar las indicaciones para la realización de los estudios en la página web institucional  
+www.hospitalbritanico.org.ar
+Diagnóstico Presuntivo y Observaciones:
+.
+           Firma
+NICOLAS ARIEL FERNANDEZ VAROLI
+196994M.N. --    M.P.
+Médico
+Descripción Cantidad
+Dosaje de Vancomicina 1
+Calcio Serico 1
+Creatinina Serica 1
+Fosforo Serico 1
+Glucosa Serica 1
+Hemograma 1
+Hepatograma 1
+Ionograma 1
+Magnesio Serico 1
+Recuento de plaquetas 1
+Proteinas Album. Y Globulin. 1
+Urea Serica 1

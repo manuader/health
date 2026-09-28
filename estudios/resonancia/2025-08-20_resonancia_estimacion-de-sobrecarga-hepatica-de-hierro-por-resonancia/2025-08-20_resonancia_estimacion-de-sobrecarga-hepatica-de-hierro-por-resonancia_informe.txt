@@ -1,0 +1,36 @@
+Paciente: ADER, MANUEL  Estudio: ESTIMACION DE SOBRECARGA HEPATICA DE HIERRO POR 
+RESONANCIA
+Fecha de Nacimiento: 26/04/2004 Médico Derivante: N/D
+Fecha del Estudio: 20/08/2025 11:12:46 Procedencia: Ambulatorio
+RIS A. N.: 2486846 Número de Pac.: 0002201988
+Estado Informe: Final
+RESONANCIA DE ABDOMEN SIN CONTRASTE ENDOVENOSO-ESTIMACION DE SOBRECARGA 
+HEPATICA DE HIERRO POR RESONANCIA
+ 
+Técnica: Resonador de 1.5 T cerrado.
+Se realizó resonancia de abdomen sin contraste endovenoso con secuencias ponderadas en T1 y 
+T2, cortes en los planos axial y coronal.
+Informe:
+ 
+Hígado aumentado de tamaño, de bordes lisos. Presenta señal marcadamente hipointensa en 
+secuencias T2 y T1 dual en fase compatible con sobrecarga de hierro. Impresiona además con 
+señal hipointensa en secuencia fuera de fase atribuible a esteatosis.
+Estima la concentración de hierro en hígado de 15.2 mg/g en peso seco (N<2.0 mg/g).
+Concentración de hierro en bazo de 1.4 mg/g
+Vesícula de paredes finas, contenido homogéneo.
+Vía biliar intra y extrahepática sin signos de dilatación.
+Esplenomegalia de 154 mm, con señal conservada.
+Páncreas de espesor y patrón acinar conservados.
+Glándulas suprarrenales y riñones dentro de límites normales.
+Retroperitoneo libre de adenomegalias.
+ 
+Impresión diagnóstica:
+ 
+Estima la concentración de hierro en hígado de 15.2 mg/g en peso seco (N<2.0 mg/g).
+Concentración de hierro en bazo de 1.4 mg/g
+Hepatomegalia con signos de sobrecarga de hierro importantes.
+Esteatosis hepática leve.
+Esplenomegalia con señal conservada.
+Pág: 1
+
+Pág: 2

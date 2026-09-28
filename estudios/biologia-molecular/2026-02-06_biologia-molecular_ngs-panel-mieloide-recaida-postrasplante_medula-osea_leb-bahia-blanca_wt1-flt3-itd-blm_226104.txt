@@ -1,0 +1,132 @@
+SECUENCIACIÓN DE NUEVA GENERACIÓN. PANEL MIELOIDE. 
+ 
+Muestra: Médula ósea. 
+Información clínica/diagnóstico presuntivo: Leucemia mieloide aguda (LMA). Recaída temprana post alo-TCPH. 
+Método: Community Myeloid Solution v2 (MYS2). Tecnología de captura. 
+ 
+RESULTADOS: 
+ 
+VARIANTES CON UTILIDAD CLÍNICA POTENCIAL: 
+ 
+ 
+ 
+GENES DE FUSION: 
+ No se detectaron genes de fusión. 
+ 
+OTRAS ALTERACIONES GENOMICAS: 
+ No se detectaron variaciones en el número de copias (CNV) en los genes evaluados.
+
+INTERPRETACIÓN: 
+ 
+Se detectaron variantes de secuencia patogénicas en los genes WT1, FLT3 y BLM. 
+ 
+El gen WT1 (11p13) codifica un factor de transcripción del tipo “dedos de zinc” implicado en el desarrollo y 
+diferenciación celular. Las mutaciones en el gen WT1 se encuentran en el 7-13% de las LMA y se han asociado a pronóstico 
+adverso en algunas series reportadas. Esta variante había sido detectada previamente (08/04/25) en muestra de médula 
+ósea previa al trasplante de precursores hematopoyéticos. 
+El gen FLT3 (13q12.2) codifica para un receptor transmembrana tipo tirosina quinasa que participa en la diferenciación, 
+proliferación y  supervivencia de las células precursoras hematopoyéticas. La variante detectada afecta  al dominio 
+yuxtamembrana de la proteína y corresponde a la inserción en tándem (ITD) de 39pb. La presencia de FLT3 -ITD se ha 
+reportado en el 32-39% de los pacientes con leucemia mieloide aguda (LMA) y en hasta el 2% de los casos de SMD. Para 
+los pacientes con LMA, las mutaciones en el gen FLT3 representan un blanco terapéutico. 
+La presencia de FLT3-ITD en pacientes con LMA se asocian a riesgo intermedio (2022 ELN AML Recommendations). 
+El gen BLM (15q26.1) codifica la proteína BLM, miembro de la familia de helicasas de ADN RecQ funciona como 
+estabilizador genómico, involucrado en la regulación de la regulación de la replicación y recombinación del ADN, así como 
+en las vías homólogas y no homólogas de reparación de roturas de doble cadena. Las mutaciones somáticas en BLM se 
+han reportado en diversos tipos de neoplasi as, con una frecuencia baja en LMA (1 -2%) y un significado pronóstico que 
+actualmente es incierto. 
+ 
+En base al conocimiento actual, no se han detectado variantes patogénicas en el resto de los genes estudiados, así 
+como tampoco la presencia de genes de fusión. 
+Se sugiere correlacionar estos resultados con la presentación clínica y otros estudios complementarios. 
+ 
+REFERENCIAS: 
+1.   Khoury, J.D.; Solary, E.; Abla, O.; Akkari, Y.; Alaggio, R.; Apperley, J.F.; Bejar, R.; Berti, E.; Busque, L.; Chan, J.K.C.; et al. The 5th Edition of the World Health Organization 
+Classification of Haematolymphoid Tumours: Myeloid and Histiocytic/Dendritic Neoplasms. Leukemia 2022, 36, 1703 –1719. 
+2.   Döhner H, Wei AH, Appelbaum FR, Craddock C, DiNardo CD, Dombret H, Ebert BL, Fenaux P, Godley LA, Hasserjian RP, Larson RA, Levine RL, Miyazaki Y, Niederwieser 
+D, Ossenkoppele GJ, Röllig C, Sierra J, Stein EM, Tallman MS, Tien HF, Wang J, Wierzbowska A, Löwenberg B. Diagnosis and Management of AML in Adults: 2022 ELN 
+Recommendations from an International Expert Panel. Blood. 2022 Jul 7:blood.2022016867. doi: 10.1182/blood.2022016867. Epub a head of print. PMID: 35797463.  
+3.   Arber, Daniel A et al. “International Consensus Classification of Myeloid Neoplasms and Acute Leukemias: integrating mor phologic, clinical, and genomic data.” 
+Blood vol. 140,11 (2022): 1200-1228. doi:10.1182/blood.2022015850. 
+4.   Papaemmanuil E, Gerstung M, Bullinger L, Gaidzik VI, Paschka P, Roberts ND, Potter NE, Heuser M, Thol F, Bolli N, Gundem  G, Van Loo P, Martincorena I, Ganly P, 
+Mudie L, McLaren S, O'Meara S, Raine K, Jones DR, Teague JW, Butler AP, Greaves MF, Ganser A, Döhner K, Schlenk RF, Döhner H, Campbell PJ. Genomic Classification 
+and Prognosis in Acute Myeloid Leukemia. N Engl J Med. 2016 Jun 9;374(23):2209 -2221. doi: 10.1056/NEJMoa1516192. PMID: 27276561; PMCID: PMC4979995.  
+ 
+Cobertura y llamado de variantes:
+
+El panel permite detectar:  SNVs, Indels, CNVs, FLT3 ITD, KMT2A PTD y genes de fusión. 
+La estrategia de análisis empleada para la detección de genes de fusión permite identificar todos los rearreglos que 
+involucren a cualquiera de los genes detallados a continuación (B), incluidas las fusiones poco frecuentes o con genes 
+partner desconocidos. 
+La detección de variaciones en el número de copias (CNV) de los genes estudiados permite inferir la presencia de 
+determinadas alteraciones cromosómicas numéricas y estructurales, especialmente: +8, +9, +19, -5, -7, -13, del(5q), 
+del(7q), del(11q), del(12p), del(13q), del(17p), del(20q). 
+ 
+A) Panel de genes estudiados, incluye regiones codificantes (CDS) completas de 94 genes: 
+ABL1, ANKRD26, ASXL1, ASXL2, ATM, ATRX, BCOR, BCORL1, BLM, BRAF, CALR, CBL, CBLB, CBLC,CCND2, CDKN2A, CEBPA, CHEK2, 
+CREBBP, CSF3R, CSNK1A1, CTCF, CUX1, DDX41, DHX15, DNMT3A, ELANE, ETNK1, ETV6,EZH2, FBXW7, FLT3, GATA1, GATA2, GNAS, 
+GNB1, HRAS, IDH1, IDH2, IKZF1, IL7R, JAK1, JAK2, JAK3, KDM6A, KIT, KMT2A, KMT2D, KRAS, LUC7L2, MPL, MSH2, MYC, MYD88, NF1, 
+NOTCH1, NOTCH2, NPM1, NRAS, PAX5, PDGFRA, PHF6, PIGA, PML, PPM1D, PRPF8, PTEN, PTPN11, RAD21, RB1, RBBP6, RUNX1, SAMD9, 
+SAMD9L, SBDS, SETBP1, SF3B1, SH2B3, SMC1A, SMC3, SRP72, SRSF2, STAG1, STAG2, STAT3, STAT5B, TERT, TET2, TP53, U2AF1, U2AF2, 
+UBA1, WT1, ZRSR2 
+ 
+B) Detección de fusiones que involucran a los genes: 
+ABL1 (1, 2, 3), BCL9 (8, 9), BCR (1, 13, 14, 15, 19), CBFB (5), DEK (2, 9), EP300 (6), ETV6 (4, 5), FGFR1 (7, 8, 9, 10), FIP1L1 (10, 11, 12, 13), JAK2 (8, 9, 10, 
+11, 12, 13, 14, 15, 16, 17, 18, 19), KAT6A(15, 16), KMT2A (6, 7, 8, 9, 10, 11, 12, 21, 22, 23) , MEF2D (5, 6, 7), MYH11 (28, 29, 30, 31, 32), NUP214 (6, 
+16, 17), NUP98(10, 11, 12, 13), PCM1 (24, 25, 26, 28, 36), PDGFRA (11, 12) [12], PDGFRB (9, 10, 11), PICALM (16, 17, 18), PML  (3, 5, 6) [6], RARA (2), 
+RUNX1 (6), RUNX1T1 (1), SET (7), TAL1 (1, 2, 3), TCF3 (13, 14, 15, 16, 17), ZNF384 (2)*(intrones) [exones] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Metodología: 
+1. Extracción y purificación de ADN genómico a partir de la muestra remitida.
+
+2. Preparación de las librerías de ADN mediante PCR. Utilizando la solución Community Myeloid v2 (MYS2. SOPHiA)  
+3. Hibridación con sondas (MYS2 SOPHiA) dirigidas contra las regiones de interés y captura de las mismas.  
+4. Amplificación clonal y secuenciación masiva de las regiones seleccionada en la plataforma NextSeq 2000 (Illumina).  
+5. Estudio bioinformático de la secuencia de ADN obtenida y de los genes de fusión por comparación con la secuencia nucleotíd ica de 
+referencia (GRCh38). 
+Se reportan variantes de secuencia en ADN con una frecuencia alélica (VAF) >2% con al menos 25x del alelo alternativo y una cobertura 
+vertical mínima de 300x. 
+6. Las variantes son filtradas con el programa Sophia DDM. 
+7. La significancia clínica de las variantes se determina según los criterios actualizados de la ACMG (PMID: 25741868), ESMO y ASCO, 
+la información disponible en las bases de datos gnomad, dbSNP, LOVD y/o ClinVar, y bases de datos específicas para determin ados 
+genes y la bibliografía disponible al momento del estudio. La interpretación de las variantes detectadas se basa en el conoci miento 
+disponible a la fecha del studio 
+ 
+Limitaciones del estudio: 
+Existen algunos tipos de alteraciones que no pueden ser identificadas mediante esta prueba:  
+-Variantes relevantes en genes o regiones no incluidas en este panel.  
+-Variantes que se encuentren por debajo del umbral de sensibilidad que se ha establecido (10 lecturas).  
+ 
+Nota: 
+-El resultado de este estudio deberá ser siempre interpretado en el contexto de datos clínicos y familiares.  
+Las variantes descriptas en las bases de datos poblacionales clasificadas como o SNPs (Single Nucleotide Polymorphisms) o 
+polimorfismos (MAF o frecuencia del alelo minoritario >=0,01 y/o incluidas en dbSNP, ExAC o 1000 Genomes), no se incluyen en este 
+informe, así como tampoco las variantes benignas o posiblemente ya que, en base al conocimiento actual, no presentan impacto 
+clínico.  No obstante, dicha información puede estar disponible bajo petición médica.  
+ 
+Bases de datos consultadas: 
+HGMD: http://www.hgmd.cf.ac.uk/ac/index.php 
+OMIM: http://www.omim.org/ 
+ClinVar: http://www.ncbi.nlm.nih.gov/clinvar/ 
+LOVD: http://www.lovd.nl/3.0/home 
+BIC: http://research.nhgri.nih.gov/bic 
+COSMIC: http://cancer.sanger.ac.uk/cosmic 
+1000 Genomes: http://browser.1000genomes.org 
+EVS: http://evs.gs.washington.edu/EVS 
+dbSNP: http://www.ncbi.nlm.nih.gov/snp/ 
+dbVar: http://www.ncbi.nlm.nih.gov/dbvar/ 
+ExAC: http://exac.broadinstitute.org 
+VarSome: https://varsome.com 
+IARC TP53: https://p53.iarc.fr/

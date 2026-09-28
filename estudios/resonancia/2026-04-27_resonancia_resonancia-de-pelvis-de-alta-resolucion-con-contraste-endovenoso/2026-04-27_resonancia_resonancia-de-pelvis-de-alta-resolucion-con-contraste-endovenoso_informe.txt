@@ -1,0 +1,22 @@
+Paciente: ADER, MANUEL  Estudio: RESONANCIA DE PELVIS DE ALTA RESOLUCION CON 
+CONTRASTE ENDOVENOSO
+Fecha de Nacimiento: 26/04/2004 Médico Derivante: N/D
+Fecha del Estudio: 27/04/2026 11:28:39 Procedencia: Ambulatorio
+RIS A. N.: 2703596 Número de Pac.: 0002201988
+Estado Informe: Final
+RM DE PELVIS DE ALTA RESOLUCION CON CONTRASTE ENDOVENOSO
+El examen fue realizado con técnica de alta resolución, con un espesor de corte de 3.0mm, 
+utilizando secuencias con ponderación en T2 en los planos axial, coronal y sagital. Se adicionaron 
+secuencias con ponderación T2 de 1.5mm en los planos axial y coronal oblicuos y difusión, con 
+contraste endovenoso.
+Se realizó estudio comparativo con RM previa del 17-4-2026.
+Menor representación de los signos inflamatorios comprometiendo canal anal y planos grasos 
+perianales. Persiste leve edema submucoso en el canal anal entre H12 y H3, menos pronunciado 
+que en el estudio previo.
+No se registran colecciones drenables. 
+Pelvis y regiones inguinales libres de adenomegalias. 
+Resto del estudio sin cambios significativos respecto al estudio previo.  
+Impresión diagnóstica:
+Evolución radiológica favorable del proceso inflamatorio/infeccioso en el conducto anal. 
+ 
+Pág: 1

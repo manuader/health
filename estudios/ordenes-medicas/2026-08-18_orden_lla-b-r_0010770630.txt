@@ -1,0 +1,37 @@
+RFC-MICROSITImpreso por: Hospital Británico – Orden Clinica
+10/09/2026Fecha y Hora de impresión: 10:20:01
+ORDEN CLÍNICA/ Laboratorio Int HB Central
+ADERApellido:
+CME-HEMGUM:
+45683086DNI:22 añosEdad:
+CE-RTMOUT:
+10770630Nro. Orden:
+26/04/2004F.Nac.:
+MANUELNombre:
+18/08/2026Fecha:
+UrgentePrioridad:
+MEDICUSFinanciador:
+CELESTEPlan: EXENTOCond. de I.V.A.:
+10097779003Nro. Afiliado:
+20042/001Cod. Finan:
+Consultar las indicaciones para la realización de los estudios en la página web institucional  
+www.hospitalbritanico.org.ar
+Diagnóstico Presuntivo y Observaciones:
+LLA B R
+           Firma
+CAMILA STEMMELIN
+180814M.N. --    M.P.
+Médico
+Descripción Cantidad
+Acido Urico Serico 1
+LDH - Lactico Dehidrogenasa 1
+Glucosa Serica 1
+Creatinina Serica 1
+Urea Serica 1
+Hepatograma 1
+Hemograma 1
+Calcio Serico 1
+Fosforo Serico 1
+Magnesio Serico 1
+Ionograma 1
+Recuento de plaquetas 1

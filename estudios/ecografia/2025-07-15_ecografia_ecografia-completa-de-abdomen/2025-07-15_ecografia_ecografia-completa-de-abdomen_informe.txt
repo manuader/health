@@ -1,0 +1,15 @@
+Paciente: ADER, MANUEL  Estudio: ECOGRAFIA COMPLETA DE ABDOMEN
+Fecha de Nacimiento: 26/04/2004 Médico Derivante: N/D
+Fecha del Estudio: 15/07/2025 08:44:08 Procedencia: Ambulatorio
+RIS A. N.: 2453991 Número de Pac.: 0002201988
+Estado Informe: Final
+ECOGRAFIA COMPLETA DE ABDOMEN
+Hígado con forma y tamaño adecuados, de ecoestructura conservada.
+Vesícula de paredes finas sin evidencia de macrolitiasis en el interior.
+Vía biliar intra y extra hepáticas no dilatadas.
+Ecoestructura del páncreas sin alteraciones, siendo sus dimensiones normales.
+Ambos riñones con forma, tamaño y ecoestructura conservados.
+Esplenomegalia homogénea, sin evidencia de imágenes focales (172 mm de diámetro 
+longitudinal).
+Aorta abdominal de calibre conservado.
+Pág: 1

@@ -1,0 +1,25 @@
+RFC-MICROSITImpreso por: Hospital Británico – Orden Clinica
+10/09/2026Fecha y Hora de impresión: 10:20:04
+ORDEN CLÍNICA/ Admisión HB Central
+ADERApellido:
+CME-HEMGUM:
+45683086DNI:22 añosEdad:
+CUT-HEMGUT:
+10781933Nro. Orden:
+26/04/2004F.Nac.:
+MANUELNombre:
+15/08/2026Fecha:
+UrgentePrioridad:
+MEDICUSFinanciador:
+CELESTEPlan: GRAVADOCond. de I.V.A.:
+10097779003Nro. Afiliado:
+20042/001Cod. Finan:
+Diagnóstico Presuntivo y Observaciones:
+para transfusion 24 hs
+           Firma
+GONZALO ENGLER
+198987M.N. --    M.P.
+Médico
+Descripción Cantidad
+Orden de Internación en Piso 1
+habitacion individual por neutropenia

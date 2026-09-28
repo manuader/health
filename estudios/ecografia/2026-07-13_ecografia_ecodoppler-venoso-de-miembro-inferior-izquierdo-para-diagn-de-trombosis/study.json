@@ -1,0 +1,66 @@
+{
+  "idReport": "2702314",
+  "idLaboratory": "0013633828",
+  "descripcion": "ECODOPPLER VENOSO DE MIEMBRO INFERIOR IZQUIERDO PARA DIAGN. DE TROMBOSIS",
+  "servicio": "Diagnóstico por Imágenes",
+  "fecha": "2026-07-13",
+  "accession": "0013633828",
+  "study_uid": "1.2.840.113845.11.1000000002152132195.20260713094727.6126337",
+  "study_date": "20260713",
+  "modalidades": "PR\\SR\\US",
+  "procedimiento": "ECODOPPLER VENOSO DE MIEMBRO INFERIOR IZQUIERDO PARA DIAGN. DE TROMBOSIS",
+  "urlViewer": "https://estudios.hbritanico.com.ar/im/#/125/23c859575b141bfbc28d256f12ae7969?fromportal=true",
+  "documentos_visor": [
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "483742334936674E554444746971336B4B6B6A494B773D3D0A"
+    },
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "483742334936674E554444746971336B4B6B6A494B773D3D0A"
+    },
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "483742334936674E554444746971336B4B6B6A494B773D3D0A"
+    }
+  ],
+  "documentos_extra": [],
+  "series": [
+    {
+      "numero": 1,
+      "modalidad": "US",
+      "descripcion": "",
+      "series_uid": "1.2.392.200036.9116.6.20.14623447.9500.20260713132056589.1.4",
+      "instancias": 22,
+      "carpeta": "estudios/ecografia/2026-07-13_ecografia_ecodoppler-venoso-de-miembro-inferior-izquierdo-para-diagn-de-trombosis/dicom/001_us",
+      "descargadas": 22,
+      "errores": 0
+    }
+  ],
+  "dicom_series": 1,
+  "dicom_instancias": 22,
+  "dicom_descargadas": 22,
+  "dicom_completo": true,
+  "dicom_metadata": {
+    "Modality": "US",
+    "StudyDate": "20260713",
+    "StudyTime": "102056",
+    "StudyDescription": "ECODOPPLER VENOSO DE MIEMBRO INFERIOR IZQUIERDO PARA DIAGN. DE TROMBOSIS",
+    "SeriesDescription": "",
+    "SeriesNumber": 1,
+    "InstanceNumber": 3,
+    "Manufacturer": "TOSHIBA_MEC_US",
+    "ManufacturerModelName": "TUS-X100",
+    "BodyPartExamined": "",
+    "ProtocolName": "PV Venous",
+    "Rows": 720,
+    "Columns": 960,
+    "SOPClassUID": "1.2.840.10008.5.1.4.1.1.6.1",
+    "SOPInstanceUID": "1.2.392.200036.9116.6.20.14623447.7724.20260713132323385.3.11",
+    "SeriesInstanceUID": "1.2.392.200036.9116.6.20.14623447.9500.20260713132056589.1.4",
+    "StudyInstanceUID": "1.2.840.113845.11.1000000002152132195.20260713094727.6126337"
+  }
+}

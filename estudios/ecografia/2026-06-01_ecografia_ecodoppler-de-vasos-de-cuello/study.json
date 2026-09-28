@@ -1,0 +1,56 @@
+{
+  "idReport": "2666372",
+  "idLaboratory": "0013423049",
+  "descripcion": "ECODOPPLER DE VASOS DE CUELLO",
+  "servicio": "Diagnóstico por Imágenes",
+  "fecha": "2026-06-01",
+  "accession": "0013423049",
+  "study_uid": "1.2.392.200036.9116.6.20.14623447.1467.20260601131837127.9.2",
+  "study_date": "20260601",
+  "modalidades": "SR\\US",
+  "procedimiento": "ECODOPPLER DE VASOS DE CUELLO",
+  "urlViewer": "https://estudios.hbritanico.com.ar/im/#/125/1bf0ac938f3525f4ef1de6a5fef3bd3d?fromportal=true",
+  "documentos_visor": [
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "67536F644A4B644E6A2B71356C5848652F6F32644D773D3D0A"
+    }
+  ],
+  "documentos_extra": [],
+  "series": [
+    {
+      "numero": 1,
+      "modalidad": "US",
+      "descripcion": "",
+      "series_uid": "1.2.392.200036.9116.6.20.14623447.9500.20260601131837134.1.4",
+      "instancias": 1,
+      "carpeta": "estudios/ecografia/2026-06-01_ecografia_ecodoppler-de-vasos-de-cuello/dicom/001_us",
+      "descargadas": 1,
+      "errores": 0
+    }
+  ],
+  "dicom_series": 1,
+  "dicom_instancias": 1,
+  "dicom_descargadas": 1,
+  "dicom_completo": true,
+  "dicom_metadata": {
+    "Modality": "US",
+    "StudyDate": "20260601",
+    "StudyTime": "101837",
+    "StudyDescription": "ECODOPPLER DE VASOS DE CUELLO",
+    "SeriesDescription": "",
+    "SeriesNumber": 1,
+    "InstanceNumber": 1,
+    "Manufacturer": "TOSHIBA_MEC_US",
+    "ManufacturerModelName": "TUS-X100",
+    "BodyPartExamined": "",
+    "ProtocolName": "Abdomen",
+    "Rows": 720,
+    "Columns": 960,
+    "SOPClassUID": "1.2.840.10008.5.1.4.1.1.6.1",
+    "SOPInstanceUID": "1.2.392.200036.9116.6.20.14623447.1467.20260601132115807.9.7",
+    "SeriesInstanceUID": "1.2.392.200036.9116.6.20.14623447.9500.20260601131837134.1.4",
+    "StudyInstanceUID": "1.2.392.200036.9116.6.20.14623447.1467.20260601131837127.9.2"
+  }
+}

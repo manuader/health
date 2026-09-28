@@ -1,0 +1,1 @@
+(sin texto extraíble: el PDF es una imagen escaneada; usar OCR, p.ej. `ocrmypdf`)

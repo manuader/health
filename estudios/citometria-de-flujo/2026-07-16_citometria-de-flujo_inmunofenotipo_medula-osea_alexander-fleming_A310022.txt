@@ -1,0 +1,50 @@
+Nombre: ADER MANUEL     Protocolo: A310022 
+Fecha protocolo: 16/07/2026                  
+Solicitado por: --  
+ 
+INMUNOFENOTIPIFICACION 
+        MATERIAL 
+     Médula ósea. 
+        METODOLOGIA 
+     Se utilizó un panel de anticuerpos monoclonales conjugados en forma directa 
+con fluoresceína(FITC), ficoeritrina(PE),proteína peridinclorofílica(PerCP), (PerCP 
+Cy5.5) y aloficocianina (APC), tándem APC-H7, tándem PECy7, horizon V450 y V500. 
+     La adquisición y análisis de los resultados fue realizada con un citómetro de 
+flujo FACScantoII utilizando los software FacsDIVA e Infinicyt. 
+        RESULTADOS 
+     De acuerdo con su fenotipo de membrana, tamaño y complejidad relativos es 
+posible identificar: 
+    * Linfocitos Totales: 3.6 % 
+    * Plasmocitos: < 0.1 % 
+    * Monocitos: 0.4 %      * Células dendríticas: < 0.1 %                                             
+    * Gr. neutrófilos: 49.9 % 
+    * Gr. eosinófilos: < 0.1 % 
+    * Gr. basófilos: < 0.1 %  
+    * Células CD117+/CD34(-): 1.8 %                  
+    * Eritrocitos nucleados: 38.5 %  
+ 
+CELULAS PATOLOGICAS      
+     *5.8% blastos mieloides de tamaño mediano CD45+, CD34-/+, HLA-DR++, CD117+, 
+CD38++, CD13++, CD16(-), CD11b(-), CD10(-), CD71+, CD64(-), CD14(-), CD36(-), CD105(-
+), CD33+, CD15-/+d, CD56(-), CD7-/+(37%). 
+ 
+ OBSERVACIONES 
+ *Gr. Neutrófilos marcados rasgos dishemopoyéticos en los patrones de 
+maduración CD13/CD16/CD11b/CD35/CD10. 
+       *Escasos monocitos muy escasos sin alteraciones fenotípicas. 
+       *Serie eritroide aumentada con expresión heterogénea de CD36 y CD71. 
+ 
+        CONCLUSIONES 
+ Presencia de blastos mieloides similares a los antecedentes (5.8%) con 
+marcados signos displásicos en línea gr. Neutrófilo y serie eritroide. Para llegar a 
+una conclusión diagnóstica definitiva es necesario correlacionar estos resultados con 
+la presentación clínica y restantes estudios complementarios. 
+    
+                
+Laboratorio de Citometría de Flujo 
+Bioq. a cargo: Dra. Andrea Novoa 
+Crámer 1180 - Tel:(54-11) 3221-8900 int 8029 
+citometria@alexanderfleming.org 
+       Dra. Paula Tempra 
+              Bioquímica  
+                MN 9824

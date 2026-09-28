@@ -1,0 +1,286 @@
+Jefe de Laboratorio: Bioq. Muryan Alexis MN: 6911 
+LABORATORIO CENTRAL 
+HOSPITAL BRITANICO 
+Valores de Referencia Resultados Unidades 
+OP 
+Solicitado por 
+Protocolo N° 
+Episodio/Movim. Paciente 
+:
+:
+:
+13480512 
+ADER, MANUEL 
+QUARCHIONI, MICAELA ANDREA 
+Fecha Recepción:
+:
+01/12/25 09:13 
+0043778096^0001 
+:0002201988 Historia Clínica DNI Fecha de nacimiento :: 45683086 26/04/2004 
+HEMATOLOGIA 
+3.6 4.0 - 10.0 10^3/µL
+Tipo de muestra: Sangre entera con EDTA
+Hemograma
+     Método: Citometría de flujo fluorescente
+   Recuento de Glóbulos Blancos 10^3/µL
+3.0 4.5 - 5.5 10^6/µL
+     Método: Corriente directa y enfoque hidrodinámico
+   Recuento de Glóbulos Rojos 10^6/µL
+10.2 13.0 - 17.0 g/dL
+     Método: SLS libre de cianuro
+   Hemoglobina g/dL
+29 40 - 50 %
+     Método: Corriente directa y enfoque hidrodinámico
+   Hematocrito %
+96 83 - 101 fl   V.C.M. fl
+34 27 - 32 pg   H.C.M. pg
+35 31 - 36 g/dL   C.H.C.M. g/dL
+15.7 11.6 - 14.0 %   R.D.W.
+   Fórmula Leucocitaria Porcentual
+%
+72.8 40 - 80 %
+     Método: Citometría de flujo fluorescente
+   Neutrófilos %
+4.7 1 - 6 %
+     Método: Citometría de flujo fluorescente
+   Eosinófilos %
+0.3 0.0 - 2.0 %
+     Método: Citometría de flujo fluorescente
+   Basófilos %
+12.2 20 - 40 %
+     Método: Citometría de flujo fluorescente
+   Linfocitos %
+10.0 2 - 10 %
+     Método: Citometría de flujo fluorescente
+   Monocitos
+   Formula Leucocitaria Absoluta
+%
+2.6 2.0 - 7.0 10^3/µL   Rto absoluto de Neutrófilos 10^3/µL
+0.2 0.0 - 0.5 10^3/µL   Rto absoluto de Eosinófilos 10^3/µL
+0.0 0,0 - 0,1 10^3/µL   Rto absoluto de Basófilos 10^3/µL
+El Hospital Británico, fundado en 1844,  
+es una asociación civil sin fines de lucro. 
+www.hospitalbritanico.org.ar 
+(5411) 4309-6400 
+C1280AEB. Buenos Aires. 
+Perdriel 74. 
+Página 1 de 5 
+Se utiliza el punto (.) como separador de decimales
+
+Jefe de Laboratorio: Bioq. Muryan Alexis MN: 6911 
+LABORATORIO CENTRAL 
+HOSPITAL BRITANICO 
+Valores de Referencia Resultados Unidades 
+OP 
+Solicitado por 
+Protocolo N° 
+Episodio/Movim. Paciente 
+:
+:
+:
+13480512 
+ADER, MANUEL 
+QUARCHIONI, MICAELA ANDREA 
+Fecha Recepción:
+:
+01/12/25 09:13 
+0043778096^0001 
+:0002201988 Historia Clínica DNI Fecha de nacimiento :: 45683086 26/04/2004 
+HEMATOLOGIA 
+0.4 1.0 - 3.0 10^3/µL   Rto absoluto de Linfocitos 10^3/µL
+0.4 0.2 - 1.0 10^3/µL   Rto absoluto de Monocitos 10^3/µL
+73000 150000 - 410000 /µL
+Método: Corriente directa y enfoque hidrodinámico
+Recuento de plaquetas /µL
+QUIMICA CLINICA 
+141 136 - 145 mEq/L
+Método: ISE indirecto
+Sodio plasmático mEq/L
+4.4 3.5 - 5.1 mEq/L
+Método: ISE indirecto
+Potasio plasmático mEq/L
+104 55 - 100 mg/dL
+Método: Hexoquinasa
+Glucosa plasmática mg/dL
+58 13 - 43 mg/dL
+Método: Ureasa.
+Urea plasmática mg/dL
+A partir de Septiembre 2023 se ha modificado la metodología empleada y el intervalo de referencia
+1.03 0.73 - 1.18 mg/dL
+Método: Enzimático
+Creatinina plasmática mg/dL
+El Hospital Británico, fundado en 1844,  
+es una asociación civil sin fines de lucro. 
+www.hospitalbritanico.org.ar 
+(5411) 4309-6400 
+C1280AEB. Buenos Aires. 
+Perdriel 74. 
+Página 2 de 5 
+Se utiliza el punto (.) como separador de decimales
+
+Jefe de Laboratorio: Bioq. Muryan Alexis MN: 6911 
+LABORATORIO CENTRAL 
+HOSPITAL BRITANICO 
+Valores de Referencia Resultados Unidades 
+OP 
+Solicitado por 
+Protocolo N° 
+Episodio/Movim. Paciente 
+:
+:
+:
+13480512 
+ADER, MANUEL 
+QUARCHIONI, MICAELA ANDREA 
+Fecha Recepción:
+:
+01/12/25 09:13 
+0043778096^0001 
+:0002201988 Historia Clínica DNI Fecha de nacimiento :: 45683086 26/04/2004 
+QUIMICA CLINICA 
+106 Mayor a 90 ml/min.
+60-89 ml/min: filtrado glomerular
+levemente disminuido.
+30-59 ml/min: filtrado glomerular
+moderadamente disminuido.
+15-29 ml/min: filtrado glomerular
+severamente disminuido.
+Menor a 15 ml/min: insuficiencia renal
+terminal.
+Método: Fórmula CKD-EPI
+Tasa de filtrado glomerular estimado
+   Tasa de filtrado glomerular estimado
+   La tasa de filtrado glomerular estimada no puede ser utilizada en pacientes: Menores de 18 años o mayores
+de 70 años, embarazadas, amputados, BMI menor a 18 o mayor a 40, dietas especiales, medicación nefrotóxica,
+pacientes con síndrome nefrótico.
+mL/min/1.73 m^2
+7.0 3.7 - 7.7 mg/dL
+Método: Uricasa
+Acido Urico plasmático mg/dL
+9.3 8.4 - 10.2 mg/dL
+Método: Arsenazo III
+Calcio plasmático mg/dL
+4.6 2.3 - 4.7 mg/dL
+Método: Fosfomolibdato
+Fósforo plasmático mg/dL
+1.6 1.6 - 2.6 mg/dL
+Método: Enzimático
+Magnesio plasmático mg/dL
+201 125 - 220 U/L
+Método: Lactato a piruvato
+L.D.H. / Lactato deshidrogenasa plasmática U/L
+A partir del 12 de Junio de 2026 la muestra utilizada es suero.
+ Hepatograma 
+222 Menor a 200 mg/dL
+Método: Enzimático
+Colesterol Total plasmático mg/dL
+El Hospital Británico, fundado en 1844,  
+es una asociación civil sin fines de lucro. 
+www.hospitalbritanico.org.ar 
+(5411) 4309-6400 
+C1280AEB. Buenos Aires. 
+Perdriel 74. 
+Página 3 de 5 
+Se utiliza el punto (.) como separador de decimales
+
+Jefe de Laboratorio: Bioq. Muryan Alexis MN: 6911 
+LABORATORIO CENTRAL 
+HOSPITAL BRITANICO 
+Valores de Referencia Resultados Unidades 
+OP 
+Solicitado por 
+Protocolo N° 
+Episodio/Movim. Paciente 
+:
+:
+:
+13480512 
+ADER, MANUEL 
+QUARCHIONI, MICAELA ANDREA 
+Fecha Recepción:
+:
+01/12/25 09:13 
+0043778096^0001 
+:0002201988 Historia Clínica DNI Fecha de nacimiento :: 45683086 26/04/2004 
+QUIMICA CLINICA 
+ Hepatograma 
+25 5 - 34 U/L
+Método: NADH sin piridoxal
+A.S.T. / Aspartato aminotransferasa
+plasmática
+U/L
+33 Menor a 55 U/L
+Método: NADH sin piridoxal
+A.L.T. / Alanina aminotransferasa plasmática U/L
+0.5 0.2 - 1.2 mg/dL
+Método: Sal de diazonio
+Bilirrubina Total plasmática mg/dL
+59 40 - 150 U/L
+Método: Para-nitrofenil fosfato
+Fosfatasa Alcalina plasmática U/L
+BIOLOGIA MOLECULAR 
+ Cargas Virales 
+Menor a 1000 Límite de detección: 100 UI/ml
+Límite de cuantificación: 1000 UI/ml
+Método: PCR real time
+Citomegalovirus - Carga Viral
+   Citomegalovirus, Carga Viral UI/mL
+A partir del mes de Mayo 2022 se han modificado las unidades.
+Menor a 3   Citomegalovirus, Carga Viral (Log)
+Menor a 1000 Límite de detección: 100 UI/ml
+Límite de cuantificación: 1000 UI/ml
+Método: PCR real time
+Epstein Barr- Carga Viral
+   Epstein Barr Virus, Carga viral UI/mL
+A partir del mes de Mayo 2022 se han modifcado las unidades.
+Menor a 3   Epstein Barr Virus, Carga viral (Log)
+Menor a 1000 Límite de detección: 100 copias/ml
+Límite de cuantificación: 1000 copias/ml
+Método: Real Time PCR
+Adenovirus - Carga Viral
+   Adenovirus, Carga viral Copias/mL
+Menor a 3   Adenovirus, Carga viral (Log)
+El Hospital Británico, fundado en 1844,  
+es una asociación civil sin fines de lucro. 
+www.hospitalbritanico.org.ar 
+(5411) 4309-6400 
+C1280AEB. Buenos Aires. 
+Perdriel 74. 
+Página 4 de 5 
+Se utiliza el punto (.) como separador de decimales
+
+Jefe de Laboratorio: Bioq. Muryan Alexis MN: 6911 
+LABORATORIO CENTRAL 
+HOSPITAL BRITANICO 
+Valores de Referencia Resultados Unidades 
+OP 
+Solicitado por 
+Protocolo N° 
+Episodio/Movim. Paciente 
+:
+:
+:
+13480512 
+ADER, MANUEL 
+QUARCHIONI, MICAELA ANDREA 
+Fecha Recepción:
+:
+01/12/25 09:13 
+0043778096^0001 
+:0002201988 Historia Clínica DNI Fecha de nacimiento :: 45683086 26/04/2004 
+DROGAS 
+ Dosaje de Drogas 
+254.20 90.00 - 320.00 ng/ml
+Método: EQLIA
+Ciclosporina en sangre entera ng/mL
+Fecha de impresión: 10/09/2026 10:24 A partir de Agosto 2025 se ha modificado la expresión de ciertas unidades para adecuarlas al 
+idioma castellano, sin verse afectados los resultados informados. 
+El Hospital Británico, fundado en 1844,  
+es una asociación civil sin fines de lucro. 
+www.hospitalbritanico.org.ar 
+(5411) 4309-6400 
+C1280AEB. Buenos Aires. 
+Perdriel 74. 
+Página 5 de 5 
+Este informe fue validado electronicamente por nuest ros profesionales 
+Se utiliza el punto (.) como separador de decimales

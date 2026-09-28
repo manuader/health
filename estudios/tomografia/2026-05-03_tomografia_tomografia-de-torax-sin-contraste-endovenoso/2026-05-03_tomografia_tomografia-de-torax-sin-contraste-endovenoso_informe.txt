@@ -1,0 +1,45 @@
+Paciente: ADER, MANUEL  Estudio: TOMOGRAFIA DE TORAX SIN CONTRASTE ENDOVENOSO
+Fecha de Nacimiento: 26/04/2004 Médico Derivante: N/D
+Fecha del Estudio: 03/05/2026 08:48:39 Procedencia: Ambulatorio
+RIS A. N.: 2708794 Número de Pac.: 0002201988
+Estado Informe: Final
+TOMOGRAFÍA DE SENOS PARANASALES SIN CONTRASTE ENDOVENOSO
+TOMOGRAFÍA DE TÓRAX SIN CONTRASTE ENDOVENOSO
+ 
+ 
+Técnica: Se efectuó tomografía computada multi-slice de senos paranasales y tórax sin contraste 
+endovenoso, mediante una adquisición volumétrica en el plano axial y posteriores 
+reconstrucciones multiplanares.
+ 
+Se tuvo en consideración 07/04/2026
+Hallazgos:
+ 
+SENOS PARANASALES
+Persiste sin cambios la ocupación parcial aisladas de las celdillas etmoidales. Actualmente se 
+observa engrosamiento mucoso perimetral a nivel del seno maxilar izquierdo y de manera sutil en
+seno maxilar derecho y esfenoidal izquierdo.
+Resto de senos paranasales libres. 
+Complejos ostiomeatal derecho permeable, el del lado izquierdo se encuentra obliterado.
+Configuración sinuosa del tabique nasal con componente predominante levoconvexo en el tercio 
+medio-anterior, asociado a espolón óseo homolateral. 
+Cajas timpánicas y celdillas mastoideas adecuadamente neumatizadas, sin ocupación significativa 
+a consignar.
+  
+TÓRAX
+No se evidencian opacidades nodulares, ni procesos de consolidación parenquimatosa.
+El árbol tráqueo bronquial principal es de calibre y permeabilidad conservado.
+No se observan adenomegalias en mediastino ni en regiones axilares.
+No se constata derrame pleural ni pericárdico.
+Está conservado el calibre de los grandes vasos mediastínicos.
+Port-a-cath con extremo en vena braquiocefálica izquierda.
+Pág: 1
+
+Impresión diagnostica:
+ 
+- Actualmente se observa engrosamiento mucoso perimetral a nivel del seno maxilar izquierdo y 
+de manera sutil en seno maxilar derecho y esfenoidal izquierdo.
+-Port-a-cath con extremo en vena braquiocefálica izquierda.
+-Resto sin cambios significativos con respecto al estudio de referencia.
+ 
+ 
+Pág: 2

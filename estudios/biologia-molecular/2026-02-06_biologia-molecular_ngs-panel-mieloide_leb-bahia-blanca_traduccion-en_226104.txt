@@ -1,0 +1,187 @@
+LABORATORIO DE ESPECIALIDADES BIOQUÍMICAS
+[Specialized Biochemistry Laboratory]
+Lamadrid 405 (8000)  |  Bahía Blanca  |  Phone: (+54) 291-4510427 / 4517826
+info@leblaboratorio.com.ar  |  www.leblaboratorio.com.ar
+ 
+ [Translation from Spanish into English — for informational reference]
+PATIENT:
+ADER, MANUEL
+Patient National ID No.:
+45683086
+Age:
+21 years
+Date of birth:
+April 26, 2004
+Gender:
+Male
+Accession Number:
+226104
+Date:
+February 6, 2026, 08:52
+Origin:
+Hospital Británico
+Physician:
+Yelitze Choque Ayllón
+NEXT-GENERATION SEQUENCING. MYELOID PANEL.
+Sample: Bone marrow.
+Clinical information / Provisional diagnosis: Acute myeloid leukemia (AML). Early relapse post
+allogeneic hematopoietic stem cell transplantation (allo-HSCT).
+Method: Community Myeloid Solution v2 (MYS2). Target capture technology.
+RESULTS:
+VARIANTS WITH POTENTIAL CLINICAL SIGNIFICANCE:
+ Gene (OMIM)
+ Transcript
+ Variants
+ Genomic position
+ Type of Variant
+ Exon
+ VAF
+Depth
+ dbSNP
+COSMIC
+ WT1
+(607102)
+NM_024426.6
+ c.1157C>A
+p.(Ser386*)
+ chr11:32417910
+ hg38
+ Nonsense
+ Exon 7
+ 32.28%
+ 1721
+ —
+COSV60065297
+ FLT3
+(136351)
+NM_004119.3
+ c.1790_1828dup
+p.(Tyr597_Asn609dup)
+ chr13:28608228
+ hg38
+ Inframe
+Exon 14
+ 13.97%
+ 1171
+ —
+—
+ BLM
+(210900)
+NM_000057.4
+ c.1544dup
+p.(Asn515Lysfs*2)
+ chr15:91304139
+ hg38
+ Frameshift
+ Exon 7
+ 6.36%
+ 1550
+ rs367543043
+COSV61921500
+FUSION GENES:
+ No fusion genes were detected.
+ADDITIONAL GENOMIC VARIATIONS:
+ Copy Number Variations (CNVs) were not detected in the evaluated genes.
+INTERPRETATION:
+Pathogenic sequence variants were detected in the WT1, FLT3, and BLM genes.
+The WT1 gene (11p13) encodes a zinc-finger-type transcription factor involved in cellular development
+and differentiation. Mutations in the WT1 gene are found in 7–13% of AML cases and have been
+associated with an adverse prognosis in some reported series. This variant had been previously detected
+(April 8, 2025) in a bone marrow sample obtained prior to hematopoietic stem cell transplantation.
+The FLT3 gene (13q12.2) encodes a transmembrane receptor tyrosine kinase that participates in the
+differentiation, proliferation, and survival of hematopoietic precursor cells. The detected variant affects the
+juxtamembrane domain of the protein and corresponds to a 39-bp internal tandem duplication (ITD). The
+presence of FLT3-ITD has been reported in 32–39% of patients with acute myeloid leukemia (AML) and in
+
+up to 2% of cases of myelodysplastic syndrome (MDS). In AML patients, FLT3 gene mutations represent a
+therapeutic target.
+The presence of FLT3-ITD in AML patients is associated with intermediate risk (2022 ELN AML
+Recommendations).
+The BLM gene (15q26.1) encodes the BLM protein, a member of the RecQ DNA helicase family. It
+functions as a genomic stabilizer and is involved in the regulation of DNA replication and recombination, as
+well as in the homologous and non-homologous double-strand break repair pathways. Somatic BLM
+mutations have been reported in various types of neoplasms, with a low frequency in AML (1–2%) and a
+prognostic significance that is currently uncertain.
+Based on current knowledge, no pathogenic variants have been detected in the remaining analyzed
+genes, nor has the presence of fusion genes been identified.
+Correlation of these results with the clinical presentation and other complementary studies is suggested.
+REFERENCES:
+ 1. Khoury, J.D.; Solary, E.; Abla, O.; Akkari, Y.; Alaggio, R.; Apperley, J.F.; Bejar, R.; Berti, E.; Busque, L.; Chan, J.K.C.; et al.
+The 5th Edition of the World Health Organization Classification of Haematolymphoid Tumours: Myeloid and Histiocytic/Dendritic
+Neoplasms. Leukemia 2022, 36, 1703–1719.
+2. Döhner H, Wei AH, Appelbaum FR, Craddock C, DiNardo CD, Dombret H, Ebert BL, Fenaux P, Godley LA, Hasserjian RP,
+Larson RA, Levine RL, Miyazaki Y, Niederwieser D, Ossenkoppele GJ, Röllig C, Sierra J, Stein EM, Tallman MS, Tien HF, Wang
+J, Wierzbowska A, Löwenberg B. Diagnosis and Management of AML in Adults: 2022 ELN Recommendations from an
+International Expert Panel. Blood. 2022 Jul 7:blood.2022016867. doi: 10.1182/blood.2022016867. Epub ahead of print. PMID:
+35797463.
+3. Arber, Daniel A et al. “International Consensus Classification of Myeloid Neoplasms and Acute Leukemias: integrating
+morphologic, clinical, and genomic data.” Blood vol. 140,11 (2022): 1200–1228. doi:10.1182/blood.2022015850.
+4. Papaemmanuil E, Gerstung M, Bullinger L, Gaidzik VI, Paschka P, Roberts ND, Potter NE, Heuser M, Thol F, Bolli N, Gundem
+G, Van Loo P, Martincorena I, Ganly P, Mudie L, McLaren S, O’Meara S, Raine K, Jones DR, Teague JW, Butler AP, Greaves
+MF, Ganser A, Döhner K, Schlenk RF, Döhner H, Campbell PJ. Genomic Classification and Prognosis in Acute Myeloid
+Leukemia. N Engl J Med. 2016 Jun 9;374(23):2209–2221. doi: 10.1056/NEJMoa1516192. PMID: 27276561; PMCID:
+PMC4979995.
+
+COVERAGE AND VARIANT CALLING:
+The panel can detect: SNVs, Indels, CNVs, FLT3-ITD, KMT2A-PTD, and fusion genes.
+The analysis strategy used for fusion gene detection allows identification of all rearrangements involving
+any of the genes listed below (section B), including rare fusions or those with unknown partner genes.
+The detection of copy number variations (CNVs) in the studied genes allows inference of certain numerical
+and structural chromosomal alterations, particularly: +8, +9, +19, −5, −7, −13, del(5q), del(7q), del(11q),
+del(12p), del(13q), del(17p), del(20q).
+A) Panel of analyzed genes, including the complete coding sequences (CDS) of 94 genes:
+ ABL1, ANKRD26, ASXL1, ASXL2, ATM, ATRX, BCOR, BCORL1, BLM, BRAF, CALR, CBL, CBLB, CBLC, CCND2,
+CDKN2A, CEBPA, CHEK2, CREBBP, CSF3R, CSNK1A1, CTCF, CUX1, DDX41, DHX15, DNMT3A, ELANE, ETNK1,
+ETV6, EZH2, FBXW7, FLT3, GATA1, GATA2, GNAS, GNB1, HRAS, IDH1, IDH2, IKZF1, IL7R, JAK1, JAK2, JAK3,
+KDM6A, KIT, KMT2A, KMT2D, KRAS, LUC7L2, MPL, MSH2, MYC, MYD88, NF1, NOTCH1, NOTCH2, NPM1, NRAS,
+PAX5, PDGFRA, PHF6, PIGA, PML, PPM1D, PRPF8, PTEN, PTPN11, RAD21, RB1, RBBP6, RUNX1, SAMD9, SAMD9L,
+SBDS, SETBP1, SF3B1, SH2B3, SMC1A, SMC3, SRP72, SRSF2, STAG1, STAG2, STAT3, STAT5B, TERT, TET2,
+TP53, U2AF1, U2AF2, UBA1, WT1, ZRSR2.
+B) Detection of fusions involving the following genes:
+ ABL1 (1, 2, 3), BCL9 (8, 9), BCR (1, 13, 14, 15, 19), CBFB (5), DEK (2, 9), EP300 (6), ETV6 (4, 5), FGFR1 (7, 8, 9, 10),
+FIP1L1 (10, 11, 12, 13), JAK2 (8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19), KAT6A (15, 16), KMT2A (6, 7, 8, 9, 10, 11, 12,
+21, 22, 23), MEF2D (5, 6, 7), MYH11 (28, 29, 30, 31, 32), NUP214 (6, 16, 17), NUP98 (10, 11, 12, 13), PCM1 (24, 25, 26,
+28, 36), PDGFRA (11, 12) [12], PDGFRB (9, 10, 11), PICALM (16, 17, 18), PML (3, 5, 6) [6], RARA (2), RUNX1 (6),
+RUNX1T1 (1), SET (7), TAL1 (1, 2, 3), TCF3 (13, 14, 15, 16, 17), ZNF384 (2).
+*(introns) [exons]
+Methodology:
+ 1. Extraction and purification of genomic DNA from the submitted sample.
+2. DNA library preparation by PCR, using the Community Myeloid v2 solution (MYS2, SOPHiA).
+3. Hybridization with probes (MYS2 SOPHiA) targeting the regions of interest and capture thereof.
+4. Clonal amplification and massive parallel sequencing of the selected regions on the NextSeq 2000
+platform (Illumina).
+5. Bioinformatic analysis of the obtained DNA sequence and of the fusion genes by comparison with
+the reference nucleotide sequence (GRCh38).
+DNA sequence variants with a variant allele frequency (VAF) > 2%, with at least 25× coverage of the
+alternative allele and a minimum vertical coverage of 300×, are reported.
+6. Variants are filtered using the Sophia DDM software.
+7. The clinical significance of variants is determined according to the updated ACMG guidelines (PMID:
+25741868), ESMO and ASCO criteria, the information available in the gnomAD, dbSNP, LOVD, and/or
+ClinVar databases, gene-specific databases, and the literature available at the time of the study. The
+interpretation of detected variants is based on the knowledge available at the date of the study.
+Study limitations:
+There are certain types of alterations that cannot be identified by this test:
+ — Relevant variants in genes or regions not included in this panel.
+— Variants below the established sensitivity threshold (10 reads).
+Note:
+ — The result of this study must always be interpreted in the context of clinical and family data.
+Variants described in population databases and classified as SNPs (Single Nucleotide Polymorphisms) or
+polymorphisms (MAF — minor allele frequency — ≥ 0.01 and/or included in dbSNP, ExAC, or 1000
+Genomes) are not included in this report, nor are benign or likely benign variants, as, based on current
+
+knowledge, they have no clinical impact. However, such information may be available upon medical
+request.
+Databases consulted:
+HGMD: http://www.hgmd.cf.ac.uk/ac/index.php    OMIM: http://www.omim.org/    ClinVar:
+http://www.ncbi.nlm.nih.gov/clinvar/    LOVD: http://www.lovd.nl/3.0/home    BIC: http://research.nhgri.nih.gov/bic   
+COSMIC: http://cancer.sanger.ac.uk/cosmic    1000 Genomes: http://browser.1000genomes.org    EVS:
+http://evs.gs.washington.edu/EVS    dbSNP: http://www.ncbi.nlm.nih.gov/snp/    dbVar: http://www.ncbi.nlm.nih.gov/dbvar/
+   ExAC: http://exac.broadinstitute.org    VarSome: https://varsome.com    IARC TP53: https://p53.iarc.fr/
+ [Signature]
+ [Signature]
+ Dra. Evangelina Agriello
+ Dra. Andrea Bender
+ Biochemist
+ Biochemist
+ Provincial License No. 4306
+ Provincial License No. 7491

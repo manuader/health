@@ -1,0 +1,47 @@
+Nombre: ADER MANUEL  
+Protocolo: A303661 
+Fecha protocolo: 26/05/2026 
+                  INMUNOFENOTIPIFICACION 
+ MATERIAL 
+ Médula ósea. 
+ METODOLOGIA 
+ Se utilizó un panel de anticuerpos monoclonales conjugados en forma 
+directa 
+con fluoresceína(FITC), ficoeritrina(PE),proteína 
+peridinclorofílica(PerCP), (PerCP 
+Cy5.5) y aloficocianina (APC), tándem APC-H7, tándem PECy7, horizon 
+V450 y V500. 
+ La adquisición y análisis de los resultados fue realizada con un 
+citómetro de 
+flujo FACScantoII utilizando los software FacsDIVA e Infinicyt. 
+ RESULTADOS 
+ De acuerdo con su fenotipo de membrana, tamaño y complejidad 
+relativos es 
+posible identificar: 
+ * Linfocitos Totales: 3,7 % 
+ * Plasmocitos: < 0,1 % 
+ * Monocitos: 0,2 % * Células dendríticas: < 0,1 % 
+ * Gr. neutrófilos: 11,1 % 
+ * Gr. eosinófilos: 0,2 % 
+ * Células CD34+: nd 
+ * Eritrocitos nucleados: 84,7 % 
+OBSERVACIONES 
+Gr. neutrófilos con bloqueo madurativo. 
+Serie eritroide muy aumentada con expresión heterogénea de CD71. 
+La valoración de la muestra se halla limitada por baja viabilidad. El 
+55% de lo cuantificado corresponde a eventos no viables y/o detritus. 
+Los porcentajes 
+obtenidos podrían no representar el verdadero status medular y se 
+ofrecen sólo 
+con carácter orientativo. 
+ CONCLUSIONES 
+No se observa evidencia de elementos identificables como blastos en 
+esta muestra y por esta metodología. Presencia de una marcada 
+expansión de la serie eritroide en concurrencia con rasgos displásicos 
+en gr. neutrófilos. Para llegar a una conclusión diagnóstica 
+definitiva es necesario correlacionar estos resultados con 
+la presentación clínica y restantes estudios complementarios. 
+ NOTA 
+Los porcentajes de los elementos genuinamente medulares pueden 
+encontrase subestimados debidos a dilución con sangre periférica. Esta 
+subestimación suele ser especialmente acentuada en plasmocitos.

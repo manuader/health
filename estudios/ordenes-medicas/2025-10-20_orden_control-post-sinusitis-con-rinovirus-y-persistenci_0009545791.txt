@@ -1,0 +1,25 @@
+RFC-MICROSITImpreso por: Hospital Británico – Orden Clinica
+10/09/2026Fecha y Hora de impresión: 10:17:57
+ORDEN CLÍNICA/ Tomografía HB Central
+ADERApellido:
+CME-HEMGUM:
+45683086DNI:22 añosEdad:
+CUT-HEMGUT:
+9545791Nro. Orden:
+26/04/2004F.Nac.:
+MANUELNombre:
+20/10/2025Fecha:
+A la BrevedadPrioridad:
+MEDICUSFinanciador:
+CELESTEPlan: EXENTOCond. de I.V.A.:
+10097779003Nro. Afiliado:
+20042/001Cod. Finan:
+Diagnóstico Presuntivo y Observaciones:
+control post sinusitis con rinovirus y persistencia de smts
+           Firma
+MICAELA ANDREA QUARCHIONI
+144938M.N. --    M.P.
+Médico
+Descripción Cantidad
+TOMOGRAFIA DE TORAX SIN CONTRASTE ENDOVENOSO 1
+TOMOGRAFIA DE SENOS PARANASALES SIN CONTRASTE ENDOVENOSO 1

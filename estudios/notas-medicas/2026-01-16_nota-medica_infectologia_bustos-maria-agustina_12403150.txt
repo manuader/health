@@ -1,0 +1,17 @@
+16/01/2026Fecha:
+MANUEL ADERNombre y Apellido:
+MEDICUSAseguradora:
+10097779003N. Afiliado: CELESTEPlan:
+10012403150 N°:
+Datos del Paciente
+45683086D.N.I.:
+BUSTOS MARIA AGUSTINAResponsable:
+MN144152Matrícula:
+InfectologiaEspecialidad:
+Notas:
+INFECTOLOGIA
+Masculino 21 años
+-Trasplante alogénico haploidéntico de progenitores hematopoyéticos (3/09/25) por SMD.
+Profilaxis: ACV / TMS / LETERMOVIR / POSACONAZOL (ultimo dosaje 15/12/25: 400)
+IC en día +105 postrasplante con neumonia con rescate de ADENOVIRUS y RHINOVIRUS. Recibió CIDOFOVIR (12/12, 15/12 y 17/12)y CRO.
+PLAN: Solictitamos CD4 para reevaluar profilaxis y dosaje de posaconazol post ajustes en toma de medicacion dado que el ultimo valor es subóptimo.

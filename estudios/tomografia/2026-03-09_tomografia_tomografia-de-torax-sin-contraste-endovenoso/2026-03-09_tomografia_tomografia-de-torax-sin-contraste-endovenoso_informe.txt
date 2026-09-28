@@ -1,0 +1,36 @@
+Paciente: ADER, MANUEL  Estudio: TOMOGRAFIA DE TORAX SIN CONTRASTE ENDOVENOSO
+Fecha de Nacimiento: 26/04/2004 Médico Derivante: N/D
+Fecha del Estudio: 09/03/2026 09:23:38 Procedencia: Ambulatorio
+RIS A. N.: 2659447 Número de Pac.: 0002201988
+Estado Informe: Final
+TOMOGRAFIA DE        SENOS PARANASALES Y TORAX SIN CONTRASTE ENDOVENOSO
+Técnica: Se realizó tomografía multislice de tórax y senos paranasales sin contraste con cortes 
+finos de alta resolución para mejor valoración del parénquima pulmonar.
+Hallazgos:
+Se realizó estudio comparativo con TC del día 10/12/2025.
+ 
+SENOS PARANASALES
+ 
+Senos paranasales libres.  
+Complejos ostiomeatales permeables. 
+Leve desviación sinuosa del tabique nasal, con componente predominante levoconvexo en el 
+tercio medio-anterior, asociado a espolón óseo homolateral.
+Cajas timpánicas y celdillas mastoideas libres. 
+Cavum sin particularidades.
+ 
+ 
+TORAX
+ 
+No se evidencian opacidades nodulares, ni procesos de consolidación parenquimatosa actual. 
+El árbol tráqueo bronquial principal es de calibre y permeabilidad conservado.
+No se observan adenomegalias en mediastino ni en regiones axilares.
+Está conservado el calibre de los grandes vasos mediastínicos.
+Port-a-cath con extremo en vena cava superior.
+No se constata derrame pleural ni pericárdico.
+Pág: 1
+
+Impresión diagnostica:
+ 
+- No se reconocen hallazgos de patologia aguda.
+ 
+Pág: 2

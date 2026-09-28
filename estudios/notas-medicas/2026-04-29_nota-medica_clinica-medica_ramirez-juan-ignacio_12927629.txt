@@ -1,0 +1,34 @@
+29/04/2026Fecha:
+MANUEL ADERNombre y Apellido:
+MEDICUSAseguradora:
+10097779003N. Afiliado: CELESTEPlan:
+10012927629 N°:
+Datos del Paciente
+45683086D.N.I.:
+RAMIREZ JUAN IGNACIOResponsable:
+MN152451Matrícula:
+Clinica MedicaEspecialidad:
+Notas:
+Paciente masculino 22 años de edad
+Diagnostico de
+SMD/LMA Clasificación WHO: EB tipo II
+- Scores Pronósticos:
+1. IPSS-Mol: RIESGO ALTO (Hb 6/RAN900/plaq10.000/CTG: cariotipo normal/WT1 mutado VAF 40,7%/blastos 9.3%, medulograma 12%)
+2. IPSS-R: IPSS*R RIESGO ALTO
+Recaido post Trasplante alogenico
+> Azacitidina + Venetoclax
+Evaluación D28 (post ciclo 1): 18% blastos mieloides
+Infiltración morfológica >20% → enfermedad refractaria
+> Citarabina + Midostaurina
+Control medular: 26% blastos mieloides → refractaria
+Luego de tratamiento refractario con citarabina y midostaurina presenta rápido ascenso de globulos blancos (blastos) en sangra periferica que no habia 
+presentado previamente durante la evolucion de su enfermedad llegando a cifras de 83.400 y aumento de LDH 2153. Dado el alto riesgo de lisis tumoral y 
+segun guias internacionales y por estudios actuales que avalan (con disminución de la mortalidad), se indico rasburicasa 3 mg unica vez como profilaxis de 
+la misma, no habiendo presentado valores de laboratorios alterados posteriores al inicio de tratamiento citorreductor agresivo (citarabina e hidroxiurea)
+Bibliografia:
+Cairo MS, Gallagher JR, Barnes Y, Drea E, Clark C, Carroll S. Rasburicase vs. allopurinol: mortality in hematological malignancies post anti-hyperuricemic 
+therapy - real-world study. Support Care Cancer. 2025 Nov 13;33(12):1054. doi: 10.1007/s00520-025-10090-y. PMID: 41225055; PMCID: PMC12611979.
+Cheuk DKL, Chiang AKS, Chan GCF, Ha SY. Urate oxidase for the prevention and treatment of tumour lysis syndrome in children with cancer. Cochrane 
+Database of Systematic Reviews 2017, Issue 3. Art. No.: CD006945. DOI: 10.1002/14651858.CD006945.pub4. Accessed 29 April 2026.
+Bociek RG, Lunning M. Tumor Lysis Syndrome. N Engl J Med. 2025 Sep 18;393(11):1104-1116. doi: 10.1056/NEJMra2300923. PMID: 40961427. National 
+Comprehensive Cancer Network.Guidline of Acute Myeloid Leukemia

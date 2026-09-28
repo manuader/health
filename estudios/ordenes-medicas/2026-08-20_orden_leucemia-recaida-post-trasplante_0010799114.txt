@@ -1,0 +1,25 @@
+RFC-MICROSITImpreso por: Hospital Británico – Orden Clinica
+10/09/2026Fecha y Hora de impresión: 10:20:08
+ORDEN CLÍNICA/ Admisión HB Central
+ADERApellido:
+CME-HEMGUM:
+45683086DNI:22 añosEdad:
+CUT-HOSDUT:
+10799114Nro. Orden:
+26/04/2004F.Nac.:
+MANUELNombre:
+20/08/2026Fecha:
+UrgentePrioridad:
+MEDICUSFinanciador:
+CELESTEPlan: EXENTOCond. de I.V.A.:
+10097779003Nro. Afiliado:
+20042/001Cod. Finan:
+Diagnóstico Presuntivo y Observaciones:
+leucemia recaida post trasplante
+           Firma
+CAMILA STEMMELIN
+180814M.N. --    M.P.
+Médico
+Descripción Cantidad
+Orden de Internación en Piso 1
+Internacion urgente en TMO

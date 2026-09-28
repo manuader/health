@@ -1,0 +1,323 @@
+10:03:34 INFO    auth: Sesión reutilizada desde cache (adermanu@gmail.com).
+10:03:39 INFO    sync: Resultados: 37 laboratorio, 49 imágenes/otros
+10:03:39 INFO    sync: [dry-run] Laboratorio 13639320 -> estudios/laboratorio/12-07-2026_laboratorio_general_13639320.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13639277 -> estudios/laboratorio/12-07-2026_laboratorio_general_13639277.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13608911 -> estudios/laboratorio/31-05-2026_laboratorio_general_13608911.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13608909 -> estudios/laboratorio/31-05-2026_laboratorio_general_13608909.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13601116 -> estudios/laboratorio/20-05-2026_laboratorio_general_13601116.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13596706 -> estudios/laboratorio/14-05-2026_laboratorio_general_13596706.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 913548505 -> estudios/laboratorio/11-03-2026_laboratorio_general_913548505.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13548504 -> estudios/laboratorio/11-03-2026_laboratorio_general_13548504.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13518027 -> estudios/laboratorio/26-01-2026_laboratorio_general_13518027.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13508299 -> estudios/laboratorio/12-01-2026_laboratorio_general_13508299.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13499494 -> estudios/laboratorio/29-12-2025_laboratorio_general_13499494.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13495728 -> estudios/laboratorio/22-12-2025_laboratorio_general_13495728.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13487208 -> estudios/laboratorio/10-12-2025_laboratorio_general_13487208.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 913480782 -> estudios/laboratorio/01-12-2025_laboratorio_general_913480782.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13480512 -> estudios/laboratorio/01-12-2025_laboratorio_general_13480512.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 913478757 -> estudios/laboratorio/28-11-2025_laboratorio_general_913478757.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13476907 -> estudios/laboratorio/26-11-2025_laboratorio_general_13476907.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13470639 -> estudios/laboratorio/17-11-2025_laboratorio_general_13470639.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13465197 -> estudios/laboratorio/10-11-2025_laboratorio_general_13465197.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13459817 -> estudios/laboratorio/03-11-2025_laboratorio_general_13459817.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13457353 -> estudios/laboratorio/30-10-2025_laboratorio_general_13457353.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13454710 -> estudios/laboratorio/27-10-2025_laboratorio_general_13454710.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13452461 -> estudios/laboratorio/23-10-2025_laboratorio_general_13452461.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13452459 -> estudios/laboratorio/23-10-2025_laboratorio_general_13452459.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 913452428 -> estudios/laboratorio/23-10-2025_laboratorio_general_913452428.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 913452427 -> estudios/laboratorio/23-10-2025_laboratorio_general_913452427.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13449488 -> estudios/laboratorio/20-10-2025_laboratorio_general_13449488.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13444208 -> estudios/laboratorio/13-10-2025_laboratorio_general_13444208.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13439825 -> estudios/laboratorio/06-10-2025_laboratorio_general_13439825.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13439784 -> estudios/laboratorio/06-10-2025_laboratorio_general_13439784.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13439782 -> estudios/laboratorio/06-10-2025_laboratorio_general_13439782.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13439566 -> estudios/laboratorio/06-10-2025_laboratorio_general_13439566.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13434309 -> estudios/laboratorio/29-09-2025_laboratorio_general_13434309.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13408583 -> estudios/laboratorio/25-08-2025_laboratorio_general_13408583.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13408423 -> estudios/laboratorio/25-08-2025_laboratorio_general_13408423.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13408153 -> estudios/laboratorio/25-08-2025_laboratorio_general_13408153.pdf
+10:03:39 INFO    sync: [dry-run] Laboratorio 13339096 -> estudios/laboratorio/20-05-2025_laboratorio_general_13339096.pdf
+10:03:39 INFO    sync: [dry-run] Tomografia De Senos Paranasales Sin Contraste Endovenoso -> estudios/tomografia/2026-08-21_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso/2026-08-21_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Resonancia Cardiaca Con Contraste Endovenoso -> estudios/resonancia/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Radiografia De Torax Frente -> estudios/radiografia/2026-07-15_radiografia_radiografia-de-torax-frente/2026-07-15_radiografia_radiografia-de-torax-frente_informe.pdf
+10:03:39 INFO    sync: [dry-run] Radiografia De Torax Frente -> estudios/radiografia/2026-07-14_radiografia_radiografia-de-torax-frente/2026-07-14_radiografia_radiografia-de-torax-frente_informe.pdf
+10:03:39 INFO    sync: [dry-run] Ecodoppler Venoso De Miembro Inferior Izquierdo Para Diagn. De Trombosis -> estudios/ecografia/2026-07-13_ecografia_ecodoppler-venoso-de-miembro-inferior-izquierdo-para-diagn-de-trombosis/2026-07-13_ecografia_ecodoppler-venoso-de-miembro-inferior-izquierdo-para-diagn-de-trombosis_informe.pdf
+10:03:39 INFO    sync: [dry-run] Tomografia De Torax Sin Contraste Endovenoso -> estudios/tomografia/2026-07-12_tomografia_tomografia-de-torax-sin-contraste-endovenoso/2026-07-12_tomografia_tomografia-de-torax-sin-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Radiografia De Torax Frente -> estudios/radiografia/2026-07-12_radiografia_radiografia-de-torax-frente/2026-07-12_radiografia_radiografia-de-torax-frente_informe.pdf
+10:03:39 INFO    sync: [dry-run] Tomografia De Macizo Facial Con Contraste Endovenoso -> estudios/tomografia/2026-07-06_tomografia_tomografia-de-macizo-facial-con-contraste-endovenoso/2026-07-06_tomografia_tomografia-de-macizo-facial-con-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Tomografia De Cerebro Sin Contraste Endovenoso -> estudios/tomografia/2026-06-25_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso/2026-06-25_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Ecodoppler De Vasos De Cuello -> estudios/ecografia/2026-06-01_ecografia_ecodoppler-de-vasos-de-cuello/2026-06-01_ecografia_ecodoppler-de-vasos-de-cuello_informe.pdf
+10:03:39 INFO    sync: [dry-run] Tomografia De Torax Sin Contraste Endovenoso -> estudios/tomografia/2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso/2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Tomografia De Torax Sin Contraste Endovenoso -> estudios/tomografia/2026-05-03_tomografia_tomografia-de-torax-sin-contraste-endovenoso/2026-05-03_tomografia_tomografia-de-torax-sin-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Radiografia De Torax Frente -> estudios/radiografia/2026-04-27_radiografia_radiografia-de-torax-frente/2026-04-27_radiografia_radiografia-de-torax-frente_informe.pdf
+10:03:39 INFO    sync: [dry-run] Resonancia De Pelvis De Alta Resolucion Con Contraste Endovenoso -> estudios/resonancia/2026-04-27_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/2026-04-27_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Resonancia De Pelvis De Alta Resolucion Con Contraste Endovenoso -> estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Ecodoppler De Vasos De Cuello -> estudios/ecografia/2026-04-13_ecografia_ecodoppler-de-vasos-de-cuello/2026-04-13_ecografia_ecodoppler-de-vasos-de-cuello_informe.pdf
+10:03:39 INFO    sync: [dry-run] Tomografia De Senos Paranasales Sin Contraste Endovenoso -> estudios/tomografia/2026-04-07_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso/2026-04-07_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Ecografia De Partes Blandas Adultos -> estudios/ecografia/2026-04-03_ecografia_ecografia-de-partes-blandas-adultos/2026-04-03_ecografia_ecografia-de-partes-blandas-adultos_informe.pdf
+10:03:39 INFO    sync: [dry-run] Resonancia De Pelvis De Alta Resolucion Con Contraste Endovenoso -> estudios/resonancia/2026-03-31_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/2026-03-31_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Tomografia De Senos Paranasales Sin Contraste Endovenoso -> estudios/tomografia/2026-03-31_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso/2026-03-31_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Resonancia De Pelvis De Alta Resolucion Con Contraste Endovenoso -> estudios/resonancia/2026-03-24_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/2026-03-24_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Tomografia De Torax Sin Contraste Endovenoso -> estudios/tomografia/2026-03-23_tomografia_tomografia-de-torax-sin-contraste-endovenoso/2026-03-23_tomografia_tomografia-de-torax-sin-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Radiografia De Torax Frente -> estudios/radiografia/2026-03-20_radiografia_radiografia-de-torax-frente/2026-03-20_radiografia_radiografia-de-torax-frente_informe.pdf
+10:03:39 INFO    sync: [dry-run] Radiografia De Torax Frente -> estudios/radiografia/2026-03-18_radiografia_radiografia-de-torax-frente/2026-03-18_radiografia_radiografia-de-torax-frente_informe.pdf
+10:03:39 INFO    sync: [dry-run] Tomografia De Torax Sin Contraste Endovenoso -> estudios/tomografia/2026-03-17_tomografia_tomografia-de-torax-sin-contraste-endovenoso/2026-03-17_tomografia_tomografia-de-torax-sin-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Resonancia De Pelvis De Alta Resolucion Con Contraste Endovenoso -> estudios/resonancia/2026-03-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/2026-03-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Resonancia De Pelvis De Alta Resolucion Con Contraste Endovenoso -> estudios/resonancia/2026-03-12_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/2026-03-12_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Tomografia De Torax Sin Contraste Endovenoso -> estudios/tomografia/2026-03-09_tomografia_tomografia-de-torax-sin-contraste-endovenoso/2026-03-09_tomografia_tomografia-de-torax-sin-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Resonancia De Pelvis De Alta Resolucion Con Contraste Endovenoso -> estudios/resonancia/2026-02-24_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/2026-02-24_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Radiografia De Torax Frente -> estudios/radiografia/2026-02-11_radiografia_radiografia-de-torax-frente/2026-02-11_radiografia_radiografia-de-torax-frente_informe.pdf
+10:03:39 INFO    sync: [dry-run] Tomografia De Torax Sin Contraste Endovenoso -> estudios/tomografia/2025-12-10_tomografia_tomografia-de-torax-sin-contraste-endovenoso/2025-12-10_tomografia_tomografia-de-torax-sin-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Tomografia De Torax Sin Contraste Endovenoso -> estudios/tomografia/2025-10-20_tomografia_tomografia-de-torax-sin-contraste-endovenoso/2025-10-20_tomografia_tomografia-de-torax-sin-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Tomografia De Senos Paranasales Sin Contraste Endovenoso -> estudios/tomografia/2025-10-06_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso/2025-10-06_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Ecografia De Partes Blandas Adultos -> estudios/ecografia/2025-09-20_ecografia_ecografia-de-partes-blandas-adultos/2025-09-20_ecografia_ecografia-de-partes-blandas-adultos_informe.pdf
+10:03:39 INFO    sync: [dry-run] Tomografia De Senos Paranasales Sin Contraste Endovenoso -> estudios/tomografia/2025-09-19_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso/2025-09-19_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Radiografia De Torax Frente -> estudios/radiografia/2025-09-17_radiografia_radiografia-de-torax-frente/2025-09-17_radiografia_radiografia-de-torax-frente_informe.pdf
+10:03:39 INFO    sync: [dry-run] Radiografia De Torax Frente -> estudios/radiografia/2025-09-15_radiografia_radiografia-de-torax-frente/2025-09-15_radiografia_radiografia-de-torax-frente_informe.pdf
+10:03:39 INFO    sync: [dry-run] Radiografia De Torax Frente -> estudios/radiografia/2025-08-28_radiografia_radiografia-de-torax-frente/2025-08-28_radiografia_radiografia-de-torax-frente_informe.pdf
+10:03:39 INFO    sync: [dry-run] Estimacion De Sobrecarga Hepatica De Hierro Por Resonancia -> estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia_informe.pdf
+10:03:39 INFO    sync: [dry-run] Tomografia De Torax Sin Contraste Endovenoso -> estudios/tomografia/2025-08-19_tomografia_tomografia-de-torax-sin-contraste-endovenoso/2025-08-19_tomografia_tomografia-de-torax-sin-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Tomografia De Macizo Facial Con Contraste Endovenoso -> estudios/tomografia/2025-08-08_tomografia_tomografia-de-macizo-facial-con-contraste-endovenoso/2025-08-08_tomografia_tomografia-de-macizo-facial-con-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Tomografia De Torax Sin Contraste Endovenoso -> estudios/tomografia/2025-08-04_tomografia_tomografia-de-torax-sin-contraste-endovenoso/2025-08-04_tomografia_tomografia-de-torax-sin-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Tomografia De Cerebro Sin Contraste Endovenoso -> estudios/tomografia/2025-08-03_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso/2025-08-03_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Ecodoppler Arterial Y Venoso De Miembro Superior Izquierdo -> estudios/ecografia/2025-07-23_ecografia_ecodoppler-arterial-y-venoso-de-miembro-superior-izquierdo/2025-07-23_ecografia_ecodoppler-arterial-y-venoso-de-miembro-superior-izquierdo_informe.pdf
+10:03:39 INFO    sync: [dry-run] Radiografia De Torax Frente -> estudios/radiografia/2025-07-17_radiografia_radiografia-de-torax-frente/2025-07-17_radiografia_radiografia-de-torax-frente_informe.pdf
+10:03:39 INFO    sync: [dry-run] Radiografia De Torax Frente -> estudios/radiografia/2025-07-16_radiografia_radiografia-de-torax-frente/2025-07-16_radiografia_radiografia-de-torax-frente_informe.pdf
+10:03:39 INFO    sync: [dry-run] Ecografia Completa De Abdomen -> estudios/ecografia/2025-07-15_ecografia_ecografia-completa-de-abdomen/2025-07-15_ecografia_ecografia-completa-de-abdomen_informe.pdf
+10:03:39 INFO    sync: [dry-run] Resonancia De Cerebro Con Contraste Endovenoso -> estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso_informe.pdf
+10:03:39 INFO    sync: [dry-run] Tomografia De Torax Sin Contraste Endovenoso -> estudios/tomografia/2025-07-15_tomografia_tomografia-de-torax-sin-contraste-endovenoso/2025-07-15_tomografia_tomografia-de-torax-sin-contraste-endovenoso_informe.pdf
+10:03:40 INFO    sync: Epicrisis: 12
+10:03:40 INFO    sync: [dry-run] Epicrisis: LEUCEMIA MIELOIDE AGUDA (ingreso 2026-03-11, egreso 2026-04-26) -> estudios/epicrisis/2026-04-26_epicrisis_leucemia-mieloide-aguda_ingreso-2026-03-11_12910367.pdf
+10:03:40 INFO    sync: [dry-run] Epicrisis: ESTADO DE QUIMIOTERAPIA (ingreso 2026-04-27, egreso 2026-05-07) -> estudios/epicrisis/2026-05-07_epicrisis_estado-de-quimioterapia_ingreso-2026-04-27_12977951.pdf
+10:03:40 INFO    sync: [dry-run] Epicrisis: TROMBOCITOPENIA (ingreso 2026-05-09, egreso 2026-05-09) -> estudios/epicrisis/2026-05-09_epicrisis_trombocitopenia_ingreso-2026-05-09_12989882.pdf
+10:03:40 INFO    sync: [dry-run] Epicrisis: LEUCEMIA MIELOIDE AGUDA (ingreso 2026-05-11, egreso 2026-05-12) -> estudios/epicrisis/2026-05-12_epicrisis_leucemia-mieloide-aguda_ingreso-2026-05-11_12995745.pdf
+10:03:40 INFO    sync: [dry-run] Epicrisis: LEUCEMIA MIELOIDE AGUDA (ingreso 2026-05-31, egreso 2026-06-04) -> estudios/epicrisis/2026-06-04_epicrisis_leucemia-mieloide-aguda_ingreso-2026-05-31_13141251.pdf
+10:03:40 INFO    sync: [dry-run] Epicrisis: LEUCEMIA MIELOIDE AGUDA (ingreso 2026-06-19, egreso 2026-06-29) -> estudios/epicrisis/2026-06-29_epicrisis_leucemia-mieloide-aguda_ingreso-2026-06-19_13272684.pdf
+10:03:40 INFO    sync: [dry-run] Epicrisis: LEUCEMIA MIELOIDE AGUDA (ingreso 2026-07-10, egreso 2026-07-10) -> estudios/epicrisis/2026-07-10_epicrisis_leucemia-mieloide-aguda_ingreso-2026-07-10_13334322.pdf
+10:03:40 INFO    sync: [dry-run] Epicrisis: LEUCEMIA MIELOIDE AGUDA (ingreso 2026-07-12, egreso 2026-07-18) -> estudios/epicrisis/2026-07-18_epicrisis_leucemia-mieloide-aguda_ingreso-2026-07-12_13373338.pdf
+10:03:40 INFO    sync: [dry-run] Epicrisis: LEUCEMIA MIELOIDE AGUDA (ingreso 2026-08-05, egreso 2026-08-05) -> estudios/epicrisis/2026-08-05_epicrisis_leucemia-mieloide-aguda_ingreso-2026-08-05_13473936.pdf
+10:03:40 INFO    sync: [dry-run] Epicrisis: LEUCEMIA MIELOIDE AGUDA (ingreso 2026-08-11, egreso 2026-08-13) -> estudios/epicrisis/2026-08-13_epicrisis_leucemia-mieloide-aguda_ingreso-2026-08-11_13517513.pdf
+10:03:40 INFO    sync: [dry-run] Epicrisis: LEUCEMIA MIELOIDE AGUDA (ingreso 2026-08-15, egreso 2026-08-15) -> estudios/epicrisis/2026-08-15_epicrisis_leucemia-mieloide-aguda_ingreso-2026-08-15_13530179.pdf
+10:03:40 INFO    sync: [dry-run] Epicrisis: PERICARDITIS (ingreso 2026-08-20, egreso 2026-08-22) -> estudios/epicrisis/2026-08-22_epicrisis_pericarditis_ingreso-2026-08-20_13562633.pdf
+10:03:40 INFO    sync: Notas médicas: 8
+10:03:40 INFO    sync: [dry-run] Nota médica Clinica Medica — RAMIREZ JUAN IGNACIO -> estudios/notas-medicas/2025-09-12_nota-medica_clinica-medica_ramirez-juan-ignacio_11750096.pdf
+10:03:40 INFO    sync: [dry-run] Nota médica Clinica Medica — PACHECO PERTUZ ALBERTO DE JESUS -> estudios/notas-medicas/2025-09-14_nota-medica_clinica-medica_pacheco-pertuz-alberto-de-jesus_11758854.pdf
+10:03:40 INFO    sync: [dry-run] Nota médica Infectologia — CALELLO PAULA MAGALI -> estudios/notas-medicas/2025-12-17_nota-medica_infectologia_calello-paula-magali_12268718.pdf
+10:03:40 INFO    sync: [dry-run] Nota médica Infectologia — BUSTOS MARIA AGUSTINA -> estudios/notas-medicas/2026-01-16_nota-medica_infectologia_bustos-maria-agustina_12403150.pdf
+10:03:40 INFO    sync: [dry-run] Nota médica Clinica Medica — RAMIREZ JUAN IGNACIO -> estudios/notas-medicas/2026-02-05_nota-medica_clinica-medica_ramirez-juan-ignacio_12500981.pdf
+10:03:40 INFO    sync: [dry-run] Nota médica Clinica Medica — RAMIREZ JUAN IGNACIO -> estudios/notas-medicas/2026-04-22_nota-medica_clinica-medica_ramirez-juan-ignacio_12882977.pdf
+10:03:40 INFO    sync: [dry-run] Nota médica Clinica Medica — RAMIREZ JUAN IGNACIO -> estudios/notas-medicas/2026-04-29_nota-medica_clinica-medica_ramirez-juan-ignacio_12927629.pdf
+10:03:40 INFO    sync: [dry-run] Nota médica Clinica Medica — RAMIREZ JUAN IGNACIO -> estudios/notas-medicas/2026-05-11_nota-medica_clinica-medica_ramirez-juan-ignacio_12994295.pdf
+10:03:41 INFO    sync: Órdenes: 207
+10:03:41 INFO    sync: [dry-run] Orden 0008905470: Pre trasplante — Aglutininas del sistema ABO, Coombs directa,prueba de, Coombs indirecta cualitativa, Coombs.indirecta cuantitativa… -> estudios/ordenes-medicas/2025-05-20_orden_pre-trasplante_0008905470.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0008905464: Paciente pre trasplante — Fibrinogeno (sangre), Protombina tiempo de (Quick), Tromboplastina,tiempo(parcial) -> estudios/ordenes-medicas/2025-05-20_orden_paciente-pre-trasplante_0008905464.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009090319: SMD/LMAAZA/VEN7 díasIndivicual — Orden de Internación en Piso -> estudios/ordenes-medicas/2025-07-14_orden_smd-lmaaza-ven7-diasindivicual_0009090319.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009123227: SMD1 CPDUA IF — Internacion Tempor.hasta 8Hs., Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2025-07-11_orden_smd1-cpdua-if_0009123227.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009141601: . — DIFUSION POR RESONANCIA -> estudios/ordenes-medicas/2025-07-15_orden_difusion-por-resonancia_0009141601.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009179462: Tomar con rutina. — Dosaje de Posaconazol -> estudios/ordenes-medicas/2025-07-28_orden_tomar-con-rutina_0009179462.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009190797: . — Acido Urico Serico, Calcio Serico, Creatinina Serica, Formula Leucocitaria Porcentual… -> estudios/ordenes-medicas/2025-07-29_orden_acido-urico-serico_0009190797.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009190868: . — Hemograma, Recuento de plaquetas -> estudios/ordenes-medicas/2025-08-01_orden_hemograma_0009190868.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009202512: SMD — Fenotip.Leuc y Linfo por CMF, Medulograma, Puncion aspirativa de médula ósea -> estudios/ordenes-medicas/2025-07-30_orden_smd_0009202512.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009216496: DUPLICAD — Acido Urico Serico, Calcio Serico, Creatinina Serica, Formula Leucocitaria Porcentual… -> estudios/ordenes-medicas/2025-08-04_orden_duplicad_0009216496.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009217575: 1 CPDUASMD — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2025-08-04_orden_1-cpduasmd_0009217575.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009277273: TMO — Ferremia, Ferritina Serica, TIBC-Saturacion de Transferrina, Transferrina -> estudios/ordenes-medicas/2025-08-19_orden_tmo_0009277273.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009277298: TMO — Acido Urico Serico, Calcio Serico, Creatinina Serica, Formula Leucocitaria Porcentual… -> estudios/ordenes-medicas/2025-08-23_orden_tmo_0009277298.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009277307: ALTA — Acido Urico Serico, Calcio Serico, Creatinina Serica, Formula Leucocitaria Porcentual… -> estudios/ordenes-medicas/2025-08-24_orden_alta_0009277307.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009277313: ALTA — Acido Urico Serico, Calcio Serico, Creatinina Serica, Formula Leucocitaria Porcentual… -> estudios/ordenes-medicas/2025-08-25_orden_alta_0009277313.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009282423: a — 25-OH Vitamina D (D2 y D3), Creatinina Serica, Glucosa Serica, HBc-Hepatitis B-Anti Core IgM… -> estudios/ordenes-medicas/2025-08-20_orden_25-oh-vitamina-d-d2-y-d3_0009282423.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009292268: SMD — Acido Urico Serico, Calcio Serico, Creatinina Serica, Formula Leucocitaria Porcentual… -> estudios/ordenes-medicas/2025-08-25_orden_smd_0009292268.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009292311: SMD — Orden de Internación en Piso -> estudios/ordenes-medicas/2025-08-23_orden_smd_0009292311.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009292315: SMD — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2025-08-23_orden_smd_0009292315.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009297443: ALTA — Acido Urico Serico, Brucelosis -Rosa de Bengala, Calcio Serico, Chagas ELISA… -> estudios/ordenes-medicas/2025-08-25_orden_alta_0009297443.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009297452: urgentepre ingreso a la unidad de trasplante — Coronavirus 2019-n CoV PCR (HB) -> estudios/ordenes-medicas/2025-08-25_orden_urgentepre-ingreso-a-la-unidad-de-trasplante_0009297452.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009304208: 1 CPDUA IF — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2025-08-25_orden_1-cpdua-if_0009304208.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009316348: 1 UGR IF1 CPDUA IF — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2025-08-27_orden_1-ugr-if1-cpdua-if_0009316348.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009321840: a — Kinesiología / Foniatría de Alta Complej -> estudios/ordenes-medicas/2025-08-28_orden_kinesiologia-foniatria-de-alta-complej_0009321840.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009348287: PICC — Flash de Heparina -> estudios/ordenes-medicas/2025-09-03_orden_picc_0009348287.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009367369: post trasplantesolicito dosaje Csa de sangre perif — Dosaje de Ciclosporina -> estudios/ordenes-medicas/2025-09-09_orden_post-trasplantesolicito-dosaje-csa-de-sangre-perif_0009367369.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009379849: DOSAJE CICLOSPORINA SANGRE PERIFERICA — Dosaje de Ciclosporina -> estudios/ordenes-medicas/2025-09-12_orden_dosaje-ciclosporina-sangre-periferica_0009379849.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009396233: muestra remitida**ya solicitado en pet.13424090** — Dosaje de Ciclosporina -> estudios/ordenes-medicas/2025-09-15_orden_muestra-remitida-ya-solicitado-en-pet-13424090_0009396233.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009400430: Post THAPLOTOMAR MUESTRA DE VIA PERIFÉRICA — Dosaje de Ciclosporina -> estudios/ordenes-medicas/2025-09-16_orden_post-thaplotomar-muestra-de-via-periferica_0009400430.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009400595: . — Calcio Serico, Creatinina Serica, Dosaje de Vancomicina, Fosforo Serico… -> estudios/ordenes-medicas/2025-09-17_orden_calcio-serico_0009400595.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009400603: . — RADIOGRAFIA DE TORAX FRENTE -> estudios/ordenes-medicas/2025-09-17_orden_radiografia-de-torax-frente_0009400603.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009401202: SHOCK SEPTICO REFRACTARIO SOFA 7 PUNTOS DELTA 3(RE — Orden de Traslado -> estudios/ordenes-medicas/2025-09-16_orden_shock-septico-refractario-sofa-7-puntos-delta-3-re_0009401202.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009404344: Control post trasplante haploidentico de medula os — Medulograma, Puncion Biopsia Med.Osea -> estudios/ordenes-medicas/2025-09-16_orden_control-post-trasplante-haploidentico-de-medula-os_0009404344.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009404389: Post trasplante haploidentico de medula osea — Fenotip.Leuc y Linfo por CMF -> estudios/ordenes-medicas/2025-09-16_orden_post-trasplante-haploidentico-de-medula-osea_0009404389.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009404437: Sindrome mielodisplasico post trasplante haploiden — Estudio anatomopatológico -> estudios/ordenes-medicas/2025-09-16_orden_sindrome-mielodisplasico-post-trasplante-haploiden_0009404437.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009404525: SINDROME MIELODISPLASICO POST TRASPLANTE HAPLOIDEN — Acido Urico Serico, Adenovirus - Carga Viral, Calcio Serico, Citomegalovirus - Carga Viral… -> estudios/ordenes-medicas/2025-09-23_orden_sindrome-mielodisplasico-post-trasplante-haploiden_0009404525.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009404554: SINDROME MIELODISPLASICO POST TRASPLANTE HAPLOIDEN — Acido Urico Serico, Adenovirus - Carga Viral, Calcio Serico, Citomegalovirus - Carga Viral… -> estudios/ordenes-medicas/2025-09-30_orden_sindrome-mielodisplasico-post-trasplante-haploiden_0009404554.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009404576: SINDROME MIELODISPLASICO POST TRASPLANTE HAPLOIDEN — Acido Urico Serico, Adenovirus - Carga Viral, Calcio Serico, Citomegalovirus - Carga Viral… -> estudios/ordenes-medicas/2025-10-14_orden_sindrome-mielodisplasico-post-trasplante-haploiden_0009404576.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009404598: SINDROME MIELODISPLASICO POST TRASPLANTE HAPLOIDEN — Acido Urico Serico, Adenovirus - Carga Viral, Calcio Serico, Citomegalovirus - Carga Viral… -> estudios/ordenes-medicas/2025-10-07_orden_sindrome-mielodisplasico-post-trasplante-haploiden_0009404598.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009410087: solicito dosaje de sangre periferica — Dosaje de Ciclosporina -> estudios/ordenes-medicas/2025-09-18_orden_solicito-dosaje-de-sangre-periferica_0009410087.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009415084: Solicito dosaje de Ciclosporina de sangre periferi — Dosaje de Ciclosporina -> estudios/ordenes-medicas/2025-09-20_orden_solicito-dosaje-de-ciclosporina-de-sangre-periferi_0009415084.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009430377: THAPLO — Acido Urico Serico, Calcio Serico, Creatinina Serica, Formula Leucocitaria Porcentual… -> estudios/ordenes-medicas/2025-09-26_orden_thaplo_0009430377.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009432017: Profilaxis secundaria para IFI en Post TCPH haplod — Dosaje de Posaconazol -> estudios/ordenes-medicas/2025-09-29_orden_profilaxis-secundaria-para-ifi-en-post-tcph-haplod_0009432017.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009488565: sintmas respiratoris en paciente trasplantado — TOMOGRAFIA DE TORAX SIN CONTRASTE ENDOVE -> estudios/ordenes-medicas/2025-10-06_orden_sintmas-respiratoris-en-paciente-trasplantado_0009488565.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009488566: sintmas respiratoris en paciente trasplantado — TOMOGRAFIA DE SENOS PARANASALES SIN CONT, TOMOGRAFIA DE TORAX SIN CONTRASTE ENDOVE -> estudios/ordenes-medicas/2025-10-06_orden_sintmas-respiratoris-en-paciente-trasplantado_0009488566.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009489309: paciente transplantado — Coronavirus 2019-n CoV PCR (HB) -> estudios/ordenes-medicas/2025-10-06_orden_paciente-transplantado_0009489309.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009489319: pacienteinmunosuprimidacvas — Panel respiratorio por PCR /Influenza A -> estudios/ordenes-medicas/2025-10-06_orden_pacienteinmunosuprimidacvas_0009489319.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009489616: CVAS en HIC — PERMANENCIA EN GUARDIA -> estudios/ordenes-medicas/2025-10-06_orden_cvas-en-hic_0009489616.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009489706: Insuficiencia renal — Creatinina Orina Espontanea, Ionograma en Orina Espontanea, Orina Completa -> estudios/ordenes-medicas/2025-10-06_orden_insuficiencia-renal_0009489706.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009489790: CVAS en HIC — Coronavirus 2019-n CoV PCR (HB) - GUARDI -> estudios/ordenes-medicas/2025-10-06_orden_cvas-en-hic_0009489790.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009515131: control post tmo — Acido Urico Serico, Adenovirus - Carga Viral, Calcio Serico, Citomegalovirus - Carga Viral… -> estudios/ordenes-medicas/2025-10-27_orden_control-post-tmo_0009515131.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009515202: CONTROL POST TMO — Acido Urico Serico, Adenovirus - Carga Viral, Calcio Serico, Citomegalovirus - Carga Viral… -> estudios/ordenes-medicas/2025-10-20_orden_control-post-tmo_0009515202.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009515226: CONTROL POST TMO — Dosaje de Ciclosporina -> estudios/ordenes-medicas/2025-10-20_orden_control-post-tmo_0009515226.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009516762: seguimiento IFI POSACONAZOL — Consulta Médica No Presencial Ambulatori -> estudios/ordenes-medicas/2025-10-13_orden_seguimiento-ifi-posaconazol_0009516762.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009545668: CONTROL POST TMO — Acido Urico Serico, Adenovirus - Carga Viral, Calcio Serico, Citomegalovirus - Carga Viral… -> estudios/ordenes-medicas/2025-10-27_orden_control-post-tmo_0009545668.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009545697: CONROL POST TMO — Acido Urico Serico, Adenovirus - Carga Viral, Calcio Serico, Citomegalovirus - Carga Viral… -> estudios/ordenes-medicas/2025-11-03_orden_conrol-post-tmo_0009545697.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009545791: control post sinusitis con rinovirus y persistenci — TOMOGRAFIA DE SENOS PARANASALES SIN CONT, TOMOGRAFIA DE TORAX SIN CONTRASTE ENDOVE -> estudios/ordenes-medicas/2025-10-20_orden_control-post-sinusitis-con-rinovirus-y-persistenci_0009545791.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009561407: SMD — Coronavirus 2019-n CoV PCR (HB), Panel respiratorio por PCR /Influenza A -> estudios/ordenes-medicas/2025-10-23_orden_smd_0009561407.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009563075: rinosinusitis — Nasofibrolaringoscopía -> estudios/ordenes-medicas/2025-10-23_orden_rinosinusitis_0009563075.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009563233: Paciente post PMO intercurre con TOS Y MUCOSIDAD — Bacteriologico 1 -> estudios/ordenes-medicas/2025-10-23_orden_paciente-post-pmo-intercurre-con-tos-y-mucosidad_0009563233.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009563255: Paciente post PMO intercurre con TOS Y MUCOSIDAD — Bacteriologico 2 -> estudios/ordenes-medicas/2025-10-23_orden_paciente-post-pmo-intercurre-con-tos-y-mucosidad_0009563255.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009563664: Cuadro respiratorio — Coronavirus 2019-n CoV PCR (HB) -> estudios/ordenes-medicas/2025-10-23_orden_cuadro-respiratorio_0009563664.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009563667: cuadro respiratorio — Panel respiratorio por PCR /Influenza A -> estudios/ordenes-medicas/2025-10-23_orden_cuadro-respiratorio_0009563667.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009576361: CONTROL POST TMO — Dosaje de Ciclosporina, Herpes 6 - Carga Viral -> estudios/ordenes-medicas/2025-10-30_orden_control-post-tmo_0009576361.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009606054: control post tmo — Acido Urico Serico, Adenovirus - Carga Viral, Calcio Serico, Citomegalovirus - Carga Viral… -> estudios/ordenes-medicas/2025-11-17_orden_control-post-tmo_0009606054.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009606108: control post tmo — Epstein Barr- Carga Viral -> estudios/ordenes-medicas/2025-11-17_orden_control-post-tmo_0009606108.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009637362: CONTROL POST tmo — Adenovirus - Carga Viral, Citomegalovirus - Carga Viral, Dosaje de Ciclosporina, Epstein Barr- Carga Viral -> estudios/ordenes-medicas/2025-11-25_orden_control-post-tmo_0009637362.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009637368: CONTROL POST TMO — Calcio Serico, Creatinina Serica, Fosforo Serico, Glucosa Serica… -> estudios/ordenes-medicas/2025-11-25_orden_control-post-tmo_0009637368.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009667481: CONTROL POST TMO — Acido Urico Serico, Adenovirus - Carga Viral, Calcio Serico, Citomegalovirus - Carga Viral… -> estudios/ordenes-medicas/2025-12-01_orden_control-post-tmo_0009667481.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009667487: CONTROL POST TMO — Acido Urico Serico, Adenovirus - Carga Viral, Calcio Serico, Citomegalovirus - Carga Viral… -> estudios/ordenes-medicas/2025-12-09_orden_control-post-tmo_0009667487.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009699408: control POST TMO — Acido Urico Serico, Adenovirus - Carga Viral, Calcio Serico, Citomegalovirus - Carga Viral… -> estudios/ordenes-medicas/2025-12-01_orden_control-post-tmo_0009699408.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009699435: control post TMO — Acido Urico Serico, Adenovirus - Carga Viral, Calcio Serico, Citomegalovirus - Carga Viral… -> estudios/ordenes-medicas/2025-12-08_orden_control-post-tmo_0009699435.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009699448: control post tmo — Acido Urico Serico, Adenovirus - Carga Viral, Calcio Serico, Citomegalovirus - Carga Viral… -> estudios/ordenes-medicas/2025-12-15_orden_control-post-tmo_0009699448.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009699614: control post TMO — Fenotip.Leuc y Linfo por CMF -> estudios/ordenes-medicas/2025-11-26_orden_control-post-tmo_0009699614.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009710295: Pos-TALO. Lesiones miliares en dorso, torax y cuel — Busqueda de SAMR -> estudios/ordenes-medicas/2025-11-28_orden_pos-talo-lesiones-miliares-en-dorso-torax-y-cuel_0009710295.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009718520: Foliculitis en paciente con LMA y TMO alogenico — Escisión les piel-tum benig -> estudios/ordenes-medicas/2025-12-01_orden_foliculitis-en-paciente-con-lma-y-tmo-alogenico_0009718520.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009718521: Foliculitis en paciente con LMA y TMO alogenico — Estudio anatomopatológico -> estudios/ordenes-medicas/2025-12-01_orden_foliculitis-en-paciente-con-lma-y-tmo-alogenico_0009718521.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009718541: foliculitis — Microbiologico 1 -> estudios/ordenes-medicas/2025-12-01_orden_foliculitis_0009718541.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009741328: control post tcph. — CD4 Recuento, HBc-Hepatitis B-Anti Core total, HBsAc - Hepatitis B Anti HBS, HBsAg - Hepatitis B Antigeno… -> estudios/ordenes-medicas/2025-12-05_orden_control-post-tcph_0009741328.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009741680: MIELODISPLASIACONTROL POST TMOFOLICULITIS GENERALI — Orden de Internación en Piso -> estudios/ordenes-medicas/2025-12-10_orden_mielodisplasiacontrol-post-tmofoliculitis-generali_0009741680.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009754470: SMD POST TRASPLANTE HAPLOIDENTICO DE MEDULA OSEA D — Medulograma, Puncion aspirativa de médula ósea -> estudios/ordenes-medicas/2025-12-10_orden_smd-post-trasplante-haploidentico-de-medula-osea-d_0009754470.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009762933: Infeccion por adenovirus — Orden de Internación en Piso -> estudios/ordenes-medicas/2025-12-12_orden_infeccion-por-adenovirus_0009762933.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009765154: neumonia por adenovirus — Orden de Internación en Piso -> estudios/ordenes-medicas/2025-12-12_orden_neumonia-por-adenovirus_0009765154.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009779613: tcph. — Adenovirus - Carga Viral, Citomegalovirus - Carga Viral, Epstein Barr- Carga Viral -> estudios/ordenes-medicas/2025-12-17_orden_tcph_0009779613.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009785013: ALTA — CD4 Recuento, Hemograma -> estudios/ordenes-medicas/2025-12-22_orden_alta_0009785013.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009785063: PACIENTE DE ALTA — HBc-Hepatitis B-Anti Core total, HBsAc - Hepatitis B Anti HBS, HBsAg - Hepatitis B Antigeno, HCV - Hepatitis C AC. Totales… -> estudios/ordenes-medicas/2026-01-26_orden_paciente-de-alta_0009785063.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009866358: CONTROL POST TMO — Citomegalovirus - Carga Viral, Colesterol Total, Creatinina Serica, Glucosa Serica… -> estudios/ordenes-medicas/2026-01-26_orden_control-post-tmo_0009866358.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009866376: control post tmo — Espirometria computarizada -> estudios/ordenes-medicas/2026-01-12_orden_control-post-tmo_0009866376.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009886860: profilaxis — Dosaje de Posaconazol -> estudios/ordenes-medicas/2026-01-26_orden_profilaxis_0009886860.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009886950: TCPH — CD4 Recuento, Dosaje de Posaconazol -> estudios/ordenes-medicas/2026-01-26_orden_tcph_0009886950.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009923568: TROMBOCITOPENIA SEVERA POST TRAFSPLANTE — Orden de Internación en Piso -> estudios/ordenes-medicas/2026-01-26_orden_trombocitopenia-severa-post-trafsplante_0009923568.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009923771: POST TRASPLANTESMD/LMA — Medulograma, Puncion Biopsia Med.Osea, Puncion Biopsia de médula ósea, Puncion aspirativa de médula ósea -> estudios/ordenes-medicas/2026-01-26_orden_post-trasplantesmd-lma_0009923771.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009923835: POST TRASPLANTESMD/LMA — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2026-01-26_orden_post-trasplantesmd-lma_0009923835.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009923930: SMD/LMA — ELECTROCARDIOGRAMA -> estudios/ordenes-medicas/2026-01-26_orden_smd-lma_0009923930.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009942179: SMD CON PLAQ 12.000 — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2026-01-30_orden_smd-con-plaq-12-000_0009942179.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009944278: AZACITIDINAINFUSION PROGRAMADA PARA EL 02/02/26 — Internacion Tempor.hasta 8Hs., Quimioterapia Subcutánea Ambulatoria -> estudios/ordenes-medicas/2026-01-30_orden_azacitidinainfusion-programada-para-el-02-02-26_0009944278.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009944282: AZACITIDINAINFUSION PROGRAMADA PARA EL 03/02/26 — Internacion Tempor.hasta 8Hs., Quimioterapia Subcutánea Ambulatoria -> estudios/ordenes-medicas/2026-01-30_orden_azacitidinainfusion-programada-para-el-03-02-26_0009944282.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009944284: AZACITIDINAINFUSION PROGRAMADA PARA EL 04/02/26 — Internacion Tempor.hasta 8Hs., Quimioterapia Subcutánea Ambulatoria -> estudios/ordenes-medicas/2026-01-30_orden_azacitidinainfusion-programada-para-el-04-02-26_0009944284.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009944289: AZACITIDINAINFUSION PROGRAMADA PARA EL 05/02/26 — Internacion Tempor.hasta 8Hs., Quimioterapia Subcutánea Ambulatoria -> estudios/ordenes-medicas/2026-01-30_orden_azacitidinainfusion-programada-para-el-05-02-26_0009944289.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009944291: AZACITIDINAINFUSION PROGRAMADA PARA EL 06/02/26 — Internacion Tempor.hasta 8Hs., Quimioterapia Subcutánea Ambulatoria -> estudios/ordenes-medicas/2026-01-30_orden_azacitidinainfusion-programada-para-el-06-02-26_0009944291.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009944298: AZACITIDINAINFUSION PROGRAMADA PARA EL 09/02/26 — Internacion Tempor.hasta 8Hs., Quimioterapia Subcutánea Ambulatoria -> estudios/ordenes-medicas/2026-01-30_orden_azacitidinainfusion-programada-para-el-09-02-26_0009944298.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009944305: AZACITIDINAINFUSION PROGRAMADA PARA EL 10/02/26 — Internacion Tempor.hasta 8Hs., Quimioterapia Subcutánea Ambulatoria -> estudios/ordenes-medicas/2026-01-30_orden_azacitidinainfusion-programada-para-el-10-02-26_0009944305.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009949051: SMD — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2026-02-02_orden_smd_0009949051.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009950484: recaida post tmo con plaquetopenia — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2026-02-04_orden_recaida-post-tmo-con-plaquetopenia_0009950484.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009959836: SDM — Orden de Internación en Piso -> estudios/ordenes-medicas/2026-02-05_orden_sdm_0009959836.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009959843: SMD — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2026-02-04_orden_smd_0009959843.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009963942: LMA — ECOCARDIOGRAMA DOPPLER COLOR -> estudios/ordenes-medicas/2026-02-05_orden_lma_0009963942.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009963943: LMA — ESPIROMETRIA COMPUTARIZADA -> estudios/ordenes-medicas/2026-02-05_orden_lma_0009963943.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009968965: LMA — ECOCARDIOGRAMA DOPPLER COLOR -> estudios/ordenes-medicas/2026-02-06_orden_lma_0009968965.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009970433: SMD RECAIDO — Poliquimiot.Internados 1 Apl. -> estudios/ordenes-medicas/2026-02-11_orden_smd-recaido_0009970433.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009977515: distimiaenfermedad recaida post tcphseguimiento ps — Consulta Psiquiatria Internados -> estudios/ordenes-medicas/2026-02-09_orden_distimiaenfermedad-recaida-post-tcphseguimiento-ps_0009977515.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009979429: smd — Acido Urico Serico, Calcio Serico, Creatinina Serica, Fosforo Serico… -> estudios/ordenes-medicas/2026-02-11_orden_smd_0009979429.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009980389: SMD — Acido Urico Serico, Calcio Serico, Creatinina Serica, Fosforo Serico… -> estudios/ordenes-medicas/2026-02-13_orden_smd_0009980389.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009982976: SMDagregar a orden del mismo dia — Coagulograma -> estudios/ordenes-medicas/2026-02-11_orden_smdagregar-a-orden-del-mismo-dia_0009982976.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009986425: smd — At.medica en Intern.CL o Quirurgica -> estudios/ordenes-medicas/2026-02-10_orden_smd_0009986425.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009986584: smd/lma — Poliquimiot.Internados 1 Apl. -> estudios/ordenes-medicas/2026-02-11_orden_smd-lma_0009986584.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009988526: SMD — Acido Urico Serico, Calcio Serico, Creatinina Serica, Fosforo Serico… -> estudios/ordenes-medicas/2026-02-14_orden_smd_0009988526.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009988535: SMD — Acido Urico Serico, Calcio Serico, Creatinina Serica, Fosforo Serico… -> estudios/ordenes-medicas/2026-02-15_orden_smd_0009988535.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009988543: SMD — Acido Urico Serico, Calcio Serico, Creatinina Serica, Fosforo Serico… -> estudios/ordenes-medicas/2026-02-16_orden_smd_0009988543.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009988549: SMD — Acido Urico Serico, Calcio Serico, Creatinina Serica, Fosforo Serico… -> estudios/ordenes-medicas/2026-02-17_orden_smd_0009988549.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009988559: SMD — Acido Urico Serico, Calcio Serico, Creatinina Serica, Fosforo Serico… -> estudios/ordenes-medicas/2026-02-18_orden_smd_0009988559.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009991973: smd/lma — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2026-02-14_orden_smd-lma_0009991973.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009991975: SMD/LMA — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2026-02-16_orden_smd-lma_0009991975.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009993097: smd — Flash de Heparina -> estudios/ordenes-medicas/2026-02-18_orden_smd_0009993097.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009993110: smd — Flash de Heparina -> estudios/ordenes-medicas/2026-02-20_orden_smd_0009993110.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009993113: smd — Flash de Heparina -> estudios/ordenes-medicas/2026-02-24_orden_smd_0009993113.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009993123: smd — Flash de Heparina -> estudios/ordenes-medicas/2026-02-26_orden_smd_0009993123.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009993126: smd — Flash de Heparina -> estudios/ordenes-medicas/2026-03-03_orden_smd_0009993126.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0009993134: smd — Flash de Heparina -> estudios/ordenes-medicas/2026-03-05_orden_smd_0009993134.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010004185: incluida en rutina — Adenovirus - Carga Viral, Citomegalovirus - Carga Viral, Epstein Barr- Carga Viral -> estudios/ordenes-medicas/2026-02-18_orden_incluida-en-rutina_0010004185.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010004187: incluida en rutina — Dosaje de Posaconazol -> estudios/ordenes-medicas/2026-02-18_orden_incluida-en-rutina_0010004187.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010005730: VIGILANCIA OMR**ya solicitado en pet.913532983** — Vigilancia Bacterias Multi R -> estudios/ordenes-medicas/2026-02-18_orden_vigilancia-omr-ya-solicitado-en-pet-913532983_0010005730.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010007661: LMA — HBc-Hepatitis B-Anti Core total, HBsAc - Hepatitis B Anti HBS, HBsAg - Hepatitis B Antigeno, HCV - Hepatitis C AC. Totales… -> estudios/ordenes-medicas/2026-02-19_orden_lma_0010007661.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010032263: Control Posaconazol — Dosaje de Posaconazol -> estudios/ordenes-medicas/2026-02-25_orden_control-posaconazol_0010032263.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010063845: LMA post TMO — Medulograma -> estudios/ordenes-medicas/2026-03-03_orden_lma-post-tmo_0010063845.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010219678: ntf — Adenovirus - Carga Viral, Citomegalovirus - Carga Viral, Epstein Barr- Carga Viral -> estudios/ordenes-medicas/2026-04-09_orden_ntf_0010219678.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010220057: adenopatias — HIV 1 y 2, VDRL -> estudios/ordenes-medicas/2026-04-09_orden_adenopatias_0010220057.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010249781: LMA — Coagulograma -> estudios/ordenes-medicas/2026-04-16_orden_lma_0010249781.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010271086: LMA — Calcio Serico, Creatinina Serica, Formula Leucocitaria Porcentual, Fosforo Serico… -> estudios/ordenes-medicas/2026-04-23_orden_lma_0010271086.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010271089: LMA — Calcio Serico, Creatinina Serica, Formula Leucocitaria Porcentual, Fosforo Serico… -> estudios/ordenes-medicas/2026-04-24_orden_lma_0010271089.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010271107: ALTA — Calcio Serico, Creatinina Serica, Formula Leucocitaria Porcentual, Fosforo Serico… -> estudios/ordenes-medicas/2026-04-27_orden_alta_0010271107.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010338400: LMA — Calcio Serico, Creatinina Serica, Formula Leucocitaria Porcentual, Fosforo Serico… -> estudios/ordenes-medicas/2026-05-08_orden_lma_0010338400.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010385220: LMA — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2026-05-14_orden_lma_0010385220.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010385249: LMALESION HERPETICA EN LABIOSOLICITO TOMA DE MUEST — Herpes Simplex 1 Y 2 - PCR -> estudios/ordenes-medicas/2026-05-14_orden_lmalesion-herpetica-en-labiosolicito-toma-de-muest_0010385249.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010397752: lma — Internacion Tempor.hasta 8Hs., Quimioterapia en Infusión -> estudios/ordenes-medicas/2026-05-26_orden_lma_0010397752.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010397766: lma — Internacion Tempor.hasta 8Hs., Quimioterapia en Infusión -> estudios/ordenes-medicas/2026-05-27_orden_lma_0010397766.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010397778: lma — Internacion Tempor.hasta 8Hs., Quimioterapia en Infusión -> estudios/ordenes-medicas/2026-05-28_orden_lma_0010397778.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010397786: lma — Internacion Tempor.hasta 8Hs., Quimioterapia en Infusión -> estudios/ordenes-medicas/2026-05-29_orden_lma_0010397786.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010397810: lma — Internacion Tempor.hasta 8Hs., Quimioterapia en Infusión -> estudios/ordenes-medicas/2026-06-01_orden_lma_0010397810.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010397817: lma — Internacion Tempor.hasta 8Hs., Quimioterapia en Infusión -> estudios/ordenes-medicas/2026-06-02_orden_lma_0010397817.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010397822: lma — Internacion Tempor.hasta 8Hs., Quimioterapia en Infusión -> estudios/ordenes-medicas/2026-06-03_orden_lma_0010397822.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010397834: plaquetopenia — Internacion Tempor.hasta 8Hs. -> estudios/ordenes-medicas/2026-05-18_orden_plaquetopenia_0010397834.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010410206: LMA — Flash de Heparina -> estudios/ordenes-medicas/2026-05-20_orden_lma_0010410206.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010410216: LMA — Acido Urico Serico, Calcio Serico, Creatinina Serica, Formula Leucocitaria Porcentual… -> estudios/ordenes-medicas/2026-05-20_orden_lma_0010410216.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010411932: LMA — Internacion Tempor.hasta 8Hs. -> estudios/ordenes-medicas/2026-05-20_orden_lma_0010411932.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010411970: LMASOLICITO INTERNACION 24 HS PARA SOPORTE TRANSFU — Orden de Internación en Piso -> estudios/ordenes-medicas/2026-05-26_orden_lmasolicito-internacion-24-hs-para-soporte-transfu_0010411970.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010449789: mantenimiento de picc — Flash de Heparina -> estudios/ordenes-medicas/2026-05-29_orden_mantenimiento-de-picc_0010449789.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010456066: fiebre en HIC — PERMANENCIA EN GUARDIA -> estudios/ordenes-medicas/2026-05-31_orden_fiebre-en-hic_0010456066.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010462679: LMA — Calcio Serico, Creatinina Serica, Formula Leucocitaria Porcentual, Fosforo Serico… -> estudios/ordenes-medicas/2026-06-05_orden_lma_0010462679.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010462681: LMA — Calcio Serico, Creatinina Serica, Formula Leucocitaria Porcentual, Fosforo Serico… -> estudios/ordenes-medicas/2026-06-06_orden_lma_0010462681.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010462685: LMA — Calcio Serico, Creatinina Serica, Formula Leucocitaria Porcentual, Fosforo Serico… -> estudios/ordenes-medicas/2026-06-07_orden_lma_0010462685.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010462686: LMA — Calcio Serico, Creatinina Serica, Formula Leucocitaria Porcentual, Fosforo Serico… -> estudios/ordenes-medicas/2026-06-08_orden_lma_0010462686.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010514824: LMASOLICITO LIMPIEZA PICC — Flash de Heparina -> estudios/ordenes-medicas/2026-06-12_orden_lmasolicito-limpieza-picc_0010514824.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010523912: LMA R — Orden de Internación en Piso -> estudios/ordenes-medicas/2026-06-19_orden_lma-r_0010523912.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010557333: lma — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2026-06-24_orden_lma_0010557333.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010577467: lma — Calcio Serico, Creatinina Serica, Fosforo Serico, Glucosa Serica… -> estudios/ordenes-medicas/2026-06-30_orden_lma_0010577467.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010591715: lma recaida — Internacion Tempor.hasta 8Hs. -> estudios/ordenes-medicas/2026-07-01_orden_lma-recaida_0010591715.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010591732: lma r — Acido Urico Serico, Calcio Serico, Creatinina Serica, Fosforo Serico… -> estudios/ordenes-medicas/2026-07-03_orden_lma-r_0010591732.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010612243: LMA — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2026-07-06_orden_lma_0010612243.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010612281: LMADOLOR MANDIBULAR EN PACIENTE NEUTROPENICOSOLICI — TOMOGRAFIA DE MACIZO FACIAL CON CONTRAST -> estudios/ordenes-medicas/2026-07-06_orden_lmadolor-mandibular-en-paciente-neutropenicosolici_0010612281.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010623174: LMA — Internacion Tempor.hasta 8Hs. -> estudios/ordenes-medicas/2026-07-08_orden_lma_0010623174.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010623222: LMASOPORTE TRANSFUSIONAL EN EL DIA DE LA FECHA Y E — Orden de Internación en Piso -> estudios/ordenes-medicas/2026-07-10_orden_lmasoporte-transfusional-en-el-dia-de-la-fecha-y-e_0010623222.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010623234: LMA — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2026-07-10_orden_lma_0010623234.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010623245: lmasoporte trasfusional de plaquetas en el dia y e — Orden de Internación en Piso -> estudios/ordenes-medicas/2026-07-12_orden_lmasoporte-trasfusional-de-plaquetas-en-el-dia-y-e_0010623245.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010623254: LMA — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2026-07-12_orden_lma_0010623254.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010623441: lmasolciito itnernacion durante el dia para estudi — Orden de Internación en Piso -> estudios/ordenes-medicas/2026-07-17_orden_lmasolciito-itnernacion-durante-el-dia-para-estudi_0010623441.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010631073: UDP — Dimero D cuant. -> estudios/ordenes-medicas/2026-07-12_orden_udp_0010631073.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010631074: INTERNADO — PERMANENCIA EN GUARDIA -> estudios/ordenes-medicas/2026-07-12_orden_internado_0010631074.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010659583: LMA — Acido Urico Serico, Calcio Serico, Creatinina Serica, Fosforo Serico… -> estudios/ordenes-medicas/2026-07-20_orden_lma_0010659583.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010670407: PLAQUETOPENIA — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2026-07-21_orden_plaquetopenia_0010670407.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010670437: LMA — Acido Urico Serico, Calcio Serico, Creatinina Serica, Eritrosedimentacion… -> estudios/ordenes-medicas/2026-07-23_orden_lma_0010670437.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010670446: PLAQUETOPENIA — Flash de Heparina -> estudios/ordenes-medicas/2026-07-21_orden_plaquetopenia_0010670446.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010670549: posterior a transfusion — Flash de Heparina -> estudios/ordenes-medicas/2026-07-21_orden_posterior-a-transfusion_0010670549.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010685552: LMA — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2026-07-24_orden_lma_0010685552.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010685559: LMA PLAQUTOPENIA SEVERA — Flash de Heparina -> estudios/ordenes-medicas/2026-07-24_orden_lma-plaqutopenia-severa_0010685559.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010700079: posterior a infusion — Flash de Heparina -> estudios/ordenes-medicas/2026-07-28_orden_posterior-a-infusion_0010700079.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010716032: mantenimiento de pICC — Flash de Heparina -> estudios/ordenes-medicas/2026-07-31_orden_mantenimiento-de-picc_0010716032.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010716068: mantenimiento de PICC — Flash de Heparina -> estudios/ordenes-medicas/2026-07-31_orden_mantenimiento-de-picc_0010716068.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010716080: mantenimiento de PICC — Flash de Heparina -> estudios/ordenes-medicas/2026-08-17_orden_mantenimiento-de-picc_0010716080.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010716103: leucemia mieloide aguda — Orden de Internación en Piso -> estudios/ordenes-medicas/2026-07-31_orden_leucemia-mieloide-aguda_0010716103.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010716130: mantenimiento de PICC — Flash de Heparina -> estudios/ordenes-medicas/2026-07-31_orden_mantenimiento-de-picc_0010716130.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010760831: LEUCEMIA AGUDAHIPERLEUCOCITOSIS — Orden de Internación en Piso -> estudios/ordenes-medicas/2026-08-11_orden_leucemia-agudahiperleucocitosis_0010760831.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010770630: LLA B R — Acido Urico Serico, Calcio Serico, Creatinina Serica, Fosforo Serico… -> estudios/ordenes-medicas/2026-08-18_orden_lla-b-r_0010770630.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010770930: LMAINTERNACION PARA TRANFUSION Y ALTA POSTERIOR — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2026-08-15_orden_lmainternacion-para-tranfusion-y-alta-posterior_0010770930.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010770932: LMAPLAQUETOPENIA + SANGRADO — Orden de Internación en Piso -> estudios/ordenes-medicas/2026-08-13_orden_lmaplaquetopenia-sangrado_0010770932.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010781933: para transfusion 24 hs — Orden de Internación en Piso -> estudios/ordenes-medicas/2026-08-15_orden_para-transfusion-24-hs_0010781933.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010787516: LMA hiperleucocitaria. — Infusion medicac.forma endoven, Internacion Tempor.hasta 8Hs. -> estudios/ordenes-medicas/2026-08-19_orden_lma-hiperleucocitaria_0010787516.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010787536: LMA HIPERLEUCOCITARIA — Internacion Tempor.hasta 8Hs., Quimioterapia en Infusión -> estudios/ordenes-medicas/2026-08-21_orden_lma-hiperleucocitaria_0010787536.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010787549: LMA HIPERLEUCOCITARIA — Internacion Tempor.hasta 8Hs., Quimioterapia en Infusión -> estudios/ordenes-medicas/2026-08-18_orden_lma-hiperleucocitaria_0010787549.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010787558: LMA HIPERLEUCOCITARIA — Internacion Tempor.hasta 8Hs., Quimioterapia en Infusión -> estudios/ordenes-medicas/2026-08-18_orden_lma-hiperleucocitaria_0010787558.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010799114: leucemia recaida post trasplante — Orden de Internación en Piso -> estudios/ordenes-medicas/2026-08-20_orden_leucemia-recaida-post-trasplante_0010799114.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010806596: DEALTA. — Acido Urico Serico, Calcio Serico, Creatinina Serica, Eritrosedimentacion… -> estudios/ordenes-medicas/2026-08-23_orden_dealta_0010806596.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010806603: ALTA — Acido Urico Serico, Calcio Serico, Creatinina Serica, Eritrosedimentacion… -> estudios/ordenes-medicas/2026-08-24_orden_alta_0010806603.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010845300: LMA — Acido Urico Serico, Calcio Serico, Creatinina Serica, Fosforo Serico… -> estudios/ordenes-medicas/2026-09-03_orden_lma_0010845300.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010845312: LMA — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2026-08-31_orden_lma_0010845312.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010869970: plaquetopenia — Solicitud de Hemocomponentes -> estudios/ordenes-medicas/2026-09-04_orden_plaquetopenia_0010869970.pdf
+10:03:41 INFO    sync: [dry-run] Orden 0010877436: PERICARDITIS RECURRENTE — Creatinina Serica, Eritrosedimentacion, Hemograma, Ionograma… -> estudios/ordenes-medicas/2026-09-07_orden_pericarditis-recurrente_0010877436.pdf
+10:03:47 WARNING api: Recetas (filter=0) no disponibles: HTTP 500 The method or operation is not implemented.
+10:03:51 WARNING api: Recetas (filter=1) no disponibles: HTTP 500 The method or operation is not implemented.
+10:03:55 WARNING api: Recetas (filter=2) no disponibles: HTTP 500 The method or operation is not implemented.
+10:03:55 INFO    sync: Recetas: 0 (endpoint no disponible)
+10:03:55 INFO    sync: Resumen: PDFs nuevos 0, existentes 0, errores 0 | DICOM nuevas 0, existentes 0, errores 0 | 0.00 GB descargados

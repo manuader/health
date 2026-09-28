@@ -1,0 +1,158 @@
+Paciente: ADER, MANUEL  Estudio: RESONANCIA CARDIACA CON CONTRASTE ENDOVENOSO
+Fecha de Nacimiento: 26/04/2004 Médico Derivante: N/D
+Fecha del Estudio: 17/07/2026 12:38:34 Procedencia: Ambulatorio
+RIS A. N.: 2776748 Número de Pac.: 0002201988
+Estado Informe: Final
+RESONANCIA CARDIACA CON CONTRASTE ENDOVENOSO
+Motivo de Solicitud: Valorar función ventricular y realce tardío.
+Diagnóstico Clínico: Sospecha de miopericarditis en paciente con LMA en recaìda.
+Procedencia: Internación.
+ 
+ 
+ 
+Peso: 70 KgAltura 177 cmSup.corporal 1.86 m2
+FC: 92 l/mGadolinio SiSedación: No
+ 
+ 
+ 
+TÉCNICA: 
+ 
+Estudio realizo con resonador Philips Achieva de 1.5 T, con uso de electrodos no ferromagnéticos 
+para sincronización cardíaca, con sensor respiratorio y antena de superficie. 
+ 
+Se adquieren  
+.cortes anatómicos con secuencias Turbo Spin Echo-Sangre Negra en planos transversal, sagital y 
+coronal 
+.secuencias de cine SENSE Balance Fast Field Echo (B-FFE) sobre planos longitudinales y 
+transversales de las cavidades cardíacas para análisis volumétrico/feature tracking 
+(cualitativo/cuantitativo). 
+.secuencias con bandas de saturación miocárdicas (tagging) para evaluación de función de fibra 
+(cualitativo/cuantitativo). 
+.secuencias de contraste de fase en aorta ascendente y arteria pulmonar. 
+Pág: 1
+
+.secuencias de realce tardío a los 10 minutos de la administración de 2mmol/kg de gadolinio 
+(gadoterato de meglumina). 
+ 
+ 
+CALIDAD TÉCNICA DEL ESTUDIO: 
+-EXCELENTE  
+-BUENA  (X) 
+-ACEPTABLE  
+-SUBÓPTIMA  
+ 
+MEDICIONES VASCULARES ARTERIALES
+ 
+ 
+Aorta Ascendente 23 mm masculino: 27 ± 4 (19-34), femenino: 26 ± 4 (18-33)
+Aorta Descendente 18 mm masculino: 21 ± 3 (15-26), femenino: 19 ± 2 (15-23)
+A. Pulmonar 20 mm masculino 27 ± 3 (21-33), femenino 25 ± 3 (19-31)
+ 
+ 
+ 
+MEDICIONES AURICULO-VENTRICULARES: 
+ 
+ 
+Aurícula Izquierda
+(área en 4 cámaras)
+16 cm2
+masculino: 21 ± 5 cm2, límites: 12-30
+femenino: 19 ± 5 cm2 , límites: 10-28
+Aurícula Derecha
+(área en 4 cámaras)
+18 cm2
+masculino: 23 ± 4 cm2, límites: 15-31
+femenino: 21 ± 4 cm2 , límites: 13-29
+ 
+ 
+Pág: 2
+
+Diámetro Diastólico VI 44 mm
+masculino: 52 ± 5 mm, límites: 42-62
+femenino: 49 ± 5 mm, límites: 39-59
+Diámetro Sistólico VI 30 mm
+masculino: 32 ± 3 mm, límites: 26-38
+femenino: 28 ± 6 mm, límites: 16-40
+Espesor medio anterior septal 10 mm
+masculino: 8.3 ± 1.3 mm, límites: 6-11
+femenino: 6.8 ± 1.1 mm, límites: 5-9
+Espesor medio posterior 10 mm
+masculino: 7.7 ± 1.3 mm, límites: 5-10
+femenino: 6.5 ± 1.1 mm, límites: 4-9
+ 
+MEDICIONES VOLUMETRICAS VENTRICULARES: 
+ 
+Ventrículo Izquierdo (edad 16-83 años): 
+ 
+Volumen de Fin de Diástole 148 ml
+masculino: 145 ± 31 ml, límites: 83-207
+femenino: 112 ± 21 ml, límites: 70-155
+Volumen de Fin de Sístole 63 ml
+masculino: 53 ± 18 ml, límites: 19-88
+femenino: 39 ± 12 ml, límites: 15-64
+Volumen sistólico 85 ml
+masculino: 91 ± 18 ml, límites: 55-127
+femenino: 73 ± 13 ml/m2 , límites: 47-99
+Fracción de Eyección 57 %
+masculino: 63 ± 6 %, límites: 51-76
+femenino: 66 ± 7 %, límites: 52-79
+Masa 113 g
+masculino: 105 g ± 24, límites: 57-152
+femenino 73 g ± 15, límites: 43-103
+Masa/Superficie corporal 60 g/m2 masculino: 56 g/m2 ± 10, límites: 36-75
+Pág: 3
+
+femenino 45 g/m2 ± 7, límites: 30-59
+ 
+ 
+Ventrículo Derecho (edad 20-79 años): 
+ 
+ 
+Volumen de fin de diástole 170 ml
+masculino: 163 ± 27 ml, límites: 109-217
+femenino: 127 ± 24 ml, límites: 79-175
+Volumen de fin de sístole 66 ml
+masculino: 57 ± 17 ml, límites: 23-91
+femenino: 44 ± 15 ml , límites: 13-75
+Volumen sistólico 103 ml
+masculino: 106 ± 18 ml, límites: 71-141
+femenino: 83 ± 13 ml, límites: 56-110
+Fracción de eyección  60 %
+masculino: 66 ± 7 %, límites: 51-80
+femenino: 66 ± 7 %, límites: 52-80
+               
+                (valores de referencia: Kawel-Boehm N y cols. J Cardiovasc Magn Reson. 2020;22:87) 
+  
+DESCRIPCIÓN: 
+ 
+Los diámetros cavitarios y los espesores parietales están conservados. 
+ 
+La aorta ascendente, descendente y el tronco de la arteria pulmonar presentan diámetros en 
+valores normales. 
+ 
+Los volúmenes de fin de diástole y fin de sístole de Ventrículo Izquierdo se encuentran dentro de 
+límites normales, para sexo y edad. Con función sistólica global y segmentaria conservada.  
+ 
+Pág: 4
+
+Los volúmenes de fin de diástole y fin de sístole de Ventrículo Derecho se encuentran dentro de 
+límites normales, para sexo y edad. Con función sistólica global y segmentaria conservada.  
+ 
+Se realizan secuencias potenciadas en T1 y T2 (con supresión grasa) con hiperintensidad de señal 
+a predominio de cara anterior y hojas pericáridcas, sugestivo de edema. 
+ 
+Pericardio con espesores en límite superior normal. 
+ 
+No se observa derrame pericárdico ni pleural. 
+ 
+En las secuencias de inversión/recuperación tras la administración de material de contraste 
+(gadolinio) se observa pequeña área de realce tardío intramiocárdico basal anterior con captación
+pericárdica (patrón no isquémico). 
+ 
+ 
+CONCLUSION:  
+-Estudio compatible en primera instancia con miopericarditis aguda (a correlacionar con 
+antecedentes y contexto clínico del paciente). 
+ 
+ 
+Pág: 5

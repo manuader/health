@@ -1,0 +1,99 @@
+RFC-MICROSITImpreso por: Hospital Británico – Epicrisis – V01
+10/09/2026Fecha y hora de impresión: 10:16:40 Página 1 de 2
+EPICRISIS
+IDENTIFICACIÓN
+ADER  MANUELApellido y Nombre:
+D.N.I.Tipo de documento: 45683086Número de documento: Estado Civil:
+26/04/2004Fecha de nacimiento: 22 años 0 mesesEdad de Atención: MasculinoSexo:
+CABALugar de residencia: AV. CABILDO 645 5° ADirección de domicilio: 1149865834Teléfono domicilio:
+mejalelaty alejandraAcompañante: MadreParentesco: 1149865834Teléfono acompañante:
+MEDICUSAseguradora: CELESTEPlan: 10097779003Numero de afiliado:
+HB CentralLugar de Atención: 44570147Episodio: InternadosClase de episodio:
+27/04/2026Fecha Ingreso: 07/05/2026Fecha Egreso:
+Epicrisis de egreso hospitalario
+Domicilio sin At. DomiciliariaCondición de Egreso:
+ 
+ 
+HEMATOLOGÍA 
+ 
+22 años 
+Diagnóstico actual: 
+Síndrome mielodisplásico / leucemia mieloide aguda (SMD/LMA) según clasificación ICC 2022 
+SMD con exceso de blastos tipo II según clasificación WHO 2022 
+Recaída temprana post-trasplante alogénico haploidéntico, como LMA secundaria a SMD (38% de blastos) 
+ 
+◆Historia oncohematológica 
+Diagnóstico inicial: Mayo 2025 
+SMD en paciente joven 
+Clasificación ICC: SMD/LMA 
+Clasificación WHO: SMD con exceso de blastos tipo II 
+ 
+Clasif ICC: SMD/LMA Clasif WHO: EB tipo II 
+- Scores Pronósticos: 
+1. IPSS-Mol: RIESGO ALTO (Hb 6/RAN900/plaq10.000/CTG: cariotipo normal/WT1 mutado VAF 40,7%/blastos 9.3%, medulograma 12%) 
+2. IPSS-R: IPSS*R RIESGO ALTO 
+ 
+◆Tratamientos recibidos 
+>1ª línea (citoreducción): Azacitidina +Venetoclax → logra 1ª remisión completa (RC) 
+> 03/09/2025: Trasplante alogénico de progenitores hematopoyéticos haploidéntico 
+Indicación: estrategia con potencial curativo por enfermedad de alto riesgo 
+Evolución: sin EICH ni reactivación de CMV 
+ 
+Actualmente SMD Riesgo alto de LMA que recae post trasplante como LMA secundaria a SMD FLT3 positivo 
+ 
+◆Tratamiento de recaída 
+> Azacitidina + Venetoclax 
+Evaluación D28 (post ciclo 1): 18% blastos mieloides 
+Infiltración morfológica >20% → enfermedad refractaria 
+> Citarabina + Midostaurina 
+Control medular: 26% blastos mieloides → refractaria 
+> Requirió citorreducción por fase proliferativa: 
+Hidroxiurea + Citarabina 
+>27/04: Inicio de 3ª línea (off-label): 
+Azacitidina + Venetoclax + Gilteritinib 
+ 
+Estudios complementarios: 
+RMN 17/04: evolución radiológica favorable del proceso inflamatorio/infeccioso del conducto anal 
+ 
+Antecedentes personales:
+Quimioterapia
+Motivo de internación:
+Inicio esquema Esquema actual de tratamiento 3L (27/04/2026) 
+CTO 7/7: Azacitidina 
+Día 11/14: Venetoclax 200 mg (ajustado por interacción con isavuconazol) 
+Resumen de Internación:
+
+IDENTIFICACIÓN
+ADER  MANUELApellido y Nombre:
+45683086Número de documento:D.N.I.Tipo de documento:
+HB CentralLugar de atención: 44570147Episodio: InternadosClase de episodio:
+26/04/2004Fecha de nacimiento:
+ RFC-MICROSITImpreso por: Hospital Británico – Epicrisis – V01
+10/09/2026Fecha y hora de impresión: 10:16:40 Página 2 de 2
+EPICRISIS
+Día 11/28: Gilteritinib 120 mg 
+ 
+Intercurrencias: 
+- NTF foco respiratorio (sinusitis, Rhinovirus/Enterovirus +) en tratamiento con Meropenem (D5) 
+ 
+EF: 
+Lucido. 
+HDE. Afebril 
+Cateter PICC braquial izquierdo, con hematoma 
+ABDI; RHA+ 
+ 
+LABORATORIO: 
+Hto 26% Hb 8.6 g/dl GB: 200/mm3 Plaq: 27.000/mm3 
+ 
+Se brindan pautas de alarma y educación acorde a diagnostico 
+ 
+- En plan de egreso en el dia de la fecha. Vendra el sabado 09/05 a transfusion de GR y CPDUA 
+- Ingresara el dia lunes 11/05 a internacion para soporte transfusionaly realizacion de estudios medulares para evaluacion del tratamiendo al 
+dia 14 de ciclo actual, segun resultado se evulara la suspencion de Venetoclax para reducir toxicidad. Se habla con el paciente explicando 
+plan, entiende. 
+- Soporte transfusional: 1 CPDUA 
+- Continua QMT (venetoclax y gilteritinib) 
+- Egresa con ciprofloxacina por indicacion de infectologia 
+- Control evolutivo
+Comentarios
+SUAREZ SANDOVAL LUIS MIGUELResponsable: MN176446No. Matrícula HEMATOLOGIAServicio:

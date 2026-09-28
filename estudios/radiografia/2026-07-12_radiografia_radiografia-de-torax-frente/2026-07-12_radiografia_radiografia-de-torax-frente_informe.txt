@@ -1,0 +1,8 @@
+Paciente: ADER, MANUEL  Estudio: RADIOGRAFIA DE TORAX FRENTE
+Fecha de Nacimiento: 26/04/2004 Médico Derivante: N/D
+Fecha del Estudio: 12/07/2026 14:27:37 Procedencia: Ambulatorio
+RIS A. N.: 2771893 Número de Pac.: 0002201988
+Estado Informe: Final
+Se efectuó radiografía con equipo DX100 AGFA Digital directo, de acuerdo al pedido realizado por 
+profesional médico del Servicio de Emergencia del Hospital Británico.
+Pág: 1

@@ -1,0 +1,44 @@
+Paciente: ADER, MANUEL  Estudio: TOMOGRAFIA DE TORAX SIN CONTRASTE ENDOVENOSO
+Fecha de Nacimiento: 26/04/2004 Médico Derivante: N/D
+Fecha del Estudio: 23/03/2026 10:10:34 Procedencia: Ambulatorio
+RIS A. N.: 2673096 Número de Pac.: 0002201988
+Estado Informe: Final
+TOMOGRAFIA DE TORAX SIN CONTRASTE ENDOVENOSO
+TOMOGRAFIA DE CEREBRO SIN CONTRASTE ENDOVENOSO
+TOMOGRAFIA DE SENOS PARANASALES SIN CONTRASTE ENDOVENOSO
+Técnica: Se efectuó tomografía computada multi-slice de cerebro, senos paranasales y tórax sin 
+contraste endovenoso, mediante una adquisición volumétrica en el plano axial y posteriores 
+reconstrucciones multiplanares.
+Informe:
+CEREBRO
+Se toma en consideración tomografía del día 03/08/2025.
+Densidad conservada en el parénquima encefálico supra e infratentorial.
+Sistema ventricular y espacio subaracnoideo supra e infratentorial acordes a la edad sin signos de 
+dilatación ni compresión.
+No se evidencian colecciones extra-axiales.
+Línea media conservada.
+Fosa posterior sin particularidades.
+SENOS PARANASALES
+Se toma en consideración tomografía del día 17/03/2026.
+Senos paranasales libres.  
+Complejos ostiomeatales permeables. 
+Leve desviación sinuosa del tabique nasal, con componente predominante levoconvexo en el 
+tercio medio-anterior, asociado a espolón óseo homolateral.
+Cajas timpánicas y celdillas mastoideas libres. 
+Cavum sin particularidades.
+TÓRAX
+Se toma en consideración tomografía del día 17/03/2026.
+No se evidencian opacidades nodulares, ni procesos de consolidación parenquimatosa actual. 
+El árbol tráqueo bronquial principal es de calibre y permeabilidad conservado.
+No se observan adenomegalias en mediastino ni en regiones axilares.
+No se constata derrame pleural ni pericárdico.
+Pág: 1
+
+Está conservado el calibre de los grandes vasos mediastínicos.
+Port-a-cath con extremo en vena cava superior.
+Disminución de la densidad del pool vascular como signo de anemia, a correlacionar con 
+laboratorio.
+Resto sin cambios con respecto al previo de referencia.
+IMPRESIÓN DIAGNÓSTICA:
+Estudio sin evidencia de alteraciones agudas.
+Pág: 2

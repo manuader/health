@@ -1,0 +1,56 @@
+{
+  "idReport": "2613551",
+  "idLaboratory": "0013116671",
+  "descripcion": "ECOGRAFIA DE PARTES BLANDAS ADULTOS",
+  "servicio": "Diagnóstico por Imágenes",
+  "fecha": "2026-04-03",
+  "accession": "0013116671",
+  "study_uid": "1.2.840.113845.11.1000000002152132195.20260403080143.5951795",
+  "study_date": "20260403",
+  "modalidades": "PR\\SR\\US",
+  "procedimiento": "ECOGRAFIA DE PARTES BLANDAS ADULTOS",
+  "urlViewer": "https://estudios.hbritanico.com.ar/im/#/125/815ce3762d576d66a1a733441c54e144?fromportal=true",
+  "documentos_visor": [
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "79426F5356385A63324B7167395746542B6C7A5274673D3D0A"
+    }
+  ],
+  "documentos_extra": [],
+  "series": [
+    {
+      "numero": 1,
+      "modalidad": "US",
+      "descripcion": "",
+      "series_uid": "1.2.392.200036.9116.6.20.14623447.9500.20260403140139378.1.4",
+      "instancias": 6,
+      "carpeta": "estudios/ecografia/2026-04-03_ecografia_ecografia-de-partes-blandas-adultos/dicom/001_us",
+      "descargadas": 6,
+      "errores": 0
+    }
+  ],
+  "dicom_series": 1,
+  "dicom_instancias": 6,
+  "dicom_descargadas": 6,
+  "dicom_completo": true,
+  "dicom_metadata": {
+    "Modality": "US",
+    "StudyDate": "20260403",
+    "StudyTime": "110139",
+    "StudyDescription": "ECOGRAFIA DE PARTES BLANDAS ADULTOS",
+    "SeriesDescription": "",
+    "SeriesNumber": 1,
+    "InstanceNumber": 2,
+    "Manufacturer": "TOSHIBA_MEC_US",
+    "ManufacturerModelName": "TUS-X100",
+    "BodyPartExamined": "",
+    "ProtocolName": "MSK",
+    "Rows": 720,
+    "Columns": 960,
+    "SOPClassUID": "1.2.840.10008.5.1.4.1.1.6.1",
+    "SOPInstanceUID": "1.2.392.200036.9116.6.20.14623447.9500.20260403140327789.1.9",
+    "SeriesInstanceUID": "1.2.392.200036.9116.6.20.14623447.9500.20260403140139378.1.4",
+    "StudyInstanceUID": "1.2.840.113845.11.1000000002152132195.20260403080143.5951795"
+  }
+}

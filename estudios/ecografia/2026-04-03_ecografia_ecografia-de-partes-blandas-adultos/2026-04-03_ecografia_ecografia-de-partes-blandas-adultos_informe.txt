@@ -1,0 +1,11 @@
+Paciente: ADER, MANUEL  Estudio: ECOGRAFIA DE PARTES BLANDAS ADULTOS
+Fecha de Nacimiento: 26/04/2004 Médico Derivante: N/D
+Fecha del Estudio: 03/04/2026 07:59:56 Procedencia: Ambulatorio
+RIS A. N.: 2682104 Número de Pac.: 0002201988
+Estado Informe: Final
+ECOGRAFIA DE PARTES BLANDAS ADULTOS
+ 
+Se realizó rastreo ecográfico en región de interés (perianal) evidenciando aumento del espesor y 
+ecogenicidad del tejido celular subcutáneo atribuible a edema.
+No se evidencian colecciones adyacentes.
+Pág: 1

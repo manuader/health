@@ -1,0 +1,25 @@
+RFC-MICROSITImpreso por: Hospital Británico – Orden Clinica
+10/09/2026Fecha y Hora de impresión: 10:19:32
+ORDEN CLÍNICA/ Hospital de día HB Central
+ADERApellido:
+CME-HEMGUM:
+45683086DNI:22 añosEdad:
+CUT-HEMGUT:
+10514824Nro. Orden:
+26/04/2004F.Nac.:
+MANUELNombre:
+12/06/2026Fecha:
+UrgentePrioridad:
+MEDICUSFinanciador:
+CELESTEPlan: EXENTOCond. de I.V.A.:
+10097779003Nro. Afiliado:
+20042/001Cod. Finan:
+Diagnóstico Presuntivo y Observaciones:
+LMA 
+SOLICITO LIMPIEZA PICC
+           Firma
+ALEJANDRA JUDITH SOLANO TORRES
+167751M.N. --    M.P.
+Médico
+Descripción Cantidad
+Flash de Heparina 1

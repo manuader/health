@@ -1,0 +1,27 @@
+Paciente: ADER, MANUEL  Estudio: RESONANCIA DE CEREBRO CON CONTRASTE ENDOVENOSO
+Fecha de Nacimiento: 26/04/2004 Médico Derivante: N/D
+Fecha del Estudio: 15/07/2025 12:26:44 Procedencia: Ambulatorio
+RIS A. N.: 2454414 Número de Pac.: 0002201988
+Estado Informe: Final
+RESONANCIA DE CEREBRO CON CONTRASTE ENDOVENOSO
+RESONANCIA DE ORBITA BILATERAL CON CONTRASTE ENDOVENOSO
+DIFUSION POR RESONANCIA
+INFORME:
+En secuencia de difusión no se observan imágenes de restricción.
+Espacios subaracnoideos corticales, cisternas basales y sistema ventricular sin alteraciones ni 
+desplazamientos.
+Línea media conservada.
+No se registran alteraciones significativas en la señal proveniente del parénquima encefálico.
+Fosa posterior sin particularidades por el método.
+Globos oculares de morfología y señal conservada.
+Musculatura ocular extrínseca dentro de límites normales.
+Se observa leve distensión de las vainas de ambos nervios ópticos asociado a discreta tortuosidad
+de los mismos. 
+Espacio graso post-septal intra y extraconal conservados.
+Con el contraste endovenoso no se observan realces anormales.
+IMPRESIÓN DIAGNÓSTICA:
+Difusión negativa.
+RM de cerebro sin particularidades.
+RM de orbitas con leve distensión de las vainas de ambos nervios ópticos asociado a discreta 
+tortuosidad de los mismos. Correlacionar con cuadro clínico y exámenes complementarios.
+Pág: 1

@@ -1,0 +1,13 @@
+Paciente: ADER, MANUEL  Estudio: ECODOPPLER DE VASOS DE CUELLO
+Fecha de Nacimiento: 26/04/2004 Médico Derivante: N/D
+Fecha del Estudio: 13/04/2026 10:22:12 Procedencia: Ambulatorio
+RIS A. N.: 2689909 Número de Pac.: 0002201988
+Estado Informe: Final
+ECODOPPLER DE VASOS DE CUELLO
+ 
+Se efectuaron maniobras de compresión, Doppler color y onda espectral evaluándose las venas: 
+yugular y subclavia del lado derecho. 
+Se evidencia al interior de la vema yugular interna, adherido a su pared, una pequeña imagen 
+ecogénica, no compresible compatible con trombo periférico. Pese a ello el flujo se encuentra 
+conservado en todos los vasos valorados con Doppler color.
+Pág: 1

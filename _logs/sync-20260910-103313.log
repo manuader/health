@@ -1,0 +1,122 @@
+10:33:16 INFO    auth: Sesión reutilizada desde cache (adermanu@gmail.com).
+10:33:20 INFO    sync: Resultados: 37 laboratorio, 49 imágenes/otros
+10:33:45 INFO    sync: 2026-08-21_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso: 18 series, 2458 instancias (~1278 MB)
+10:33:45 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//6845765753647A49367269696C67476C577A6D3163773D3D0A
+10:39:17 INFO    sync: 2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso: 19 series, 754 instancias (~113 MB)
+10:39:17 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//583237524748464A7455796572682B6D374B557877413D3D0A
+10:40:29 INFO    sync: 2026-07-15_radiografia_radiografia-de-torax-frente: 1 series, 1 instancias (~8 MB)
+10:40:29 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//685534442B556150626F6B50362F542F356A526530513D3D0A
+10:40:34 INFO    sync: 2026-07-14_radiografia_radiografia-de-torax-frente: 1 series, 1 instancias (~8 MB)
+10:40:34 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//44373557315A4874646C77367533432B75576C7055513D3D0A
+10:40:39 INFO    sync: 2026-07-13_ecografia_ecodoppler-venoso-de-miembro-inferior-izquierdo-para-diagn-de-trombosis: 1 series, 22 instancias (~9 MB)
+10:40:39 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//483742334936674E554444746971336B4B6B6A494B773D3D0A
+10:40:39 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//483742334936674E554444746971336B4B6B6A494B773D3D0A
+10:40:39 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//483742334936674E554444746971336B4B6B6A494B773D3D0A
+10:41:13 INFO    sync: 2026-07-12_tomografia_tomografia-de-torax-sin-contraste-endovenoso: 18 series, 2463 instancias (~1281 MB)
+10:41:14 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//564162487466614F6C6E3178465A4A666B62473750773D3D0A
+10:41:14 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//564162487466614F6C6E3178465A4A666B62473750773D3D0A
+10:45:56 INFO    sync: 2026-07-12_radiografia_radiografia-de-torax-frente: 2 series, 2 instancias (~16 MB)
+10:45:56 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//38436A2B6B764C375357526B3075674E7A32316747773D3D0A
+10:46:26 INFO    sync: 2026-07-06_tomografia_tomografia-de-macizo-facial-con-contraste-endovenoso: 13 series, 1390 instancias (~723 MB)
+10:46:26 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//326E59463432702F5747535968752F4D4875756353773D3D0A
+10:51:23 INFO    sync: 2026-06-25_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso: 10 series, 1777 instancias (~924 MB)
+10:51:23 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//59687345703754344245316D6A494B46696641636C513D3D0A
+10:55:10 INFO    sync: 2026-06-01_ecografia_ecodoppler-de-vasos-de-cuello: 1 series, 1 instancias (~0 MB)
+10:55:11 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//67536F644A4B644E6A2B71356C5848652F6F32644D773D3D0A
+10:55:41 INFO    sync: 2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso: 18 series, 2715 instancias (~1412 MB)
+10:55:41 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//444862417A3042394F676D67414766364D42762B65513D3D0A
+11:02:29 INFO    sync: 2026-05-03_tomografia_tomografia-de-torax-sin-contraste-endovenoso: 18 series, 2618 instancias (~1361 MB)
+11:02:29 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//477957596563746651597A334256684E5573357975673D3D0A
+11:02:29 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//477957596563746651597A334256684E5573357975673D3D0A
+11:02:29 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//477957596563746651597A334256684E5573357975673D3D0A
+11:02:29 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//477957596563746651597A334256684E5573357975673D3D0A
+11:04:06 WARNING pacs: Instancia 68313.481388: WADO no devolvió DICOM válido para 68313.481388
+11:07:52 INFO    sync: 2026-04-27_radiografia_radiografia-de-torax-frente: 1 series, 1 instancias (~8 MB)
+11:07:52 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//32756F3379396F716F4E54774431677752374A6256513D3D0A
+11:08:12 INFO    sync: 2026-04-27_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso: 19 series, 890 instancias (~133 MB)
+11:08:12 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//674E73576C5A777A45466776595437377838485970513D3D0A
+11:08:12 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//674E73576C5A777A45466776595437377838485970513D3D0A
+11:10:08 INFO    sync: 2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso: 30 series, 3043 instancias (~456 MB)
+11:10:08 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//71387645355939564F5772306E344C663075646F55673D3D0A
+11:17:19 INFO    sync: 2026-04-13_ecografia_ecodoppler-de-vasos-de-cuello: 1 series, 10 instancias (~4 MB)
+11:17:19 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//2F317A64546561564E542F4C6E305269674E4E422F773D3D0A
+11:17:46 INFO    sync: 2026-04-07_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso: 17 series, 2644 instancias (~1375 MB)
+11:17:46 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//447778736338623238735844425A52487331726942773D3D0A
+11:24:05 INFO    sync: 2026-04-03_ecografia_ecografia-de-partes-blandas-adultos: 1 series, 6 instancias (~2 MB)
+11:24:05 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//79426F5356385A63324B7167395746542B6C7A5274673D3D0A
+11:24:41 INFO    sync: 2026-03-31_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso: 31 series, 2980 instancias (~447 MB)
+11:24:41 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//54494F72686F4F6B7671714C5177396F436F69394E673D3D0A
+11:24:41 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//54494F72686F4F6B7671714C5177396F436F69394E673D3D0A
+11:32:14 INFO    sync: 2026-03-31_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso: 14 series, 2253 instancias (~1172 MB)
+11:32:14 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//4B2B62624C4731524D5A5169716B744E4C4F565A68773D3D0A
+11:32:14 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//4B2B62624C4731524D5A5169716B744E4C4F565A68773D3D0A
+11:37:29 INFO    sync: 2026-03-24_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso: 21 series, 1019 instancias (~153 MB)
+11:37:29 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//4E515030664B42746975775041764F304737445770513D3D0A
+11:37:29 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//4E515030664B42746975775041764F304737445770513D3D0A
+11:37:29 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//4E515030664B42746975775041764F304737445770513D3D0A
+11:39:38 INFO    sync: 2026-03-23_tomografia_tomografia-de-torax-sin-contraste-endovenoso: 18 series, 3318 instancias (~1725 MB)
+11:39:38 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//757258797A4538426C536A7253767A627A45797674773D3D0A
+11:47:10 INFO    sync: 2026-03-20_radiografia_radiografia-de-torax-frente: 1 series, 1 instancias (~8 MB)
+11:47:10 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//51666176594F33772F6B556356435478655A765055513D3D0A
+11:47:19 INFO    sync: 2026-03-18_radiografia_radiografia-de-torax-frente: 1 series, 1 instancias (~8 MB)
+11:47:19 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//75793761726657506E59645443756A34516D417074413D3D0A
+11:47:47 INFO    sync: 2026-03-17_tomografia_tomografia-de-torax-sin-contraste-endovenoso: 17 series, 2438 instancias (~1268 MB)
+11:47:47 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//625A396C6E6E7769546B526570655774695435464C673D3D0A
+11:47:47 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//625A396C6E6E7769546B526570655774695435464C673D3D0A
+11:54:07 INFO    sync: 2026-03-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso: 21 series, 1319 instancias (~198 MB)
+11:54:07 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//357572303943545A39364F653978574F5454434D53673D3D0A
+11:56:38 INFO    sync: 2026-03-12_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso: 20 series, 880 instancias (~132 MB)
+11:56:38 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//5A77565863524634306177696D375053384159626F673D3D0A
+11:58:17 INFO    sync: 2026-03-09_tomografia_tomografia-de-torax-sin-contraste-endovenoso: 17 series, 2487 instancias (~1293 MB)
+11:58:17 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//4D4F4F304C6D71456745616E617437365A4867554A673D3D0A
+12:04:24 INFO    sync: 2026-02-24_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso: 21 series, 936 instancias (~140 MB)
+12:04:24 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//5064534D3741545570445559723278566C44674F2F413D3D0A
+12:05:55 INFO    sync: 2026-02-11_radiografia_radiografia-de-torax-frente: 1 series, 1 instancias (~8 MB)
+12:05:56 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//5A3768715866764B743046366F6979716E344E474C413D3D0A
+12:06:21 INFO    sync: 2025-12-10_tomografia_tomografia-de-torax-sin-contraste-endovenoso: 17 series, 2487 instancias (~1293 MB)
+12:11:43 INFO    sync: 2025-10-20_tomografia_tomografia-de-torax-sin-contraste-endovenoso: 18 series, 2541 instancias (~1321 MB)
+12:11:43 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//53536C554F525462664B775653765A6561666E6A4B413D3D0A
+12:17:40 INFO    sync: 2025-10-06_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso: 19 series, 3156 instancias (~1641 MB)
+12:17:40 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//4A756735576A764B4F5546315874656B6868597030773D3D0A
+12:24:14 INFO    sync: 2025-09-20_ecografia_ecografia-de-partes-blandas-adultos: 1 series, 5 instancias (~2 MB)
+12:24:14 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//714131475574514C494632797178786C747372384A513D3D0A
+12:24:14 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//714131475574514C494632797178786C747372384A513D3D0A
+12:24:14 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//714131475574514C494632797178786C747372384A513D3D0A
+12:24:38 INFO    sync: 2025-09-19_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso: 17 series, 2560 instancias (~1331 MB)
+12:24:38 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//784C694B59704B416B39775471396A323570376E42773D3D0A
+12:24:38 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//784C694B59704B416B39775471396A323570376E42773D3D0A
+12:29:49 INFO    sync: 2025-09-17_radiografia_radiografia-de-torax-frente: 1 series, 1 instancias (~8 MB)
+12:29:49 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//57497276632F76534C786448384F71766D39706663413D3D0A
+12:29:54 INFO    sync: 2025-09-15_radiografia_radiografia-de-torax-frente: 1 series, 1 instancias (~8 MB)
+12:29:54 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//626C756275394D4D6F6462744371585035364D786E513D3D0A
+12:30:00 INFO    sync: 2025-08-28_radiografia_radiografia-de-torax-frente: 1 series, 1 instancias (~8 MB)
+12:30:01 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//4B68745A70454643734F66766B4352734665346F61773D3D0A
+12:30:21 INFO    sync: 2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia: 22 series, 1077 instancias (~162 MB)
+12:32:15 INFO    sync: 2025-08-19_tomografia_tomografia-de-torax-sin-contraste-endovenoso: 17 series, 2403 instancias (~1250 MB)
+12:32:15 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//656E31786764645A65697275774F613553336D6164413D3D0A
+12:32:15 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//656E31786764645A65697275774F613553336D6164413D3D0A
+12:32:15 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//656E31786764645A65697275774F613553336D6164413D3D0A
+12:37:11 INFO    sync: 2025-08-08_tomografia_tomografia-de-macizo-facial-con-contraste-endovenoso: 14 series, 1532 instancias (~797 MB)
+12:37:11 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//3577354C5862646C4772594F743346704E73524377513D3D0A
+12:37:27 WARNING sync: Documento del visor INFORME PRINCIPAL: GET https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//3577354C5862646C4772594F743346704E73524377513D3D0A falló: HTTP 500
+12:40:38 INFO    sync: 2025-08-04_tomografia_tomografia-de-torax-sin-contraste-endovenoso: 24 series, 2883 instancias (~1499 MB)
+12:40:38 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//635867724F7A43627851476C524E4F6F78524E3138773D3D0A
+12:40:38 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//635867724F7A43627851476C524E4F6F78524E3138773D3D0A
+12:46:26 INFO    sync: 2025-08-03_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso: 5 series, 694 instancias (~361 MB)
+12:46:26 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//376C7466563644416551456968517A57763858764E773D3D0A
+12:46:26 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//376C7466563644416551456968517A57763858764E773D3D0A
+12:47:46 INFO    sync: 2025-07-23_ecografia_ecodoppler-arterial-y-venoso-de-miembro-superior-izquierdo: 1 series, 15 instancias (~6 MB)
+12:47:46 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//6A67694D38514830706C6A43324C4861626B756936513D3D0A
+12:47:53 INFO    sync: 2025-07-17_radiografia_radiografia-de-torax-frente: 1 series, 1 instancias (~8 MB)
+12:47:53 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//386473396B5479356B41475236344D376C7133435A773D3D0A
+12:48:00 ERROR   sync: PACS 2025-07-16_radiografia_radiografia-de-torax-frente: C-FIND STUDY sin resultados para accession 0011866714
+12:48:02 INFO    sync: 2025-07-15_ecografia_ecografia-completa-de-abdomen: 1 series, 14 instancias (~6 MB)
+12:48:02 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//646F4372676B72574B2B73472F5654647833576177513D3D0A
+12:48:32 INFO    sync: 2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso: 33 series, 1688 instancias (~253 MB)
+12:48:32 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//2F355A4C4943693757753461635764446156504B54413D3D0A
+12:48:32 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//2F355A4C4943693757753461635764446156504B54413D3D0A
+12:50:50 INFO    sync: 2025-07-15_tomografia_tomografia-de-torax-sin-contraste-endovenoso: 18 series, 2488 instancias (~1294 MB)
+12:50:50 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//326E4F5338315A7478754A5A6F584953696E636A34513D3D0A
+12:50:50 WARNING sync: Documento del visor INFORME PRINCIPAL: 404 Client Error: Not Found for url: https://estudios.hbritanico.com.ar/cgi-bin/minisite.bf/pdf//326E4F5338315A7478754A5A6F584953696E636A34513D3D0A
+12:55:55 INFO    sync: Índice: /Users/manuader/Desktop/health/INDICE.md
+12:55:55 INFO    sync: Resumen: PDFs nuevos 0, existentes 0, errores 0 | DICOM nuevas 61975, existentes 0, errores 2 | 30.85 GB descargados

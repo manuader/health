@@ -1,0 +1,180 @@
+{
+  "idReport": "2698150",
+  "idLaboratory": "0013604375",
+  "descripcion": "TOMOGRAFIA DE MACIZO FACIAL CON CONTRASTE ENDOVENOSO",
+  "servicio": "Diagnóstico por Imágenes",
+  "fecha": "2026-07-06",
+  "accession": "0013604375",
+  "study_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1783315732.378438",
+  "study_date": "20260706",
+  "modalidades": "CT\\PR\\SR",
+  "procedimiento": "TOMOGRAFIA DE MACIZO FACIAL CON CONTRASTE ENDOVENOSO",
+  "urlViewer": "https://estudios.hbritanico.com.ar/im/#/125/f9d816e2c5576cb8f9a4daa416cfcf31?fromportal=true",
+  "documentos_visor": [
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "326E59463432702F5747535968752F4D4875756353773D3D0A"
+    }
+  ],
+  "documentos_extra": [],
+  "series": [
+    {
+      "numero": 3,
+      "modalidad": "CT",
+      "descripcion": "Hueso 2.0 Axial",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1783315900.768018",
+      "instancias": 86,
+      "carpeta": "estudios/tomografia/2026-07-06_tomografia_tomografia-de-macizo-facial-con-contraste-endovenoso/dicom/003_hueso-2-0-axial",
+      "descargadas": 86,
+      "errores": 0
+    },
+    {
+      "numero": 4,
+      "modalidad": "CT",
+      "descripcion": "Tej Blandos 2.0 Axial",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1783315917.455120",
+      "instancias": 86,
+      "carpeta": "estudios/tomografia/2026-07-06_tomografia_tomografia-de-macizo-facial-con-contraste-endovenoso/dicom/004_tej-blandos-2-0-axial",
+      "descargadas": 86,
+      "errores": 0
+    },
+    {
+      "numero": 5,
+      "modalidad": "CT",
+      "descripcion": "Hueso 1.0 Vol",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1783315930.82117",
+      "instancias": 213,
+      "carpeta": "estudios/tomografia/2026-07-06_tomografia_tomografia-de-macizo-facial-con-contraste-endovenoso/dicom/005_hueso-1-0-vol",
+      "descargadas": 213,
+      "errores": 0
+    },
+    {
+      "numero": 6,
+      "modalidad": "CT",
+      "descripcion": "Hueso 2.000 Coronal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1783315962.893362",
+      "instancias": 88,
+      "carpeta": "estudios/tomografia/2026-07-06_tomografia_tomografia-de-macizo-facial-con-contraste-endovenoso/dicom/006_hueso-2-000-coronal",
+      "descargadas": 88,
+      "errores": 0
+    },
+    {
+      "numero": 7,
+      "modalidad": "CT",
+      "descripcion": "Hueso 2.000 Sagittal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1783315969.40731",
+      "instancias": 75,
+      "carpeta": "estudios/tomografia/2026-07-06_tomografia_tomografia-de-macizo-facial-con-contraste-endovenoso/dicom/007_hueso-2-000-sagittal",
+      "descargadas": 75,
+      "errores": 0
+    },
+    {
+      "numero": 8,
+      "modalidad": "CT",
+      "descripcion": "Tej Blandos 0.5 Vol",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1783315974.188006",
+      "instancias": 341,
+      "carpeta": "estudios/tomografia/2026-07-06_tomografia_tomografia-de-macizo-facial-con-contraste-endovenoso/dicom/008_tej-blandos-0-5-vol",
+      "descargadas": 341,
+      "errores": 0
+    },
+    {
+      "numero": 9,
+      "modalidad": "CT",
+      "descripcion": "Tej Blandos 3.000 Coronal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1783316039.682347",
+      "instancias": 58,
+      "carpeta": "estudios/tomografia/2026-07-06_tomografia_tomografia-de-macizo-facial-con-contraste-endovenoso/dicom/009_tej-blandos-3-000-coronal",
+      "descargadas": 58,
+      "errores": 0
+    },
+    {
+      "numero": 10,
+      "modalidad": "CT",
+      "descripcion": "Tej Blandos 3.000 Sagittal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1783316044.447478",
+      "instancias": 50,
+      "carpeta": "estudios/tomografia/2026-07-06_tomografia_tomografia-de-macizo-facial-con-contraste-endovenoso/dicom/010_tej-blandos-3-000-sagittal",
+      "descargadas": 50,
+      "errores": 0
+    },
+    {
+      "numero": 14,
+      "modalidad": "CT",
+      "descripcion": "Cuello 3.0 Axial  CE",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1783316152.682378",
+      "instancias": 60,
+      "carpeta": "estudios/tomografia/2026-07-06_tomografia_tomografia-de-macizo-facial-con-contraste-endovenoso/dicom/014_cuello-3-0-axial-ce",
+      "descargadas": 60,
+      "errores": 0
+    },
+    {
+      "numero": 15,
+      "modalidad": "CT",
+      "descripcion": "Cuello 1.0 Vol  CE",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1783316162.575619",
+      "instancias": 222,
+      "carpeta": "estudios/tomografia/2026-07-06_tomografia_tomografia-de-macizo-facial-con-contraste-endovenoso/dicom/015_cuello-1-0-vol-ce",
+      "descargadas": 222,
+      "errores": 0
+    },
+    {
+      "numero": 16,
+      "modalidad": "CT",
+      "descripcion": "Cuello 3.000 Coronal  CE",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1783316198.783434",
+      "instancias": 60,
+      "carpeta": "estudios/tomografia/2026-07-06_tomografia_tomografia-de-macizo-facial-con-contraste-endovenoso/dicom/016_cuello-3-000-coronal-ce",
+      "descargadas": 60,
+      "errores": 0
+    },
+    {
+      "numero": 17,
+      "modalidad": "CT",
+      "descripcion": "Cuello 3.000 Sagittal  CE",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1783316203.458745",
+      "instancias": 50,
+      "carpeta": "estudios/tomografia/2026-07-06_tomografia_tomografia-de-macizo-facial-con-contraste-endovenoso/dicom/017_cuello-3-000-sagittal-ce",
+      "descargadas": 50,
+      "errores": 0
+    },
+    {
+      "numero": 9000,
+      "modalidad": "CT",
+      "descripcion": "3   CE",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1783316191.1001",
+      "instancias": 1,
+      "carpeta": "estudios/tomografia/2026-07-06_tomografia_tomografia-de-macizo-facial-con-contraste-endovenoso/dicom/9000_3-ce",
+      "descargadas": 1,
+      "errores": 0
+    }
+  ],
+  "dicom_series": 13,
+  "dicom_instancias": 1390,
+  "dicom_descargadas": 1390,
+  "dicom_completo": true,
+  "dicom_metadata": {
+    "Modality": "CT",
+    "StudyDate": "20260706",
+    "StudyTime": "143022",
+    "StudyDescription": "TOMOGRAFIA DE MACIZO FACIAL CON CONTRASTE ENDOVENOSO",
+    "SeriesDescription": "Hueso 2.0 Axial",
+    "SeriesNumber": 3,
+    "InstanceNumber": 4,
+    "Manufacturer": "TOSHIBA",
+    "ManufacturerModelName": "Aquilion PRIME",
+    "BodyPartExamined": "CABEZA",
+    "ProtocolName": "SPN / MCF",
+    "SliceThickness": 2.0,
+    "KVP": 120.0,
+    "Rows": 512,
+    "Columns": 512,
+    "PixelSpacing": "[0.427, 0.427]",
+    "ImageOrientationPatient": "[1.00000, 0.00000, 0.00000, 0.00000, 1.00000, 0.00000]",
+    "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+    "SOPInstanceUID": "1.2.392.200036.9116.2.6.1.3268.2051117010.1783315900.795682",
+    "SeriesInstanceUID": "1.2.392.200036.9116.2.6.1.3268.2051117010.1783315900.768018",
+    "StudyInstanceUID": "1.2.392.200036.9116.2.6.1.3268.2051117010.1783315732.378438"
+  }
+}

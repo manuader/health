@@ -1,0 +1,26 @@
+RFC-MICROSITImpreso por: Hospital Británico – Orden Clinica
+10/09/2026Fecha y Hora de impresión: 10:17:00
+ORDEN CLÍNICA/ Hematología HB Central
+ADERApellido:
+CME-HEMGUM:
+45683086DNI:22 añosEdad:
+CUT-HEMGUT:
+8905464Nro. Orden:
+26/04/2004F.Nac.:
+MANUELNombre:
+20/05/2025Fecha:
+UrgentePrioridad:
+MEDICUSFinanciador:
+CELESTEPlan: GRAVADOCond. de I.V.A.:
+10097779003Nro. Afiliado:
+20042/001Cod. Finan:
+Diagnóstico Presuntivo y Observaciones:
+Paciente pre trasplante
+           Firma
+MATIAS JAVIER CARRERAS
+156580M.N. --    M.P.
+Médico
+Descripción Cantidad
+Protombina tiempo de (Quick) 1
+Tromboplastina,tiempo(parcial) 1
+Fibrinogeno (sangre) 1

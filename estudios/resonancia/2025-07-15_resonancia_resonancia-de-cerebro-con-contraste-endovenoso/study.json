@@ -1,0 +1,377 @@
+{
+  "idReport": "2389857",
+  "idLaboratory": "0011860159",
+  "descripcion": "RESONANCIA DE CEREBRO CON CONTRASTE ENDOVENOSO",
+  "servicio": "Diagnóstico por Imágenes",
+  "fecha": "2025-07-15",
+  "accession": "0011860159",
+  "study_uid": "1.2.840.113845.11.1000000002152132195.20250715211943.5509837",
+  "study_date": "20250715",
+  "modalidades": "MR\\PR\\SR",
+  "procedimiento": "RESONANCIA DE CEREBRO CON CONTRASTE ENDOVENOSO",
+  "urlViewer": "https://estudios.hbritanico.com.ar/im/#/125/bcec2c7f26f41b893587536ddb53fb7c?fromportal=true",
+  "documentos_visor": [
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "2F355A4C4943693757753461635764446156504B54413D3D0A"
+    },
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "2F355A4C4943693757753461635764446156504B54413D3D0A"
+    }
+  ],
+  "documentos_extra": [],
+  "series": [
+    {
+      "numero": 0,
+      "modalidad": "MR",
+      "descripcion": "",
+      "series_uid": "1.3.46.670589.11.33071.5.0.11108.2025071521260156026",
+      "instancias": 1,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/000_mr",
+      "descargadas": 1,
+      "errores": 0
+    },
+    {
+      "numero": 101,
+      "modalidad": "MR",
+      "descripcion": "Survey_NV_head_only",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8036.2025071521255842627",
+      "instancias": 6,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/101_survey-nv-head-only",
+      "descargadas": 6,
+      "errores": 0
+    },
+    {
+      "numero": 301,
+      "modalidad": "MR",
+      "descripcion": "DTI_low_4mm",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8036.2025071521282825654",
+      "instancias": 281,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/301_dti-low-4mm",
+      "descargadas": 281,
+      "errores": 0
+    },
+    {
+      "numero": 302,
+      "modalidad": "MR",
+      "descripcion": "dDTI_low SENSE",
+      "series_uid": "1.3.46.670589.11.33071.5.0.12224.2025071521300215000",
+      "instancias": 35,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/302_ddti-low-sense",
+      "descargadas": 35,
+      "errores": 0
+    },
+    {
+      "numero": 303,
+      "modalidad": "MR",
+      "descripcion": "eDTI_low SENSE",
+      "series_uid": "1.3.46.670589.11.33071.5.0.12224.2025071521300221001",
+      "instancias": 35,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/303_edti-low-sense",
+      "descargadas": 35,
+      "errores": 0
+    },
+    {
+      "numero": 304,
+      "modalidad": "MR",
+      "descripcion": "faDTI_low SENSE",
+      "series_uid": "1.3.46.670589.11.33071.5.0.12224.2025071521300228002",
+      "instancias": 35,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/304_fadti-low-sense",
+      "descargadas": 35,
+      "errores": 0
+    },
+    {
+      "numero": 305,
+      "modalidad": "MR",
+      "descripcion": "facDTI_low SENSE",
+      "series_uid": "1.3.46.670589.11.33071.5.0.12224.2025071521300232003",
+      "instancias": 35,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/305_facdti-low-sense",
+      "descargadas": 35,
+      "errores": 0
+    },
+    {
+      "numero": 306,
+      "modalidad": "MR",
+      "descripcion": "isoDTI_low SENSE",
+      "series_uid": "1.3.46.670589.11.33071.5.0.12224.2025071521300237004",
+      "instancias": 35,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/306_isodti-low-sense",
+      "descargadas": 35,
+      "errores": 0
+    },
+    {
+      "numero": 401,
+      "modalidad": "MR",
+      "descripcion": "VEN_BOLD",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8036.2025071521295707655",
+      "instancias": 131,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/401_ven-bold",
+      "descargadas": 131,
+      "errores": 0
+    },
+    {
+      "numero": 501,
+      "modalidad": "MR",
+      "descripcion": "DTI_low_4mm",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8036.2025071521333925952",
+      "instancias": 281,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/501_dti-low-4mm",
+      "descargadas": 281,
+      "errores": 0
+    },
+    {
+      "numero": 502,
+      "modalidad": "MR",
+      "descripcion": "dDTI_low SENSE",
+      "series_uid": "1.3.46.670589.11.33071.5.0.10916.2025071521351214000",
+      "instancias": 35,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/502_ddti-low-sense",
+      "descargadas": 35,
+      "errores": 0
+    },
+    {
+      "numero": 503,
+      "modalidad": "MR",
+      "descripcion": "eDTI_low SENSE",
+      "series_uid": "1.3.46.670589.11.33071.5.0.10916.2025071521351220001",
+      "instancias": 35,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/503_edti-low-sense",
+      "descargadas": 35,
+      "errores": 0
+    },
+    {
+      "numero": 504,
+      "modalidad": "MR",
+      "descripcion": "faDTI_low SENSE",
+      "series_uid": "1.3.46.670589.11.33071.5.0.10916.2025071521351225002",
+      "instancias": 35,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/504_fadti-low-sense",
+      "descargadas": 35,
+      "errores": 0
+    },
+    {
+      "numero": 505,
+      "modalidad": "MR",
+      "descripcion": "facDTI_low SENSE",
+      "series_uid": "1.3.46.670589.11.33071.5.0.10916.2025071521351231003",
+      "instancias": 35,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/505_facdti-low-sense",
+      "descargadas": 35,
+      "errores": 0
+    },
+    {
+      "numero": 506,
+      "modalidad": "MR",
+      "descripcion": "isoDTI_low SENSE",
+      "series_uid": "1.3.46.670589.11.33071.5.0.10916.2025071521351237004",
+      "instancias": 35,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/506_isodti-low-sense",
+      "descargadas": 35,
+      "errores": 0
+    },
+    {
+      "numero": 601,
+      "modalidad": "MR",
+      "descripcion": "T2W_TSE CLEAR 5MM",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8036.2025071521352657374",
+      "instancias": 27,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/601_t2w-tse-clear-5mm",
+      "descargadas": 27,
+      "errores": 0
+    },
+    {
+      "numero": 701,
+      "modalidad": "MR",
+      "descripcion": "T1W_SE 5MM",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8036.2025071521380998375",
+      "instancias": 27,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/701_t1w-se-5mm",
+      "descargadas": 27,
+      "errores": 0
+    },
+    {
+      "numero": 801,
+      "modalidad": "MR",
+      "descripcion": "T2W_FLAIR CLEAR 5MM",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8036.2025071521413646418",
+      "instancias": 27,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/801_t2w-flair-clear-5mm",
+      "descargadas": 27,
+      "errores": 0
+    },
+    {
+      "numero": 901,
+      "modalidad": "MR",
+      "descripcion": "Survey",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8036.2025071521431798482",
+      "instancias": 25,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/901_survey",
+      "descargadas": 25,
+      "errores": 0
+    },
+    {
+      "numero": 1101,
+      "modalidad": "MR",
+      "descripcion": "T2W_SPIR_tra",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8036.2025071521452879528",
+      "instancias": 17,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/1101_t2w-spir-tra",
+      "descargadas": 17,
+      "errores": 0
+    },
+    {
+      "numero": 1201,
+      "modalidad": "MR",
+      "descripcion": "T2W_SPIR_tra",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8036.2025071521504710529",
+      "instancias": 27,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/1201_t2w-spir-tra",
+      "descargadas": 27,
+      "errores": 0
+    },
+    {
+      "numero": 1301,
+      "modalidad": "MR",
+      "descripcion": "T2W_SPIR_tra",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8036.2025071521564009598",
+      "instancias": 27,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/1301_t2w-spir-tra",
+      "descargadas": 27,
+      "errores": 0
+    },
+    {
+      "numero": 1401,
+      "modalidad": "MR",
+      "descripcion": "T1W_SE",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8036.2025071522010096599",
+      "instancias": 13,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/1401_t1w-se",
+      "descargadas": 13,
+      "errores": 0
+    },
+    {
+      "numero": 1501,
+      "modalidad": "MR",
+      "descripcion": "T1W_3D_SPIR",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8036.2025071522042864642",
+      "instancias": 51,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/1501_t1w-3d-spir",
+      "descargadas": 51,
+      "errores": 0
+    },
+    {
+      "numero": 1601,
+      "modalidad": "MR",
+      "descripcion": "T1W_3D_SPIR",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8036.2025071522121531716",
+      "instancias": 51,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/1601_t1w-3d-spir",
+      "descargadas": 51,
+      "errores": 0
+    },
+    {
+      "numero": 1701,
+      "modalidad": "MR",
+      "descripcion": "Survey_NV_head_only",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8036.2025071522233603784",
+      "instancias": 6,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/1701_survey-nv-head-only",
+      "descargadas": 6,
+      "errores": 0
+    },
+    {
+      "numero": 1901,
+      "modalidad": "MR",
+      "descripcion": "T1W_SE GADO CLEAR",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8036.2025071522261492811",
+      "instancias": 27,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/1901_t1w-se-gado-clear",
+      "descargadas": 27,
+      "errores": 0
+    },
+    {
+      "numero": 2001,
+      "modalidad": "MR",
+      "descripcion": "sT1W_3D_ISO",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8036.2025071522300401812",
+      "instancias": 191,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/2001_st1w-3d-iso",
+      "descargadas": 191,
+      "errores": 0
+    },
+    {
+      "numero": 2002,
+      "modalidad": "MR",
+      "descripcion": "VsT1W_3D_ISO SENSE",
+      "series_uid": "1.3.46.670589.11.33071.5.0.2124.2025071522360095265",
+      "instancias": 28,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/2002_vst1w-3d-iso-sense",
+      "descargadas": 28,
+      "errores": 0
+    },
+    {
+      "numero": 2003,
+      "modalidad": "MR",
+      "descripcion": "VsT1W_3D_ISO SENSE",
+      "series_uid": "1.3.46.670589.11.33071.5.0.2124.2025071522360531294",
+      "instancias": 28,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/2003_vst1w-3d-iso-sense",
+      "descargadas": 28,
+      "errores": 0
+    },
+    {
+      "numero": 2004,
+      "modalidad": "MR",
+      "descripcion": "VsT1W_3D_ISO SENSE",
+      "series_uid": "1.3.46.670589.11.33071.5.0.2124.2025071522360939323",
+      "instancias": 28,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/2004_vst1w-3d-iso-sense",
+      "descargadas": 28,
+      "errores": 0
+    },
+    {
+      "numero": 2101,
+      "modalidad": "MR",
+      "descripcion": "Survey",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8036.2025071522355856047",
+      "instancias": 25,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/2101_survey",
+      "descargadas": 25,
+      "errores": 0
+    },
+    {
+      "numero": 2201,
+      "modalidad": "MR",
+      "descripcion": "T1 FATSAT GADO",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8036.2025071522365928081",
+      "instancias": 13,
+      "carpeta": "estudios/resonancia/2025-07-15_resonancia_resonancia-de-cerebro-con-contraste-endovenoso/dicom/2201_t1-fatsat-gado",
+      "descargadas": 13,
+      "errores": 0
+    }
+  ],
+  "dicom_series": 33,
+  "dicom_instancias": 1688,
+  "dicom_descargadas": 1688,
+  "dicom_completo": true,
+  "dicom_metadata": {
+    "Modality": "MR",
+    "StudyDate": "20250715",
+    "StudyTime": "212551",
+    "StudyDescription": "RESONANCIA DE CEREBRO CON CONTRASTE ENDOVENOSO",
+    "SeriesNumber": 0,
+    "InstanceNumber": 1,
+    "Manufacturer": "Philips Medical Systems",
+    "ManufacturerModelName": "Achieva",
+    "ProtocolName": "ExamCard",
+    "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+    "SOPInstanceUID": "1.3.46.670589.11.33071.5.24.5.1.11108.2025071521260156026",
+    "SeriesInstanceUID": "1.3.46.670589.11.33071.5.0.11108.2025071521260156026",
+    "StudyInstanceUID": "1.2.840.113845.11.1000000002152132195.20250715211943.5509837"
+  }
+}

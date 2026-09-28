@@ -1,0 +1,26 @@
+RFC-MICROSITImpreso por: Hospital Británico – Orden Clinica
+10/09/2026Fecha y Hora de impresión: 10:18:37
+ORDEN CLÍNICA/ Hospital de día HB Central
+ADERApellido:
+CME-CLIMUM:
+45683086DNI:22 añosEdad:
+CUT-HOSDUT:
+9944289Nro. Orden:
+26/04/2004F.Nac.:
+MANUELNombre:
+30/01/2026Fecha:
+UrgentePrioridad:
+MEDICUSFinanciador:
+CELESTEPlan: EXENTOCond. de I.V.A.:
+10097779003Nro. Afiliado:
+20042/001Cod. Finan:
+Diagnóstico Presuntivo y Observaciones:
+AZACITIDINA 
+INFUSION PROGRAMADA PARA EL 05/02/26
+           Firma
+CAMILA STEMMELIN
+180814M.N. --    M.P.
+Médico
+Descripción Cantidad
+Quimioterapia Subcutánea Ambulatoria 1
+Internacion Tempor.hasta 8Hs. 1

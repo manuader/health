@@ -1,0 +1,44 @@
+INSTITUTO ALEXANDER FLEMING (IAF)
+ Flow Cytometry Laboratory
+ Biochemist in charge: Dra. Andrea Novoa
+ Crámer 1180   |   Phone: (+54-11) 3221-8900, ext. 8029
+ citometria@alexanderfleming.org
+ 
+ [Translation from Spanish into English — for informational reference]
+Name:
+ADER, MANUEL
+Accession Number:
+A298740
+Accession date:
+April 16, 2026
+Ordering physician:
+[Blank]
+ IMMUNOPHENOTYPING
+SAMPLE: Bone marrow.
+METHODOLOGY: A panel of monoclonal antibodies was directly conjugated with fluorescein
+isothiocyanate (FITC), phycoerythrin (PE), peridinin chlorophyll protein complex (PerCP), PerCP-Cy5.5,
+allophycocyanin (APC), APC-H7 tandem, PE-Cy7 tandem, Horizon V450 and V500. Data acquisition
+and analysis were performed using a FACSCanto II flow cytometer with FACSDiva and Infinicyt
+software.
+RESULTS: Based on membrane immunophenotype, relative cell size, and internal complexity, the
+following populations were identified: Total lymphocytes: 2.7%. Plasma cells: <0.1%. Monocytes: 3%.
+Neutrophils: 21.3%. Eosinophils: <0.1%. Basophils: <0.1%. Mast cells: <0.01%. Nucleated erythroid
+cells: 46.9%.
+PATHOLOGICAL CELLS: 26.1% myeloid blasts of medium size. CD45+, CD34+, HLA-DR++, CD117+,
+CD38++, CD13++, CD16(-), CD11b(-), CD10(-), CD71-/+, CD64(-), CD14(-), CD36(-), CD105(-),
+CD33+, CD15-/+, CD56(-), CD7-/+(42%).
+OBSERVATIONS: Neutrophils show marked dyshematopoietic features in maturation patterns CD13 /
+CD16 / CD11b / CD10. Monocytes show a predominance of immature forms (85% of the total monocytic
+lineage) with partial CD13 expression. The erythroid lineage is increased, with heterogeneous
+expression of CD36 and CD71.
+CONCLUSIONS: Presence of a myeloid blast population (26.1%) similar to those found in previous
+studies. A final diagnostic conclusion requires correlation with the clinical presentation and additional
+complementary studies.
+[Illegible signature]
+[Illegible signature]
+Dra. Paula Tempra
+Dra. Andrea Novoa
+Biochemist
+Biochemist
+National License No. 9824
+National License No. 8693

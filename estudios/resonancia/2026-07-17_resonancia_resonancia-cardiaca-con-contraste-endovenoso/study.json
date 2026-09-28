@@ -1,0 +1,220 @@
+{
+  "idReport": "2706832",
+  "idLaboratory": "0013659253",
+  "descripcion": "RESONANCIA CARDIACA CON CONTRASTE ENDOVENOSO",
+  "servicio": "Diagnóstico por Imágenes",
+  "fecha": "2026-07-17",
+  "accession": "0013659253",
+  "study_uid": "1.2.840.113845.11.1000000002152132195.20260717132503.6135223",
+  "study_date": "20260717",
+  "modalidades": "MR\\PR\\SR",
+  "procedimiento": "RESONANCIA CARDIACA CON CONTRASTE ENDOVENOSO",
+  "urlViewer": "https://estudios.hbritanico.com.ar/im/#/125/da0179e1204029326ca2666a6c1aad0a?fromportal=true",
+  "documentos_visor": [
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "583237524748464A7455796572682B6D374B557877413D3D0A"
+    }
+  ],
+  "documentos_extra": [],
+  "series": [
+    {
+      "numero": 0,
+      "modalidad": "MR",
+      "descripcion": "",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8640.2026071713360629020",
+      "instancias": 1,
+      "carpeta": "estudios/resonancia/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso/dicom/000_mr",
+      "descargadas": 1,
+      "errores": 0
+    },
+    {
+      "numero": 101,
+      "modalidad": "MR",
+      "descripcion": "SURVEY",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8268.2026071713363759784",
+      "instancias": 61,
+      "carpeta": "estudios/resonancia/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso/dicom/101_survey",
+      "descargadas": 61,
+      "errores": 0
+    },
+    {
+      "numero": 301,
+      "modalidad": "MR",
+      "descripcion": "SANG NEGRA MULTICORTE",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8268.2026071713413740866",
+      "instancias": 13,
+      "carpeta": "estudios/resonancia/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso/dicom/301_sang-negra-multicorte",
+      "descargadas": 13,
+      "errores": 0
+    },
+    {
+      "numero": 401,
+      "modalidad": "MR",
+      "descripcion": "B-TFE_BH",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8268.2026071713432284888",
+      "instancias": 31,
+      "carpeta": "estudios/resonancia/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso/dicom/401_b-tfe-bh",
+      "descargadas": 31,
+      "errores": 0
+    },
+    {
+      "numero": 501,
+      "modalidad": "MR",
+      "descripcion": "B-TFE_BH",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8268.2026071713443660928",
+      "instancias": 31,
+      "carpeta": "estudios/resonancia/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso/dicom/501_b-tfe-bh",
+      "descargadas": 31,
+      "errores": 0
+    },
+    {
+      "numero": 601,
+      "modalidad": "MR",
+      "descripcion": "B-TFE_BH",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8268.2026071713465518968",
+      "instancias": 31,
+      "carpeta": "estudios/resonancia/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso/dicom/601_b-tfe-bh",
+      "descargadas": 31,
+      "errores": 0
+    },
+    {
+      "numero": 701,
+      "modalidad": "MR",
+      "descripcion": "T2_aSTIR_BB",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8268.2026071713482767017",
+      "instancias": 2,
+      "carpeta": "estudios/resonancia/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso/dicom/701_t2-astir-bb",
+      "descargadas": 2,
+      "errores": 0
+    },
+    {
+      "numero": 801,
+      "modalidad": "MR",
+      "descripcion": "T2_aSTIR_BB",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8268.2026071713485262028",
+      "instancias": 2,
+      "carpeta": "estudios/resonancia/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso/dicom/801_t2-astir-bb",
+      "descargadas": 2,
+      "errores": 0
+    },
+    {
+      "numero": 901,
+      "modalidad": "MR",
+      "descripcion": "T2_aSTIR_BB",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8268.2026071713495314039",
+      "instancias": 2,
+      "carpeta": "estudios/resonancia/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso/dicom/901_t2-astir-bb",
+      "descargadas": 2,
+      "errores": 0
+    },
+    {
+      "numero": 1001,
+      "modalidad": "MR",
+      "descripcion": "T2_aSTIR_BB M",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8268.2026071713510987050",
+      "instancias": 7,
+      "carpeta": "estudios/resonancia/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso/dicom/1001_t2-astir-bb-m",
+      "descargadas": 7,
+      "errores": 0
+    },
+    {
+      "numero": 1101,
+      "modalidad": "MR",
+      "descripcion": "B-TFE_BH_M2D",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8268.2026071713534704066",
+      "instancias": 361,
+      "carpeta": "estudios/resonancia/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso/dicom/1101_b-tfe-bh-m2d",
+      "descargadas": 361,
+      "errores": 0
+    },
+    {
+      "numero": 1201,
+      "modalidad": "MR",
+      "descripcion": "B-TFE_BH",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8268.2026071714022792436",
+      "instancias": 31,
+      "carpeta": "estudios/resonancia/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso/dicom/1201_b-tfe-bh",
+      "descargadas": 31,
+      "errores": 0
+    },
+    {
+      "numero": 1301,
+      "modalidad": "MR",
+      "descripcion": "B-TFE_BH",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8268.2026071714033065476",
+      "instancias": 31,
+      "carpeta": "estudios/resonancia/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso/dicom/1301_b-tfe-bh",
+      "descargadas": 31,
+      "errores": 0
+    },
+    {
+      "numero": 1401,
+      "modalidad": "MR",
+      "descripcion": "sQFLOW_BH",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8268.2026071714045140516",
+      "instancias": 121,
+      "carpeta": "estudios/resonancia/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso/dicom/1401_sqflow-bh",
+      "descargadas": 121,
+      "errores": 0
+    },
+    {
+      "numero": 1501,
+      "modalidad": "MR",
+      "descripcion": "PSIR_TFE_BH",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8268.2026071714054621646",
+      "instancias": 4,
+      "carpeta": "estudios/resonancia/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso/dicom/1501_psir-tfe-bh",
+      "descargadas": 4,
+      "errores": 0
+    },
+    {
+      "numero": 1601,
+      "modalidad": "MR",
+      "descripcion": "PSIR_TFE_BH",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8268.2026071714060842650",
+      "instancias": 4,
+      "carpeta": "estudios/resonancia/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso/dicom/1601_psir-tfe-bh",
+      "descargadas": 4,
+      "errores": 0
+    },
+    {
+      "numero": 1701,
+      "modalidad": "MR",
+      "descripcion": "PSIR_TFE_BH",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8268.2026071714063603668",
+      "instancias": 4,
+      "carpeta": "estudios/resonancia/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso/dicom/1701_psir-tfe-bh",
+      "descargadas": 4,
+      "errores": 0
+    },
+    {
+      "numero": 1801,
+      "modalidad": "MR",
+      "descripcion": "PSIR_TFE_BH",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8268.2026071714070429673",
+      "instancias": 4,
+      "carpeta": "estudios/resonancia/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso/dicom/1801_psir-tfe-bh",
+      "descargadas": 4,
+      "errores": 0
+    },
+    {
+      "numero": 1901,
+      "modalidad": "MR",
+      "descripcion": "VIABILIDAD 3D",
+      "series_uid": "1.3.46.670589.11.33071.5.0.8268.2026071714073671689",
+      "instancias": 13,
+      "carpeta": "estudios/resonancia/2026-07-17_resonancia_resonancia-cardiaca-con-contraste-endovenoso/dicom/1901_viabilidad-3d",
+      "descargadas": 13,
+      "errores": 0
+    }
+  ],
+  "dicom_series": 19,
+  "dicom_instancias": 754,
+  "dicom_descargadas": 754,
+  "dicom_completo": true,
+  "dicom_metadata": {
+    "error": "No tag to read at file position 401800"
+  }
+}

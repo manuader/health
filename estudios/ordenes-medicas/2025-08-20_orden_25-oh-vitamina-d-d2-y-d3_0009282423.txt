@@ -1,0 +1,41 @@
+RFC-MICROSITImpreso por: Hospital Británico – Orden Clinica
+10/09/2026Fecha y Hora de impresión: 10:17:16
+ORDEN CLÍNICA/ Laboratorio Int HB Central
+ADERApellido:
+CME-HEMGUM:
+45683086DNI:22 añosEdad:
+CE-RTMOUT:
+9282423Nro. Orden:
+26/04/2004F.Nac.:
+MANUELNombre:
+20/08/2025Fecha:
+A DemandaPrioridad:
+MEDICUSFinanciador:
+CELESTEPlan: GRAVADOCond. de I.V.A.:
+10097779003Nro. Afiliado:
+20042/001Cod. Finan:
+Consultar las indicaciones para la realización de los estudios en la página web institucional  
+www.hospitalbritanico.org.ar
+Diagnóstico Presuntivo y Observaciones:
+a
+           Firma
+JUAN IGNACIO RAMIREZ
+152451M.N. --    M.P.
+Médico
+Descripción Cantidad
+HBc-Hepatitis B-Anti Core IgM 1
+HBsAc - Hepatitis B Anti HBS 1
+HBsAg - Hepatitis B Antigeno 1
+HCV - Hepatitis C AC. Totales 1
+HIV 1 y 2 1
+VDRL 1
+Troponina T Cuantitativa 1
+NT Pro BNP 1
+Hemograma 1
+Recuento de plaquetas 1
+Glucosa Serica 1
+Ionograma 1
+Urea Serica 1
+Creatinina Serica 1
+Hepatograma 1
+25-OH Vitamina D (D2 y D3) 1

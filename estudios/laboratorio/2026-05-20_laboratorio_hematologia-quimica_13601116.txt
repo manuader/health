@@ -1,0 +1,224 @@
+Jefe de Laboratorio: Bioq. Muryan Alexis MN: 6911 
+LABORATORIO CENTRAL 
+HOSPITAL BRITANICO 
+Valores de Referencia Resultados Unidades 
+OP 
+Solicitado por 
+Protocolo N° 
+Episodio/Movim. Paciente 
+:
+:
+:
+13601116 
+ADER, MANUEL 
+SOLANO TORRES, ALEJANDRA JUDITH 
+Fecha Recepción:
+:
+20/05/26 10:15 
+0044712000^0001 
+:0002201988 Historia Clínica DNI Fecha de nacimiento :: 45683086 26/04/2004 
+HEMATOLOGIA 
+0.2 4.0 - 10.0 10^3/µL
+Método: Citometría de flujo fluorescente
+Recuento de Glóbulos Blancos 10^3/µL
+0.2 4.0 - 10.0 10^3/µL
+Tipo de muestra: Sangre entera con EDTA
+Hemograma
+     Método: Citometría de flujo fluorescente
+   Recuento de Glóbulos Blancos 10^3/µL
+2.7 4.5 - 5.5 10^6/µL
+     Método: Corriente directa y enfoque hidrodinámico
+   Recuento de Glóbulos Rojos 10^6/µL
+7.7 13.0 - 17.0 g/dL
+     Método: SLS libre de cianuro
+   Hemoglobina g/dL
+23 40 - 50 %
+     Método: Corriente directa y enfoque hidrodinámico
+   Hematocrito %
+85 83 - 101 fl   V.C.M. fl
+28 27 - 32 pg   H.C.M. pg
+34 31 - 36 g/dL   C.H.C.M. g/dL
+15.4 11.6 - 14.0 %   R.D.W.
+   Fórmula Leucocitaria Porcentual
+%
+6000 150000 - 410000 /µL
+Método: Corriente directa y enfoque hidrodinámico
+Recuento de plaquetas /µL
+QUIMICA CLINICA 
+134 136 - 145 mEq/L
+Método: ISE indirecto
+Sodio plasmático mEq/L
+4.2 3.5 - 5.1 mEq/L
+Método: ISE indirecto
+Potasio plasmático mEq/L
+El Hospital Británico, fundado en 1844,  
+es una asociación civil sin fines de lucro. 
+www.hospitalbritanico.org.ar 
+(5411) 4309-6400 
+C1280AEB. Buenos Aires. 
+Perdriel 74. 
+Página 1 de 4 
+Se utiliza el punto (.) como separador de decimales
+
+Jefe de Laboratorio: Bioq. Muryan Alexis MN: 6911 
+LABORATORIO CENTRAL 
+HOSPITAL BRITANICO 
+Valores de Referencia Resultados Unidades 
+OP 
+Solicitado por 
+Protocolo N° 
+Episodio/Movim. Paciente 
+:
+:
+:
+13601116 
+ADER, MANUEL 
+SOLANO TORRES, ALEJANDRA JUDITH 
+Fecha Recepción:
+:
+20/05/26 10:15 
+0044712000^0001 
+:0002201988 Historia Clínica DNI Fecha de nacimiento :: 45683086 26/04/2004 
+QUIMICA CLINICA 
+98 55 - 100 mg/dL
+Método: Hexoquinasa
+Glucosa plasmática mg/dL
+21
+Método: Uricasa
+Urea plasmática mg/dL
+0.64 0.73 - 1.18 mg/dL
+Método: Enzimático
+Creatinina plasmática mg/dL
+137 Mayor a 90 ml/min.
+60-89 ml/min: filtrado glomerular
+levemente disminuido.
+30-59 ml/min: filtrado glomerular
+moderadamente disminuido.
+15-29 ml/min: filtrado glomerular
+severamente disminuido.
+Menor a 15 ml/min: insuficiencia renal
+terminal.
+Método: Fórmula CKD-EPI
+Tasa de filtrado glomerular estimado
+   Tasa de filtrado glomerular estimado
+   La tasa de filtrado glomerular estimada no puede ser utilizada en pacientes: Menores de 18 años o mayores
+de 70 años, embarazadas, amputados, BMI menor a 18 o mayor a 40, dietas especiales, medicación nefrotóxica,
+pacientes con síndrome nefrótico.
+mL/min/1.73 m^2
+4.2 3.7 - 7.7 mg/dL
+Método: Uricasa
+Acido Urico plasmático mg/dL
+8.5 9.1 - 10.4 mg/dL
+Método: ArsenazoIII
+Calcio plasmático mg/dL
+A partir del 15 de Mayo de 2026 se ha modificado el intervalo de referencia.
+4.0 2.5 - 4.5 mg/dL
+Método: fosfomolibdato.
+Fósforo plasmático mg/dL
+A partir del 15 de Mayo de 2026 se ha modificado el intervalo de referencia.
+El Hospital Británico, fundado en 1844,  
+es una asociación civil sin fines de lucro. 
+www.hospitalbritanico.org.ar 
+(5411) 4309-6400 
+C1280AEB. Buenos Aires. 
+Perdriel 74. 
+Página 2 de 4 
+Se utiliza el punto (.) como separador de decimales
+
+Jefe de Laboratorio: Bioq. Muryan Alexis MN: 6911 
+LABORATORIO CENTRAL 
+HOSPITAL BRITANICO 
+Valores de Referencia Resultados Unidades 
+OP 
+Solicitado por 
+Protocolo N° 
+Episodio/Movim. Paciente 
+:
+:
+:
+13601116 
+ADER, MANUEL 
+SOLANO TORRES, ALEJANDRA JUDITH 
+Fecha Recepción:
+:
+20/05/26 10:15 
+0044712000^0001 
+:0002201988 Historia Clínica DNI Fecha de nacimiento :: 45683086 26/04/2004 
+QUIMICA CLINICA 
+1.8 1.6 - 2.6 mg/dL
+Método: Enzimático
+Magnesio plasmático mg/dL
+5.7 6.4 - 8.3 g/dl
+Método: Biuret.
+Proteínas Totales plasmáticas g/dL
+266 125 - 220 U/L
+Método: Lactato a piruvato
+L.D.H. / Lactato deshidrogenasa plasmática U/L
+A partir del 12 de Junio de 2026 la muestra utilizada es suero.
+46 12 - 64 U/L
+Método: G-glutamil-3-carboxi-4-nitroanilida
+G.G.T. / Gammaglutamil transferasa
+plasmática
+U/L
+ Hepatograma 
+149 Menor a 200 mg/dL
+Método: Enzimático
+Colesterol Total plasmático mg/dL
+34 11 - 34 U/L
+Método: NADH sin piridoxal.
+A.S.T. / Aspartato aminotransferasa
+plasmática
+U/L
+A partir del día 15 de Mayo de 2026 se ha modificado el intervalo de referencia.
+52 Menor a 45 U/L
+Método: NADH sin piridoxal.
+A.L.T. / Alanina aminotransferasa plasmática U/L
+A partir del 15 de Mayo de 2026 se ha modificado el intervalo de referencia.
+0.7 0.2 - 1.2 mg/dL
+Método: Sal de diazonio
+Bilirrubina Total plasmática mg/dL
+El Hospital Británico, fundado en 1844,  
+es una asociación civil sin fines de lucro. 
+www.hospitalbritanico.org.ar 
+(5411) 4309-6400 
+C1280AEB. Buenos Aires. 
+Perdriel 74. 
+Página 3 de 4 
+Se utiliza el punto (.) como separador de decimales
+
+Jefe de Laboratorio: Bioq. Muryan Alexis MN: 6911 
+LABORATORIO CENTRAL 
+HOSPITAL BRITANICO 
+Valores de Referencia Resultados Unidades 
+OP 
+Solicitado por 
+Protocolo N° 
+Episodio/Movim. Paciente 
+:
+:
+:
+13601116 
+ADER, MANUEL 
+SOLANO TORRES, ALEJANDRA JUDITH 
+Fecha Recepción:
+:
+20/05/26 10:15 
+0044712000^0001 
+:0002201988 Historia Clínica DNI Fecha de nacimiento :: 45683086 26/04/2004 
+QUIMICA CLINICA 
+ Hepatograma 
+170 50 - 116 U/L
+Método: Para-nitrofenil fosfato.
+Fosfatasa Alcalina plasmática U/L
+A partir del 15 de Mayo de 2026 se ha modificado el intervalo de referencia.
+Fecha de impresión: 10/09/2026 10:24 A partir de Agosto 2025 se ha modificado la expresión de ciertas unidades para adecuarlas al 
+idioma castellano, sin verse afectados los resultados informados. 
+El Hospital Británico, fundado en 1844,  
+es una asociación civil sin fines de lucro. 
+www.hospitalbritanico.org.ar 
+(5411) 4309-6400 
+C1280AEB. Buenos Aires. 
+Perdriel 74. 
+Página 4 de 4 
+Este informe fue validado electronicamente por nuest ros profesionales 
+Se utiliza el punto (.) como separador de decimales

@@ -1,0 +1,32 @@
+ESTUDIO  MOLECULAR 
+ 
+DETECCION DE VARIANTES   
+FLT3 - ITD y FLT3-TKD D835/I836 
+ 
+ 
+Fecha solicitud: 5/02/2026 
+Apellido y Nombre: ADER MANUEL 
+DNI: 45683086 
+Tipo de muestra: MO 
+Número de estudio: 00287-26       
+ 
+ 
+Método* : Ensayo de detección de mutaciones FLT3 - ITD y FLT3 - D835/I836 
+por PCR multi plex y Electroforesis capilar – Análisis de Electroferograma.  
+Protocolo adaptado de Murphy et al , 2003.  
+ 
+ 
+Resultado:  Variante de Gen FLT3 – ITD (+) detectable.  
+                     Carga alélica (Ratio) : 0.7- 
+ 
+En este ensayo se detectó un perfil genético correspondiente a una mutación de 
+repetición en tandem: ITD-FLT3 de 39pb generando un producto de amplificación de 365 
+bp. 
+ 
+No se observó compromiso de FLT3-TKD D835/I836  
+  
+Nota*: Este método fue diseñado para detectar expansiones ITD (Internal tándem du plication) de la región 
+TM-JM del gen FLT3 con sensibilidad del 5% y también determinar si el sitio de restricción palindrómico 
+5'-GAT | ATC -3' que compromete a codones D835 (GAT) / I836 (ATC) se encuentra alterado con 
+sensibilidad del 10%. En caso de defi nirse un perfil genético patológico, este método permite calcular la 
+carga alélica como la relación entre el número de alelos mutados y el número de alelos normales.

@@ -1,0 +1,10 @@
+Paciente: ADER, MANUEL  Estudio: ECODOPPLER DE VASOS DE CUELLO
+Fecha de Nacimiento: 26/04/2004 Médico Derivante: N/D
+Fecha del Estudio: 01/06/2026 10:22:22 Procedencia: Ambulatorio
+RIS A. N.: 2735798 Número de Pac.: 0002201988
+Estado Informe: Final
+ECODOPPLER DE VASOS DE CUELLO
+ 
+Se realizó rastreo ecográfico en región de interés (Port-a-Cath brazo izquierdo) sin evidencia de 
+alteraciones agudas.
+Pág: 1

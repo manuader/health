@@ -1,0 +1,36 @@
+RFC-MICROSITImpreso por: Hospital Británico – Orden Clinica
+10/09/2026Fecha y Hora de impresión: 10:16:59
+ORDEN CLÍNICA/ Hemoterapia HB Central
+ADERApellido:
+CME-HEMGUM:
+45683086DNI:22 añosEdad:
+CUT-HEMGUT:
+8905470Nro. Orden:
+26/04/2004F.Nac.:
+MANUELNombre:
+20/05/2025Fecha:
+UrgentePrioridad:
+MEDICUSFinanciador:
+CELESTEPlan: EXENTOCond. de I.V.A.:
+10097779003Nro. Afiliado:
+20042/001Cod. Finan:
+Diagnóstico Presuntivo y Observaciones:
+Pre trasplante
+           Firma
+MATIAS JAVIER CARRERAS
+156580M.N. --    M.P.
+Médico
+Descripción Cantidad
+Grupo sanguineo ABO 1
+Aglutininas del sistema ABO 1
+Investigacion aglutininas 1
+Coombs indirecta cualitativa 1
+Coombs directa,prueba de 1
+Coombs.indirecta cuantitativa 1
+RH Factor C 1
+RH Factor c 1
+RH Factor D 1
+RH Factor E 1
+RH Factor e 1
+RH 1
+Indentificacion anticuerpos 1

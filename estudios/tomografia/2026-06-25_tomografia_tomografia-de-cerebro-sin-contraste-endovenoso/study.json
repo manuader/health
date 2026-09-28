@@ -1,0 +1,150 @@
+{
+  "idReport": "2688194",
+  "idLaboratory": "0013547006",
+  "descripcion": "TOMOGRAFIA DE CEREBRO SIN CONTRASTE ENDOVENOSO",
+  "servicio": "Diagnóstico por Imágenes",
+  "fecha": "2026-06-25",
+  "accession": "0013547006",
+  "study_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1782317463.339917",
+  "study_date": "20260625",
+  "modalidades": "CT\\PR\\SR",
+  "procedimiento": "TOMOGRAFIA DE CEREBRO SIN CONTRASTE ENDOVENOSO",
+  "urlViewer": "https://estudios.hbritanico.com.ar/im/#/125/51863701fb9aec44f6ec4b17201131c7?fromportal=true",
+  "documentos_visor": [
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "59687345703754344245316D6A494B46696641636C513D3D0A"
+    }
+  ],
+  "documentos_extra": [],
+  "series": [
+    {
+      "numero": 1,
+      "modalidad": "CT",
+      "descripcion": "2.0",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1782317610.103839",
+      "instancias": 1,
+      "carpeta": "estudios/tomografia/2026-06-25_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso/dicom/001_2-0",
+      "descargadas": 1,
+      "errores": 0
+    },
+    {
+      "numero": 3,
+      "modalidad": "CT",
+      "descripcion": "Hueso 2.0 Axial",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1782317650.753398",
+      "instancias": 97,
+      "carpeta": "estudios/tomografia/2026-06-25_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso/dicom/003_hueso-2-0-axial",
+      "descargadas": 97,
+      "errores": 0
+    },
+    {
+      "numero": 4,
+      "modalidad": "CT",
+      "descripcion": "Tej Blandos 2.0 Axial",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1782317667.865291",
+      "instancias": 97,
+      "carpeta": "estudios/tomografia/2026-06-25_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso/dicom/004_tej-blandos-2-0-axial",
+      "descargadas": 97,
+      "errores": 0
+    },
+    {
+      "numero": 5,
+      "modalidad": "CT",
+      "descripcion": "Hueso 0.5 Vol",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1782317682.405284",
+      "instancias": 641,
+      "carpeta": "estudios/tomografia/2026-06-25_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso/dicom/005_hueso-0-5-vol",
+      "descargadas": 641,
+      "errores": 0
+    },
+    {
+      "numero": 6,
+      "modalidad": "CT",
+      "descripcion": "Hueso 2.000 Coronal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1782317729.873407",
+      "instancias": 96,
+      "carpeta": "estudios/tomografia/2026-06-25_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso/dicom/006_hueso-2-000-coronal",
+      "descargadas": 96,
+      "errores": 0
+    },
+    {
+      "numero": 7,
+      "modalidad": "CT",
+      "descripcion": "Hueso 2.000 Sagittal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1782317735.395798",
+      "instancias": 82,
+      "carpeta": "estudios/tomografia/2026-06-25_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso/dicom/007_hueso-2-000-sagittal",
+      "descargadas": 82,
+      "errores": 0
+    },
+    {
+      "numero": 8,
+      "modalidad": "CT",
+      "descripcion": "Tej Blandos 0.5 Vol",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1782317741.158075",
+      "instancias": 641,
+      "carpeta": "estudios/tomografia/2026-06-25_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso/dicom/008_tej-blandos-0-5-vol",
+      "descargadas": 641,
+      "errores": 0
+    },
+    {
+      "numero": 9,
+      "modalidad": "CT",
+      "descripcion": "Tej Blandos 3.000 Coronal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1782317805.374853",
+      "instancias": 64,
+      "carpeta": "estudios/tomografia/2026-06-25_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso/dicom/009_tej-blandos-3-000-coronal",
+      "descargadas": 64,
+      "errores": 0
+    },
+    {
+      "numero": 10,
+      "modalidad": "CT",
+      "descripcion": "Tej Blandos 3.000 Sagittal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1782317809.212236",
+      "instancias": 57,
+      "carpeta": "estudios/tomografia/2026-06-25_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso/dicom/010_tej-blandos-3-000-sagittal",
+      "descargadas": 57,
+      "errores": 0
+    },
+    {
+      "numero": 9000,
+      "modalidad": "CT",
+      "descripcion": "2",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1782317723.656351",
+      "instancias": 1,
+      "carpeta": "estudios/tomografia/2026-06-25_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso/dicom/9000_2",
+      "descargadas": 1,
+      "errores": 0
+    }
+  ],
+  "dicom_series": 10,
+  "dicom_instancias": 1777,
+  "dicom_descargadas": 1777,
+  "dicom_completo": true,
+  "dicom_metadata": {
+    "Modality": "CT",
+    "StudyDate": "20260625",
+    "StudyTime": "011113",
+    "StudyDescription": "TOMOGRAFIA DE CEREBRO SIN CONTRASTE ENDOVENOSO",
+    "SeriesDescription": "2.0",
+    "SeriesNumber": 1,
+    "InstanceNumber": 1,
+    "Manufacturer": "TOSHIBA",
+    "ManufacturerModelName": "Aquilion PRIME",
+    "BodyPartExamined": "MIEMINFERIOR",
+    "ProtocolName": "Tobillo - Pie",
+    "SliceThickness": 2.0,
+    "KVP": 120.0,
+    "Rows": 512,
+    "Columns": 512,
+    "PixelSpacing": "[1.000, 1.000]",
+    "ImageOrientationPatient": "[1.00000, 0.00000, 0.00000, 0.00000, 0.00000, -1.00000]",
+    "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+    "SOPInstanceUID": "1.2.392.200036.9116.2.6.1.3268.2051117010.1782317610.106463",
+    "SeriesInstanceUID": "1.2.392.200036.9116.2.6.1.3268.2051117010.1782317610.103839",
+    "StudyInstanceUID": "1.2.392.200036.9116.2.6.1.3268.2051117010.1782317463.339917"
+  }
+}

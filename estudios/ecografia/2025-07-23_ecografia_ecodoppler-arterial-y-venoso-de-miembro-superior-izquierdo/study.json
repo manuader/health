@@ -1,0 +1,56 @@
+{
+  "idReport": "2396522",
+  "idLaboratory": "0011899646",
+  "descripcion": "ECODOPPLER ARTERIAL Y VENOSO DE MIEMBRO SUPERIOR IZQUIERDO",
+  "servicio": "Diagnóstico por Imágenes",
+  "fecha": "2025-07-23",
+  "accession": "0011899646",
+  "study_uid": "1.2.840.113845.11.1000000002152132195.20250723095218.5523079",
+  "study_date": "20250723",
+  "modalidades": "SR\\US",
+  "procedimiento": "ECODOPPLER ARTERIAL Y VENOSO DE MIEMBRO SUPERIOR IZQUIERDO",
+  "urlViewer": "https://estudios.hbritanico.com.ar/im/#/125/60eb82b107d7bffa84a4f0bc5af21627?fromportal=true",
+  "documentos_visor": [
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "6A67694D38514830706C6A43324C4861626B756936513D3D0A"
+    }
+  ],
+  "documentos_extra": [],
+  "series": [
+    {
+      "numero": 1,
+      "modalidad": "US",
+      "descripcion": "",
+      "series_uid": "1.2.392.200036.9116.6.20.14623447.7334.20250723125856211.4.3",
+      "instancias": 15,
+      "carpeta": "estudios/ecografia/2025-07-23_ecografia_ecodoppler-arterial-y-venoso-de-miembro-superior-izquierdo/dicom/001_us",
+      "descargadas": 15,
+      "errores": 0
+    }
+  ],
+  "dicom_series": 1,
+  "dicom_instancias": 15,
+  "dicom_descargadas": 15,
+  "dicom_completo": true,
+  "dicom_metadata": {
+    "Modality": "US",
+    "StudyDate": "20250723",
+    "StudyTime": "095856",
+    "StudyDescription": "ECODOPPLER ARTERIAL Y VENOSO DE MIEMBRO SUPERIOR IZQUIERDO",
+    "SeriesDescription": "",
+    "SeriesNumber": 1,
+    "InstanceNumber": 1,
+    "Manufacturer": "TOSHIBA_MEC_US",
+    "ManufacturerModelName": "TUS-X100",
+    "BodyPartExamined": "",
+    "ProtocolName": "PV Venous",
+    "Rows": 720,
+    "Columns": 960,
+    "SOPClassUID": "1.2.840.10008.5.1.4.1.1.6.1",
+    "SOPInstanceUID": "1.2.392.200036.9116.6.20.14623447.1467.20250723130009085.9.7",
+    "SeriesInstanceUID": "1.2.392.200036.9116.6.20.14623447.7334.20250723125856211.4.3",
+    "StudyInstanceUID": "1.2.840.113845.11.1000000002152132195.20250723095218.5523079"
+  }
+}

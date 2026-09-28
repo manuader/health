@@ -1,0 +1,66 @@
+{
+  "idReport": "2449803",
+  "idLaboratory": "0012199801",
+  "descripcion": "ECOGRAFIA DE PARTES BLANDAS ADULTOS",
+  "servicio": "Diagnóstico por Imágenes",
+  "fecha": "2025-09-20",
+  "accession": "0012199801",
+  "study_uid": "1.2.840.113845.11.1000000002152132195.20250920094318.5628484",
+  "study_date": "20250920",
+  "modalidades": "PR\\SR\\US",
+  "procedimiento": "ECOGRAFIA DE PARTES BLANDAS ADULTOS",
+  "urlViewer": "https://estudios.hbritanico.com.ar/im/#/125/6958ced63909246aa6dd5e0363703553?fromportal=true",
+  "documentos_visor": [
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "714131475574514C494632797178786C747372384A513D3D0A"
+    },
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "714131475574514C494632797178786C747372384A513D3D0A"
+    },
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "714131475574514C494632797178786C747372384A513D3D0A"
+    }
+  ],
+  "documentos_extra": [],
+  "series": [
+    {
+      "numero": 1,
+      "modalidad": "US",
+      "descripcion": "",
+      "series_uid": "1.2.392.200036.9116.6.20.16566025.9500.20250920132146226.1.16",
+      "instancias": 5,
+      "carpeta": "estudios/ecografia/2025-09-20_ecografia_ecografia-de-partes-blandas-adultos/dicom/001_us",
+      "descargadas": 5,
+      "errores": 0
+    }
+  ],
+  "dicom_series": 1,
+  "dicom_instancias": 5,
+  "dicom_descargadas": 5,
+  "dicom_completo": true,
+  "dicom_metadata": {
+    "Modality": "US",
+    "StudyDate": "20250920",
+    "StudyTime": "102146",
+    "StudyDescription": "ECOGRAFIA DE PARTES BLANDAS ADULTOS",
+    "SeriesDescription": "",
+    "SeriesNumber": 1,
+    "InstanceNumber": 4,
+    "Manufacturer": "TOSHIBA_MEC_US",
+    "ManufacturerModelName": "TUS-X200",
+    "BodyPartExamined": "",
+    "ProtocolName": "PV Venous",
+    "Rows": 720,
+    "Columns": 960,
+    "SOPClassUID": "1.2.840.10008.5.1.4.1.1.6.1",
+    "SOPInstanceUID": "1.2.392.200036.9116.6.20.16566025.8512.20250920132546251.1.125",
+    "SeriesInstanceUID": "1.2.392.200036.9116.6.20.16566025.9500.20250920132146226.1.16",
+    "StudyInstanceUID": "1.2.840.113845.11.1000000002152132195.20250920094318.5628484"
+  }
+}

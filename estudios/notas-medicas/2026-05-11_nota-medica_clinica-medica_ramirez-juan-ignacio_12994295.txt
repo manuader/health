@@ -1,0 +1,14 @@
+11/05/2026Fecha:
+MANUEL ADERNombre y Apellido:
+MEDICUSAseguradora:
+10097779003N. Afiliado: CELESTEPlan:
+10012994295 N°:
+Datos del Paciente
+45683086D.N.I.:
+RAMIREZ JUAN IGNACIOResponsable:
+MN152451Matrícula:
+Clinica MedicaEspecialidad:
+Notas:
+Paciente masculino con SMD/LMA recaida refractaria en tratamiento con Azacitidina venetoclax y gilteritinib. Presenta citopenias por tratamiento. Se solicita 
+internacion para PAMO y evaluacion de citopenias al dia 14 de tratamiento para definir conducta a seguir dado la complejidad del caso.
+A demas presenta herida cortante en dedo indice izquierdo que requiere evaluacion y seguimiento.

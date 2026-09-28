@@ -1,0 +1,27 @@
+RFC-MICROSITImpreso por: Hospital Británico – Orden Clinica
+10/09/2026Fecha y Hora de impresión: 10:20:07
+ORDEN CLÍNICA/ Hospital de día HB Central
+ADERApellido:
+CME-HEMGUM:
+45683086DNI:22 añosEdad:
+CUT-HEMGUT:
+10787558Nro. Orden:
+26/04/2004F.Nac.:
+MANUELNombre:
+19/08/2026Fecha:
+UrgentePrioridad:
+MEDICUSFinanciador:
+CELESTEPlan: EXENTOCond. de I.V.A.:
+10097779003Nro. Afiliado:
+20042/001Cod. Finan:
+Diagnóstico Presuntivo y Observaciones:
+LMA HIPERLEUCOCITARIA
+           Firma
+YELITZE MARIBEL CHOQUE AYLLON
+168896M.N. --    M.P.
+Médico
+Descripción Cantidad
+Internacion Tempor.hasta 8Hs. 1
+INFUSION DE CITARABINA 100 MG EV EL 19/08/26 
+ 
+Quimioterapia en Infusión 1

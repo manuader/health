@@ -1,0 +1,33 @@
+RFC-MICROSITImpreso por: Hospital Británico – Orden Clinica
+10/09/2026Fecha y Hora de impresión: 10:17:35
+ORDEN CLÍNICA/ Anatomia Patoló HB Central
+ADERApellido:
+CME-UTI1UM:
+45683086DNI:22 añosEdad:
+CE-UTI1UT:
+9404437Nro. Orden:
+26/04/2004F.Nac.:
+MANUELNombre:
+08/10/2025Fecha:
+UrgentePrioridad:
+MEDICUSFinanciador:
+CELESTEPlan: EXENTOCond. de I.V.A.:
+10097779003Nro. Afiliado:
+20042/001Cod. Finan:
+Diagnóstico Presuntivo y Observaciones:
+Sindrome mielodisplasico post trasplante haploidentico
+           Firma
+ALEJANDRA JUDITH SOLANO TORRES
+167751M.N. --    M.P.
+Médico
+Descripción Cantidad
+Estudio anatomopatológico 1
+Solicito anatomia patologica de medula osea dia +30 post THAPLO. 
+ 
+CÓDIGOS DE ANATOMÍA PATOLÓGICA 
+ 
+150105 x cant. 1 : Estudio biopsico seriado y sem 
+ 
+155125 x cant. 4: Técnicas especiales de histoquimica. 
+ 
+155104 x cant. 1: Inmunomarcación hasta 3 aplic

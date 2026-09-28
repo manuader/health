@@ -1,0 +1,230 @@
+{
+  "idReport": "2665864",
+  "idLaboratory": "0013419128",
+  "descripcion": "TOMOGRAFIA DE TORAX SIN CONTRASTE ENDOVENOSO",
+  "servicio": "Diagnóstico por Imágenes",
+  "fecha": "2026-05-31",
+  "accession": "0013419128",
+  "study_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780204466.788430",
+  "study_date": "20260531",
+  "modalidades": "CT\\PR\\SR",
+  "procedimiento": "TOMOGRAFIA DE TORAX SIN CONTRASTE ENDOVENOSO",
+  "urlViewer": "https://estudios.hbritanico.com.ar/im/#/125/3d2835de4f1f0b600bc69384685c0396?fromportal=true",
+  "documentos_visor": [
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "444862417A3042394F676D67414766364D42762B65513D3D0A"
+    }
+  ],
+  "documentos_extra": [],
+  "series": [
+    {
+      "numero": 1,
+      "modalidad": "CT",
+      "descripcion": "2.0",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780204516.977013",
+      "instancias": 2,
+      "carpeta": "estudios/tomografia/2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso/dicom/001_2-0",
+      "descargadas": 2,
+      "errores": 0
+    },
+    {
+      "numero": 3,
+      "modalidad": "CT",
+      "descripcion": "Torso 5.0 Axial",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780204662.90306",
+      "instancias": 79,
+      "carpeta": "estudios/tomografia/2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso/dicom/003_torso-5-0-axial",
+      "descargadas": 79,
+      "errores": 0
+    },
+    {
+      "numero": 4,
+      "modalidad": "CT",
+      "descripcion": "Pulmon 2.0 Axial",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780204678.139315",
+      "instancias": 79,
+      "carpeta": "estudios/tomografia/2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso/dicom/004_pulmon-2-0-axial",
+      "descargadas": 79,
+      "errores": 0
+    },
+    {
+      "numero": 6,
+      "modalidad": "CT",
+      "descripcion": "Hueso 2.0 Axial",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780204968.969234",
+      "instancias": 97,
+      "carpeta": "estudios/tomografia/2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso/dicom/006_hueso-2-0-axial",
+      "descargadas": 97,
+      "errores": 0
+    },
+    {
+      "numero": 7,
+      "modalidad": "CT",
+      "descripcion": "Tej Blandos 2.0 Axial",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780204985.710458",
+      "instancias": 97,
+      "carpeta": "estudios/tomografia/2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso/dicom/007_tej-blandos-2-0-axial",
+      "descargadas": 97,
+      "errores": 0
+    },
+    {
+      "numero": 8,
+      "modalidad": "CT",
+      "descripcion": "Torso 1.0 Vol",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780205001.226588",
+      "instancias": 391,
+      "carpeta": "estudios/tomografia/2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso/dicom/008_torso-1-0-vol",
+      "descargadas": 391,
+      "errores": 0
+    },
+    {
+      "numero": 9,
+      "modalidad": "CT",
+      "descripcion": "Torso 5.000 Coronal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780205087.970864",
+      "instancias": 57,
+      "carpeta": "estudios/tomografia/2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso/dicom/009_torso-5-000-coronal",
+      "descargadas": 57,
+      "errores": 0
+    },
+    {
+      "numero": 10,
+      "modalidad": "CT",
+      "descripcion": "Torso 5.000 Sagittal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780205091.870229",
+      "instancias": 74,
+      "carpeta": "estudios/tomografia/2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso/dicom/010_torso-5-000-sagittal",
+      "descargadas": 74,
+      "errores": 0
+    },
+    {
+      "numero": 11,
+      "modalidad": "CT",
+      "descripcion": "Pulmon 0.5 Vol",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780205097.359955",
+      "instancias": 781,
+      "carpeta": "estudios/tomografia/2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso/dicom/011_pulmon-0-5-vol",
+      "descargadas": 781,
+      "errores": 0
+    },
+    {
+      "numero": 12,
+      "modalidad": "CT",
+      "descripcion": "Pulmon 2.000 Coronal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780205160.575782",
+      "instancias": 56,
+      "carpeta": "estudios/tomografia/2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso/dicom/012_pulmon-2-000-coronal",
+      "descargadas": 56,
+      "errores": 0
+    },
+    {
+      "numero": 13,
+      "modalidad": "CT",
+      "descripcion": "Pulmon 2.000 Sagittal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780205165.291930",
+      "instancias": 73,
+      "carpeta": "estudios/tomografia/2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso/dicom/013_pulmon-2-000-sagittal",
+      "descargadas": 73,
+      "errores": 0
+    },
+    {
+      "numero": 14,
+      "modalidad": "CT",
+      "descripcion": "Hueso 1.0 Vol",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780205169.986494",
+      "instancias": 241,
+      "carpeta": "estudios/tomografia/2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso/dicom/014_hueso-1-0-vol",
+      "descargadas": 241,
+      "errores": 0
+    },
+    {
+      "numero": 15,
+      "modalidad": "CT",
+      "descripcion": "Hueso 2.000 Coronal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780205205.999147",
+      "instancias": 104,
+      "carpeta": "estudios/tomografia/2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso/dicom/015_hueso-2-000-coronal",
+      "descargadas": 104,
+      "errores": 0
+    },
+    {
+      "numero": 16,
+      "modalidad": "CT",
+      "descripcion": "Hueso 2.000 Sagittal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780205211.862912",
+      "instancias": 76,
+      "carpeta": "estudios/tomografia/2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso/dicom/016_hueso-2-000-sagittal",
+      "descargadas": 76,
+      "errores": 0
+    },
+    {
+      "numero": 17,
+      "modalidad": "CT",
+      "descripcion": "Tej Blandos 0.5 Vol",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780205217.56128",
+      "instancias": 385,
+      "carpeta": "estudios/tomografia/2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso/dicom/017_tej-blandos-0-5-vol",
+      "descargadas": 385,
+      "errores": 0
+    },
+    {
+      "numero": 18,
+      "modalidad": "CT",
+      "descripcion": "Tej Blandos 3.000 Coronal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780205291.402483",
+      "instancias": 70,
+      "carpeta": "estudios/tomografia/2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso/dicom/018_tej-blandos-3-000-coronal",
+      "descargadas": 70,
+      "errores": 0
+    },
+    {
+      "numero": 19,
+      "modalidad": "CT",
+      "descripcion": "Tej Blandos 3.000 Sagittal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780205295.472283",
+      "instancias": 51,
+      "carpeta": "estudios/tomografia/2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso/dicom/019_tej-blandos-3-000-sagittal",
+      "descargadas": 51,
+      "errores": 0
+    },
+    {
+      "numero": 9000,
+      "modalidad": "CT",
+      "descripcion": "4",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780204773.661367",
+      "instancias": 2,
+      "carpeta": "estudios/tomografia/2026-05-31_tomografia_tomografia-de-torax-sin-contraste-endovenoso/dicom/9000_4",
+      "descargadas": 2,
+      "errores": 0
+    }
+  ],
+  "dicom_series": 18,
+  "dicom_instancias": 2715,
+  "dicom_descargadas": 2715,
+  "dicom_completo": true,
+  "dicom_metadata": {
+    "Modality": "CT",
+    "StudyDate": "20260531",
+    "StudyTime": "141431",
+    "StudyDescription": "TOMOGRAFIA DE TORAX SIN CONTRASTE ENDOVENOSO",
+    "SeriesDescription": "2.0",
+    "SeriesNumber": 1,
+    "InstanceNumber": 2,
+    "Manufacturer": "TOSHIBA",
+    "ManufacturerModelName": "Aquilion PRIME",
+    "BodyPartExamined": "TORAX",
+    "ProtocolName": "Torax sin CE",
+    "SliceThickness": 2.0,
+    "KVP": 120.0,
+    "Rows": 512,
+    "Columns": 512,
+    "PixelSpacing": "[2.000, 2.000]",
+    "ImageOrientationPatient": "[0.00000, 0.00000, -1.00000, 0.00000, 1.00000, 0.00000]",
+    "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+    "SOPInstanceUID": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780204539.242851",
+    "SeriesInstanceUID": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780204516.977013",
+    "StudyInstanceUID": "1.2.392.200036.9116.2.6.1.3268.2051117010.1780204466.788430"
+  }
+}

@@ -1,0 +1,14 @@
+12/09/2025Fecha:
+MANUEL ADERNombre y Apellido:
+MEDICUSAseguradora:
+10097779003N. Afiliado: CELESTEPlan:
+10011750096 N°:
+Datos del Paciente
+45683086D.N.I.:
+RAMIREZ JUAN IGNACIOResponsable:
+MN152451Matrícula:
+Clinica MedicaEspecialidad:
+Notas:
+Paciente masculino cursando post TCPH por SMD alto riesgo
+Evoluciona con mucositis moderada
+Presenta bajos niveles de posaconazol, se decide suspender dado la mucositis y los niveles bajos y rotar profilaxis a anidulafungina

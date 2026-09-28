@@ -1,0 +1,58 @@
+{
+  "idReport": "2703272",
+  "idLaboratory": "0013638971",
+  "descripcion": "RADIOGRAFIA DE TORAX FRENTE",
+  "servicio": "Diagnóstico por Imágenes",
+  "fecha": "2026-07-14",
+  "accession": "0013638971",
+  "study_uid": "1.2.840.113845.11.1000000002152132195.20260714052033.6128047",
+  "study_date": "20260714",
+  "modalidades": "CR\\SR",
+  "procedimiento": "RADIOGRAFIA DE TORAX FRENTE",
+  "urlViewer": "https://estudios.hbritanico.com.ar/im/#/125/70274572a3c398058c672da998d0a1ca?fromportal=true",
+  "documentos_visor": [
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "44373557315A4874646C77367533432B75576C7055513D3D0A"
+    }
+  ],
+  "documentos_extra": [],
+  "series": [
+    {
+      "numero": 1,
+      "modalidad": "CR",
+      "descripcion": "Torax AP",
+      "series_uid": "1.3.51.0.7.3577153677.49523.35399.41189.39764.36340.10994",
+      "instancias": 1,
+      "carpeta": "estudios/radiografia/2026-07-14_radiografia_radiografia-de-torax-frente/dicom/001_torax-ap",
+      "descargadas": 1,
+      "errores": 0
+    }
+  ],
+  "dicom_series": 1,
+  "dicom_instancias": 1,
+  "dicom_descargadas": 1,
+  "dicom_completo": true,
+  "dicom_metadata": {
+    "Modality": "CR",
+    "StudyDate": "20260714",
+    "StudyTime": "064222",
+    "StudyDescription": "RADIOGRAFIA DE TORAX FRENTE",
+    "SeriesDescription": "Torax AP",
+    "SeriesNumber": 1,
+    "InstanceNumber": 1,
+    "Manufacturer": "Agfa",
+    "ManufacturerModelName": "DXD40_1000C",
+    "BodyPartExamined": "CHEST",
+    "KVP": 105.0,
+    "ContrastBolusAgent": "",
+    "Rows": 2548,
+    "Columns": 3060,
+    "PixelSpacing": "[0.14, 0.14]",
+    "SOPClassUID": "1.2.840.10008.5.1.4.1.1.1",
+    "SOPInstanceUID": "1.3.51.0.7.350856742.53052.59469.32850.4145.41807.64149",
+    "SeriesInstanceUID": "1.3.51.0.7.3577153677.49523.35399.41189.39764.36340.10994",
+    "StudyInstanceUID": "1.2.840.113845.11.1000000002152132195.20260714052033.6128047"
+  }
+}

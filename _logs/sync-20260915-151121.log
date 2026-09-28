@@ -1,0 +1,12 @@
+15:11:21 INFO    import: Importado: 213817 Ader Manuel NGS inf.pdf -> estudios/biologia-molecular/2025-04-08_biologia-molecular_ngs-panel-mieloide-pretrasplante_medula-osea_leb-bahia-blanca_wt1_213817.pdf
+15:11:22 INFO    import: Importado: 226104 Ader Manuel NGS inf .pdf -> estudios/biologia-molecular/2026-02-06_biologia-molecular_ngs-panel-mieloide-recaida-postrasplante_medula-osea_leb-bahia-blanca_wt1-flt3-itd-blm_226104.pdf
+15:11:22 INFO    import: Importado: ADER MANUEL  FLT3- ITD mutado 05-02-2026.pdf -> estudios/biologia-molecular/2026-02-05_biologia-molecular_pcr-flt3-itd-tkd_recaida_medula-osea_fundaleu_00287-26.pdf
+15:11:22 INFO    import: Duplicado exacto (sha256) de un documento ya presente: ADER MANUEL A310022 INF.pdf
+15:11:22 INFO    import: Importado: ADER MANUEL HTAL. BRITANICO 28-01-26001.pdf -> estudios/quimerismo/2026-01-27_quimerismo_quimerismo-postrasplante_medula-osea_pricai-fundacion-favaloro_QA12280.pdf
+15:11:22 INFO    import: Importado: ADER, MANUEL  H. BRITANICO 21-10-2528102025.pdf -> estudios/quimerismo/2025-10-08_quimerismo_quimerismo-postrasplante_sangre-periferica_pricai-fundacion-favaloro_QA11799.pdf
+15:11:22 INFO    import: Importado: ADER, MANUEL H. BRITANICO 11-12-2522122025.pdf -> estudios/quimerismo/2025-12-10_quimerismo_quimerismo-postrasplante-medula-osea-subpoblaciones_pricai-fundacion-favaloro_QA12029.pdf
+15:11:22 INFO    import: Importado: AV_ADER MANUEL___B173296_150112.pdf -> estudios/anatomia-patologica/2025-04-07_anatomia-patologica_biopsia-medula-osea_cepacit_B173296.pdf
+15:11:22 INFO    import: Importado: Informe LEB Ader Manuel.pdf -> estudios/biologia-molecular/2025-04-08_biologia-molecular_secuenciacion-masiva-complementaria_sangre-periferica_leb-bahia-blanca_wt1_213817-complementario.pdf
+15:11:22 INFO    import: Importado: ORD215309 informe.pdf -> estudios/donantes/hermano-ariel/biologia-molecular/2025-05-14_biologia-molecular_ngs-panel-mieloide_donante-hermano-ariel_leb-bahia-blanca_sin-variantes-clinicas_215309.pdf
+15:11:22 INFO    import: Importado: ORD215309.pdf -> estudios/donantes/hermano-ariel/biologia-molecular/2025-05-14_biologia-molecular_caratula-ngs-panel-mieloide_donante-hermano-ariel_leb-bahia-blanca_215309-caratula.pdf
+15:11:22 INFO    import: Importado: Patology and test reports.pdf -> estudios/compilados/2025-04-01_compilado-clinico_patologia-citometria-genetica-quimerismo_2025-04-01_a_2026-02-05_20-paginas.pdf

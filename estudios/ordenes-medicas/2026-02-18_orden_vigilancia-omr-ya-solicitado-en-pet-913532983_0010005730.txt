@@ -1,0 +1,35 @@
+RFC-MICROSITImpreso por: Hospital Británico – Orden Clinica
+10/09/2026Fecha y Hora de impresión: 10:19:04
+ORDEN CLÍNICA/ Laboratorio Int HB Central
+ADERApellido:
+CME-HEMGUM:
+45683086DNI:22 añosEdad:
+CE-RTMOUT:
+10005730Nro. Orden:
+26/04/2004F.Nac.:
+MANUELNombre:
+18/02/2026Fecha:
+A DemandaPrioridad:
+MEDICUSFinanciador:
+CELESTEPlan: EXENTOCond. de I.V.A.:
+10097779003Nro. Afiliado:
+20042/001Cod. Finan:
+Consultar las indicaciones para la realización de los estudios en la página web institucional  
+www.hospitalbritanico.org.ar
+Diagnóstico Presuntivo y Observaciones:
+VIGILANCIA OMR 
+**ya solicitado en pet.913532983**
+Hospital BritánicoLugar donde se toma la muestra:            Firma
+LUCIA NICOLE LAFON
+178920M.N. --    M.P.
+Médico
+Descripción Cantidad
+Vigilancia Bacterias Multi R 1
+Prestación Descripción Tp. de Muestra Origen de la muestra/Sitio Anatómico
+G2566B0200 Vigilancia Bacterias Multi R
+HISOPADO 
+AXILAR, 
+INGUINAL, 
+NASAL Y ANAL
+N/A
+Casilla de verificación

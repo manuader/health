@@ -1,0 +1,1 @@
+El endpoint de recetas de HB Online (`/patient/api/v1/results/getprescriptionsbysap`) respondió `500 The method or operation is not implemented` en la última sincronización. Cuando el hospital lo habilite, `hb_downloader sync --only recetas` las descargará acá.

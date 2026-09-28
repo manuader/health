@@ -1,0 +1,132 @@
+SECUENCIACIÓN DE NUEVA GENERACIÓN. PANEL MIELOIDE. 
+ 
+Muestra: Médula ósea. 
+Información clínica/diagnóstico presuntivo: Síndrome mielodisplásico (SMD). 
+Método: Se utiliza la solución Panmyeloid Consortium Panel Plus (Panmyeloid_v1+). Tecnología de captura. 
+ 
+RESULTADOS: 
+ 
+VARIANTES CON UTILIDAD CLÍNICA POTENCIAL: 
+ 
+ 
+GENES DE FUSION: 
+No se detectaron genes de fusión. 
+ 
+OTRAS ALTERACIONES GENOMICAS: 
+No se detectaron variaciones en el número de copias (CNV) en los genes evaluados.
+
+INTERPRETACIÓN: 
+ 
+Se detectó una variante de secuencia patogénica en el gen WT1. 
+El gen WT1 (11p13) codifica un factor de transcripción del tipo “dedos de zinc” implicado en el desarrollo y 
+diferenciación celular. Las mutac iones en el gen WT1 se reportan  en menos del 5% de los pacientes con s índrome 
+mielodisplásico (SMD), por el momento sin una implicancia clara sobre el pronóstico. 
+En base al conocimiento actual, no se han detectado variantes patogénicas en el resto de los genes estudiados como 
+así tampoco la presencia de genes de fusión. 
+Se sugiere correlacionar estos resultados con la presentación clínica y otros estudios complementarios.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REFERENCIAS: 
+1.   Khoury, J.D.; Solary, E.; Abla, O.; Akkari, Y.; Alaggio, R.; Apperley, J.F.; Bejar, R.; Berti, E.; Busque, L.; Chan, J.K.C.; et al. The 5th Edition of the World Health 
+Organization Classification of Haematolymphoid Tumours: Myeloid and Histiocytic/Dendritic Neoplasms. Leukemia 2022, 36, 1703–1719. 
+2.   Döhner H, Wei AH, Appelbaum FR, Craddock C, DiNardo CD, Dombret H, Ebert BL, Fenaux P, Godley LA, Hasserjian RP, Larson RA, Levine RL, Miyazaki Y, 
+Niederwieser D, Ossenkoppele GJ, Röllig C, Sierra J, Stein EM, Tallman MS, Tien HF, Wang J, Wierzbowska A, Löwenberg B. Diagnosis and Management of AML in 
+Adults: 2022 ELN Recommendations from an International Expert Panel. Blood. 2022 Jul 7:blood.2022016867. doi: 10.1182/blood.2022016867. Epub ahead of print. 
+PMID: 35797463. 
+3.   Arber, Daniel A et al. “International Consensus Classification of Myeloid Neoplasms and Acute Leukemias: integrating morphologic, clinical, and genomic data.” 
+Blood vol. 140,11 (2022): 1200-1228. doi:10.1182/blood.2022015850 
+4.   Papaemmanuil E, Gerstung M, Bullinger L, Gaidzik VI, Paschka P, Roberts ND, Potter NE, Heuser M, Thol F, Bolli N, Gundem G, Van Loo P, Martincorena I, Ganly 
+P, Mudie L, McLaren S, O'Meara S, Raine K, Jones DR, Teague JW, Butler AP, Greaves MF, Ganser A, Döhner K, Schlenk RF, Döhner H, Campbell PJ. Genomic 
+Classification and Prognosis in Acute Myeloid Leukemia. N Engl J Med. 2016 Jun 9;374(23):2209-2221. doi: 10.1056/NEJMoa1516192. PMID: 27276561; PMCID: 
+PMC4979995. 
+5.   Tazi, Y.; Arango-Ossa, J.E.; Zhou, Y.; Bernard, E.; Thomas, I.; Gilkes, A.; Freeman, S.; Pradat, Y.; Johnson, S.J.; Hills, R.; et al. Unified Classification and Risk-
+Stratification in Acute Myeloid Leukemia. medRxiv 2022, 2022.03.09.22271087. 
+6.   Bernard E. et al. Molecular International Prognostic Scoring System for Myelodysplastic Syndromes. NEJM Evid 2022;1(7). DOI: 10.1056/EVIDoa2200008 
+7.   Bejar R. How can we incorporate molecular data into the IPSS?. Best Pract Res Clin Haematol. 2022;35(4):101410. doi:10.1016/j.beha.2022.101410.
+
+Genes analizados: 
+ 
+Panel de ADN: 
+ANKRD26(1-34), ASXL1(13), ATRX(7-10, 16-31), BCOR(2-15), BCORL1(1-13), CALR(9), CBL(8-9), CDC25B(6-11), CEBPA(all), CSF3R(14-17), CSNK1A1(1-
+11), CUX1(1 -24), DDX41(1 -17), DNMT3A(all), EGFR(1,2,8 -14), EGR1(4 -9), ETNK1(1 -8), ETV6(all), EYA1(12 -18), EZH2(all),  FGFR18(6-14), FLT3(14 -
+16,20), GATA1(2), GATA2(2 -7), IDH1(4), IDH2(2,4), IKZF1(1 -8), JAG1(9-13), JAK2(9 -15), KIT(2,8 -14,17-18), KMT2A(1 -9,27), KRAS(2 -4), LYN(2,4 -6), 
+MEF2C(2-9), MPL(3 -6,10,12), MTRR(1 -15), MYBL2(1 -3,11-14), MYC(1 -3), NF1(1 -58), NPM1(9 -11), NRAS(2-4), PHF6(2 -20), PPM1D(1 -6), 
+PTPN11(3,7,13), PTPRT(1-3,29-32), RAD21(2-14), RUNX1(1-9), SETBP1(4), SF3B1(11-16), SH2B3(2-8), SMC1A(2-3,11-18), SMC3(10,13,19,23,25,28), 
+SRP72(1-19), SRSF2(1), STAG2(2-35), TAS2R1(1), TES(1-7), TET2(all), TP53(1-12), U2AF1(2,6-7), WRN(9-12), WT1(6-9), ZRSR2(1-11). 
+ 
+ 
+Panel de ARN para genes de fusión: 
+BCR(1,4,6,7,12,13,14,19)-ABL1(2,3,4), BCR(1,4,6,7,12,13,14,19) -JAK2(9,11,13,15,17,18,19), BCR(1,4,6,7,12,13,14,19) -PDGFRA(12), 
+BCR(1,4,6,7,12,13,14,19)-FGFR1(10), ETV6(4,5, 6,7)-ABL1(2,3,4), ETV6(4,5,6,7) -PDGFRB(9,11), ETV6(4,5,6,7) -NTRK3(14,15), ETV6(4,5,6,7) -
+JAK2(9,11,13,15,17,18,19), ETV6(4,5,6,7) -RUNX1(2,3), ETV6(4,5,6,7) -ARNT(2), EML1(17) -ABL1(2,3,4), TERF2(8) -JAK2(9,11,13,15,17,18,19), 
+OFD1(22)-JAK2(9,11,13,15,17,18,19), NUP214(23,26,28,29,30,31,32,34) -ABL1(2,3,4), ZMIZ1(18) -ABL1(2,3,4), RCSD1(2,3) -ABL1(2,3,4), SFPQ(9) -
+ABL1(2,3,4), FOXP1(19) -ABL1(2,3,4), SNX2(3) -ABL1(2,3,4), INPP5D(9) -ABL1(2,3,4), RANBP2(18) -ABL1(2,3,4), SPTBN1(3) -FLT3(14), SPTBN1(3) -
+PDGFRB(9,11), ZEB2(1 0)-PDGFRB(9,11), TPM3(8) -PDGFRB(9,11), CCDC6(1,7) -PDGFRB(9,11), PDE4DIP(19) -PDGFRB(9,11), NDE1(6) -PDGFRB(9,11), 
+ATF7IP(13)-JAK2(9,11,13,15,17,18,19), SPAG9(26) -JAK2(9,11,13,15,17,18,19), PCM1(26,26) -JAK2(9,11,13,15,17,18,19), STRN3(8,9) -
+JAK2(9,11,13,15,17,18,19), ZC3HAV1(12) -ABL2(3,5), EBF1(10,13,14,15) -JAK2(9,11,13,15,17,18,19), EBF1(10,13,14,15) -PDGFRB(9,11), 
+SSBP2(5,6,8,10,16)-JAK2(9,11,13,15,17,18,19), SSBP2(5,6,8,10,16) -CSF1R(12), MEF2D(7) -CSF1R(12), PAX5(4,5) -ETV6(2,3), PAX5(4,5) -
+JAK2(9,11,13,15,17,18,19), MN1(1) -ETV6(2,3), MNX1(1) -ETV6(2,3), CHIC2(3) -ETV6(2,3), RUNX1(5) -RUNX1T1(2), DEK(9) -NUP214(17,18), SET(7) -
+NUP214(17,18), NCOR1(34) -LYN(7), STIL(1) -TAL1(3,4,5),RBM15(2)-MKL1(4,5), P2RY8(1) -CRLF2(1), KAT6A(16) -CREBBP(2,3), CBFA2T3(10,11) -
+GLIS2(2,3), C BFB(4,5,)-MYH11(7,8,9,10,11,12,13), TCF3(11,13,14,17)-HLF(4), TCF3(11,13,14,17) -PBX1(2) PML(3,6)-RARA(3), ZBTB16(3,4)-RARA(3), 
+ZBTB16(3,4)-ABL1(2,3,4), NPM1(4,6)-RARA(3), NPM1(4,6)-MLF1(2), STAT5B(15,16)-RARA(3), PAG1(8)-ABL2(3,5), NUP98(10,11,12,13,14)-NSD1(6), 
+NUP98(10,11,12,13,14)-HOXA9(1,2), NUP98(10,11,12,13,14) -TOP1(8), NUP98(10,11,12,13,14) -DDX10(6,7), NUP98(10,11,12,13,14) -
+RAPIGDS1(2,3), NUP98(10,11,12,13,14) -KDM5A(27), TAF15(6,8) -ZNF384(3,4,7), CREBBP(4,5,6,7) -ZNF384(3,4,7), BMP2K(14,15) -ZNF384(3,4,7), 
+EP300(6)-ZNF384(3,4,7), STRN(6) -PDGFRA(12), FIP1L1(12) -PDGFRA(12), MYB(8) -GATA(5), ZMYM2(16) -FGFR1(10), CNTRL(40) -FGFR1(10), 
+TRIM24(9,10,11)-FGFR1(10), FGFR1OP(5,6,10) -FGFR1(10), CUX1(11) -FGFR1(10), TPR(22,39) -FGFR1(10), PICALM(16,18,19) -MLLT10(4,6,9,10,16), 
+KMT2A(9,10,11,12)-CREBBP(2,3), KMT2A(9,10,11,12) -RARA(3), KMT2A(9,10,11,12) -AFF1(4,5,6,11), KMT2A(9,10,11,12) -PTD(3), 
+KMT2A(9,10,11,12)-MLLT3(4,5,6,9,10), KMT2A(9,10,11,12) -MLLT1(2,4,5,6,7), KMT2A(9,10,11,12) -MLLT10(4,6,9,10,16), KMT2A(9,10,11,12) -
+AFDN(2), KMT2A(9,10,11,12) -ELL(2,3,6), KMT2A(9,10,11,12) -EPS15(2,6), KMT2A(9,10,11,12) -MLLT6(8,9,10), KMT2A(9,10,11,12) -SEPT6(2), 
+KMT2A(9,10,11,12)-MLLT11(2), KMT2A(9,10,11,12) -CIP2A(17), KMT2A(9,10,11,12) -AFF4(4,5,6), KMT2A(9,10,11,12) -ARHGAP26(19), 
+KMT2A(9,10,11,12)-MAPRE1(2,4,6), KMT2A(9,10,11,12) -SEPT5(3), KMT2A(9,10,11,12) -SEPT9(2,3), KMT2A(9,10,11,12) -TET1(9), 
+KMT2A(9,10,11,12)-AFF3(5,6,10), KMT2A(9,10,11,12) -KNL1(12), KMT2A(9,10,11,12) -FOXO3(3), KMT2A(9,10,11,12) -MAML2(2,3), 
+KMT2A(9,10,11,12)-NRIP3(2), KMT2A(9,10,11,12) -ARHGEF17(2,3,4,5), KMT2A(9,10,11,12) -C2CD3(13,14,15,17), KMT2A(9,10,11,12) -
+ARHGEF12(11,12,13), KMT2A(9,10,11,12)-CBL(10), KMT2A(9,10,11,12)-DCPS(2), KMT2A(9,10,11,12)-KMT2A(2).
+
+Metodología: 
+1. Extracción y purificación de los ácidos nucleicos: ADN genómico y ARN a partir de la muestra remitida.  
+2. Preparación de las librerías de ADN y ARN mediante PCR. Solución Panmyeloid Consortium Panel Plus SOPHiA (Panmyeloid_v1+).  
+3. Hibridación con sondas (Panmyeloid_v1 plus SOPHiA) dirigidas contra las regiones de interés. 
+4. Amplificación clonal y secuenciación masiva de las regiones seleccionada en la plataforma MiSeq (Illumina).  
+5. Estudio bioinformático de la secuencia de ADN obtenida y de los genes de fusión por comparación con la secuenc ia nucleotídica 
+de referencia (GRCh37/hg19). 
+Se reportan variantes de secuencia en ADN con una frecuencia alélica (VAF) >2% con al menos 25x del alelo alternativo y una 
+cobertura vertical mínima de 300x. 
+6. Las variantes son filtradas con el programa Sophia DDM. 
+7. Este panel emplea tecnología de captura y permite de forma fiable la detección de mutaciones en CEBPA, FLT3 (duplicaciones  
+ITDs) y CALR (deleciones de gran tamaño). 
+Limitaciones del estudio: 
+Existen algunos tipos de alteraciones que no pueden ser identificadas mediante esta prueba: 
+-Variantes relevantes en genes o regiones no incluídas en este panel.  
+-Variantes que se encuentren por debajo del umbral de sensibilidad que se ha establecido (10 lecturas).  
+Nota:-El resultado de este estudio deberá ser siempre interpretado en el contexto de datos clínicos y familiares.  
+Las variantes descriptas en las bases de datos poblacionales clasificadas como o SNPs (Single Nucleotide Polymorphisms) o 
+polimorfismos (MAF o frecuencia del alelo minoritario >=0,01 y/o incluidas en dbSNP, ExAC o 1000 Genomes), no se incluyen en 
+este informe, así como tampoco variantes intrónicas y sinónimas (no generan un cambio en la proteína codificante) ya que, en 
+base al conocimiento actual, siguen presentando dificultad en la interp retación. No obstante, dicha información puede 
+estardisponible bajo petición médica. 
+ 
+Bases de datos consultadas: 
+HGMD: http://www.hgmd.cf.ac.uk/ac/index.php 
+OMIM: http://www.omim.org/ 
+ClinVar: http://www.ncbi.nlm.nih.gov/clinvar/ 
+LOVD: http://www.lovd.nl/3.0/home 
+BIC: http://research.nhgri.nih.gov/bic 
+COSMIC: http://cancer.sanger.ac.uk/cosmic 
+1000 Genomes: http://browser.1000genomes.org 
+EVS: http://evs.gs.washington.edu/EVS 
+dbSNP: http://www.ncbi.nlm.nih.gov/snp/ 
+dbVar: http://www.ncbi.nlm.nih.gov/dbvar/ 
+ExAC: http://exac.broadinstitute.org 
+VarSome: https://varsome.com 
+IARC TP53: https://p53.iarc.fr/

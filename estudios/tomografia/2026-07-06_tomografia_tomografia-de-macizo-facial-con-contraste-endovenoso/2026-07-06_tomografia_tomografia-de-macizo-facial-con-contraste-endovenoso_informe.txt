@@ -1,0 +1,23 @@
+Paciente: ADER, MANUEL  Estudio: TOMOGRAFIA DE MACIZO FACIAL CON CONTRASTE 
+ENDOVENOSO
+Fecha de Nacimiento: 26/04/2004 Médico Derivante: N/D
+Fecha del Estudio: 06/07/2026 12:34:21 Procedencia: Ambulatorio
+RIS A. N.: 2767894 Número de Pac.: 0002201988
+Estado Informe: Final
+TOMOGRAFIA DE MACIZO FACIAL CON CONTRASTE ENDOVENOSO
+Técnica: Se efectuó tomografía computada multi-slice de macizo craneofacial sin contraste, 
+mediante una adquisición volumétrica en el plano axial y posteriores reconstrucciones 
+multiplanares. 
+ 
+Normal desarrollo y neumatización de senos paranasales. 
+Ostiums de drenaje de ambos senos maxilares permeables.
+Conductos lacrimonasales libres de patología.
+Tabique nasal cartilaginoso centrado.
+Configuración sinuosa del tabique nasal óseo, con componente desviación dextroconvexa en su 
+sector anterosuperior y levoconvexa de su sector medial inferior. Presenta espolón en su tercio 
+medio.
+No se observan alteraciones significativas a consignar en el seno frontal, los senos maxilares, las 
+celdillas mastoideas y los espacios del cuello supra e infrahioideo valorados. 
+Impresión diagnóstica:
+No se observan lesiones mandibulares ni en las piezas dentarias en lo evaluable por este método.
+Pág: 1

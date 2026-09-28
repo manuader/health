@@ -1,0 +1,43 @@
+Jefe de Laboratorio: Bioq. Muryan Alexis MN: 6911 
+LABORATORIO CENTRAL 
+HOSPITAL BRITANICO 
+Valores de Referencia Resultados Unidades 
+OP 
+Solicitado por 
+Protocolo N° 
+Episodio/Movim. Paciente 
+:
+:
+:
+13457353 
+ADER, MANUEL 
+QUARCHIONI, MICAELA ANDREA 
+Fecha Recepción:
+:
+30/10/25 09:15 
+0043599715^0001 
+:0002201988 Historia Clínica DNI Fecha de nacimiento :: 45683086 26/04/2004 
+BIOLOGIA MOLECULAR 
+ Cargas Virales 
+Menor a 1000 Límite de detección: 100 UI/ml
+Límite de cuantificación: 1000 UI/ml
+Método: Real Time PCR
+Herpes 6 - Carga Viral
+   Herpes 6 Virus, Carga viral UI/mL
+Menor a 3   Herpes 6 Virus, Carga viral (Log)
+DROGAS 
+ Dosaje de Drogas 
+302.00 90.00 - 320.00 ng/ml
+Método: EQLIA
+Ciclosporina en sangre entera ng/mL
+Fecha de impresión: 10/09/2026 10:11 A partir de Agosto 2025 se ha modificado la expresión de ciertas unidades para adecuarlas al 
+idioma castellano, sin verse afectados los resultados informados. 
+El Hospital Británico, fundado en 1844,  
+es una asociación civil sin fines de lucro. 
+www.hospitalbritanico.org.ar 
+(5411) 4309-6400 
+C1280AEB. Buenos Aires. 
+Perdriel 74. 
+Página 1 de 1 
+Este informe fue validado electronicamente por nuest ros profesionales 
+Se utiliza el punto (.) como separador de decimales

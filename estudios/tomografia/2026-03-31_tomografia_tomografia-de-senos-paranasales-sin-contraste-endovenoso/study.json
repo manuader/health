@@ -1,0 +1,195 @@
+{
+  "idReport": "2611086",
+  "idLaboratory": "0013101505",
+  "descripcion": "TOMOGRAFIA DE SENOS PARANASALES SIN CONTRASTE ENDOVENOSO",
+  "servicio": "Diagnóstico por Imágenes",
+  "fecha": "2026-03-31",
+  "accession": "0013101505",
+  "study_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1774921583.345323",
+  "study_date": "20260331",
+  "modalidades": "CT\\PR\\SR",
+  "procedimiento": "TOMOGRAFIA DE SENOS PARANASALES SIN CONTRASTE ENDOVENOSO",
+  "urlViewer": "https://estudios.hbritanico.com.ar/im/#/125/47680399a9dc8e54241a8f35d0237050?fromportal=true",
+  "documentos_visor": [
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "4B2B62624C4731524D5A5169716B744E4C4F565A68773D3D0A"
+    },
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "4B2B62624C4731524D5A5169716B744E4C4F565A68773D3D0A"
+    }
+  ],
+  "documentos_extra": [],
+  "series": [
+    {
+      "numero": 3,
+      "modalidad": "CT",
+      "descripcion": "Hueso 2.0 Axial",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1774921764.593552",
+      "instancias": 69,
+      "carpeta": "estudios/tomografia/2026-03-31_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso/dicom/003_hueso-2-0-axial",
+      "descargadas": 69,
+      "errores": 0
+    },
+    {
+      "numero": 4,
+      "modalidad": "CT",
+      "descripcion": "Tej Blandos 2.0 Axial",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1774921778.451535",
+      "instancias": 69,
+      "carpeta": "estudios/tomografia/2026-03-31_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso/dicom/004_tej-blandos-2-0-axial",
+      "descargadas": 69,
+      "errores": 0
+    },
+    {
+      "numero": 5,
+      "modalidad": "CT",
+      "descripcion": "Hueso 1.0 Vol",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1774921788.687028",
+      "instancias": 171,
+      "carpeta": "estudios/tomografia/2026-03-31_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso/dicom/005_hueso-1-0-vol",
+      "descargadas": 171,
+      "errores": 0
+    },
+    {
+      "numero": 6,
+      "modalidad": "CT",
+      "descripcion": "Tej Blandos 0.5 Vol",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1774921823.223587",
+      "instancias": 273,
+      "carpeta": "estudios/tomografia/2026-03-31_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso/dicom/006_tej-blandos-0-5-vol",
+      "descargadas": 273,
+      "errores": 0
+    },
+    {
+      "numero": 7,
+      "modalidad": "CT",
+      "descripcion": "2.0",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1774921902.213380",
+      "instancias": 2,
+      "carpeta": "estudios/tomografia/2026-03-31_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso/dicom/007_2-0",
+      "descargadas": 2,
+      "errores": 0
+    },
+    {
+      "numero": 9,
+      "modalidad": "CT",
+      "descripcion": "Torso 5.0 Axial",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1774921971.118126",
+      "instancias": 83,
+      "carpeta": "estudios/tomografia/2026-03-31_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso/dicom/009_torso-5-0-axial",
+      "descargadas": 83,
+      "errores": 0
+    },
+    {
+      "numero": 10,
+      "modalidad": "CT",
+      "descripcion": "Pulmon 2.0 Axial",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1774921987.207942",
+      "instancias": 83,
+      "carpeta": "estudios/tomografia/2026-03-31_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso/dicom/010_pulmon-2-0-axial",
+      "descargadas": 83,
+      "errores": 0
+    },
+    {
+      "numero": 11,
+      "modalidad": "CT",
+      "descripcion": "Torso 1.0 Vol",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1774922251.549052",
+      "instancias": 411,
+      "carpeta": "estudios/tomografia/2026-03-31_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso/dicom/011_torso-1-0-vol",
+      "descargadas": 411,
+      "errores": 0
+    },
+    {
+      "numero": 12,
+      "modalidad": "CT",
+      "descripcion": "Torso 5.000 Coronal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1774922342.115763",
+      "instancias": 58,
+      "carpeta": "estudios/tomografia/2026-03-31_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso/dicom/012_torso-5-000-coronal",
+      "descargadas": 58,
+      "errores": 0
+    },
+    {
+      "numero": 13,
+      "modalidad": "CT",
+      "descripcion": "Torso 5.000 Sagittal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1774922346.149481",
+      "instancias": 77,
+      "carpeta": "estudios/tomografia/2026-03-31_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso/dicom/013_torso-5-000-sagittal",
+      "descargadas": 77,
+      "errores": 0
+    },
+    {
+      "numero": 14,
+      "modalidad": "CT",
+      "descripcion": "Pulmon 0.5 Vol",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1774922351.227632",
+      "instancias": 821,
+      "carpeta": "estudios/tomografia/2026-03-31_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso/dicom/014_pulmon-0-5-vol",
+      "descargadas": 821,
+      "errores": 0
+    },
+    {
+      "numero": 15,
+      "modalidad": "CT",
+      "descripcion": "Pulmon 2.000 Coronal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1774922418.564756",
+      "instancias": 58,
+      "carpeta": "estudios/tomografia/2026-03-31_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso/dicom/015_pulmon-2-000-coronal",
+      "descargadas": 58,
+      "errores": 0
+    },
+    {
+      "numero": 16,
+      "modalidad": "CT",
+      "descripcion": "Pulmon 2.000 Sagittal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1774922422.781065",
+      "instancias": 76,
+      "carpeta": "estudios/tomografia/2026-03-31_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso/dicom/016_pulmon-2-000-sagittal",
+      "descargadas": 76,
+      "errores": 0
+    },
+    {
+      "numero": 9000,
+      "modalidad": "CT",
+      "descripcion": "4",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1774922022.236753",
+      "instancias": 2,
+      "carpeta": "estudios/tomografia/2026-03-31_tomografia_tomografia-de-senos-paranasales-sin-contraste-endovenoso/dicom/9000_4",
+      "descargadas": 2,
+      "errores": 0
+    }
+  ],
+  "dicom_series": 14,
+  "dicom_instancias": 2253,
+  "dicom_descargadas": 2253,
+  "dicom_completo": true,
+  "dicom_metadata": {
+    "Modality": "CT",
+    "StudyDate": "20260331",
+    "StudyTime": "104636",
+    "StudyDescription": "TOMOGRAFIA DE SENOS PARANASALES SIN CONTRASTE ENDOVENOSO",
+    "SeriesDescription": "Hueso 2.0 Axial",
+    "SeriesNumber": 3,
+    "InstanceNumber": 4,
+    "Manufacturer": "TOSHIBA",
+    "ManufacturerModelName": "Aquilion PRIME",
+    "BodyPartExamined": "SPN Y TORAX",
+    "ProtocolName": "SPN / MCF",
+    "SliceThickness": 2.0,
+    "KVP": 120.0,
+    "Rows": 512,
+    "Columns": 512,
+    "PixelSpacing": "[0.454, 0.454]",
+    "ImageOrientationPatient": "[1.00000, 0.00000, 0.00000, 0.00000, 0.99027, -0.13917]",
+    "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+    "SOPInstanceUID": "1.2.392.200036.9116.2.6.1.3268.2051117010.1774921764.634615",
+    "SeriesInstanceUID": "1.2.392.200036.9116.2.6.1.3268.2051117010.1774921764.593552",
+    "StudyInstanceUID": "1.2.392.200036.9116.2.6.1.3268.2051117010.1774921583.345323"
+  }
+}

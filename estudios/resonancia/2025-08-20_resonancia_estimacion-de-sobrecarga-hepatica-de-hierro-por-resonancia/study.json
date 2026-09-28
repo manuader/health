@@ -1,0 +1,267 @@
+{
+  "idReport": "2421963",
+  "idLaboratory": "0012039174",
+  "descripcion": "ESTIMACION DE SOBRECARGA HEPATICA DE HIERRO POR RESONANCIA",
+  "servicio": "Diagnóstico por Imágenes",
+  "fecha": "2025-08-20",
+  "accession": "0012039174",
+  "study_uid": "1.2.840.113845.11.1000000002152132195.20250820205253.5573252",
+  "study_date": "20250820",
+  "modalidades": "MR\\PR\\SR",
+  "procedimiento": "ESTIMACION DE SOBRECARGA HEPATICA DE HIERRO POR RESONANCIA",
+  "urlViewer": "https://estudios.hbritanico.com.ar/im/#/125/4be1ee5b9da14bc73bc8afd0f93a7f7d?fromportal=true",
+  "documentos_visor": [
+    {
+      "document_name": null,
+      "document_type": null,
+      "iddocument": null
+    },
+    {
+      "document_name": null,
+      "document_type": null,
+      "iddocument": null
+    }
+  ],
+  "documentos_extra": [],
+  "series": [
+    {
+      "numero": 0,
+      "modalidad": "MR",
+      "descripcion": "",
+      "series_uid": "1.3.46.670589.11.33071.5.0.9164.2025082020524495276",
+      "instancias": 1,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/000_mr",
+      "descargadas": 1,
+      "errores": 0
+    },
+    {
+      "numero": 101,
+      "modalidad": "MR",
+      "descripcion": "SURVEY",
+      "series_uid": "1.3.46.670589.11.33071.5.0.9072.2025082020523889966",
+      "instancias": 12,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/101_survey",
+      "descargadas": 12,
+      "errores": 0
+    },
+    {
+      "numero": 301,
+      "modalidad": "MR",
+      "descripcion": "SURVEY_BFFE",
+      "series_uid": "1.3.46.670589.11.33071.5.0.9072.2025082020551432999",
+      "instancias": 21,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/301_survey-bffe",
+      "descargadas": 21,
+      "errores": 0
+    },
+    {
+      "numero": 401,
+      "modalidad": "MR",
+      "descripcion": "T2W_TSE_BH",
+      "series_uid": "1.3.46.670589.11.33071.5.0.9072.2025082020555343029",
+      "instancias": 26,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/401_t2w-tse-bh",
+      "descargadas": 26,
+      "errores": 0
+    },
+    {
+      "numero": 501,
+      "modalidad": "MR",
+      "descripcion": "HIERRO NUEVO",
+      "series_uid": "1.3.46.670589.11.33071.5.0.9072.2025082020574087065",
+      "instancias": 85,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/501_hierro-nuevo",
+      "descargadas": 85,
+      "errores": 0
+    },
+    {
+      "numero": 601,
+      "modalidad": "MR",
+      "descripcion": "HIERRO NUEVO",
+      "series_uid": "1.3.46.670589.11.33071.5.0.9072.2025082020581646110",
+      "instancias": 85,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/601_hierro-nuevo",
+      "descargadas": 85,
+      "errores": 0
+    },
+    {
+      "numero": 701,
+      "modalidad": "MR",
+      "descripcion": "HIERRO NUEVO",
+      "series_uid": "1.3.46.670589.11.33071.5.0.9072.2025082020585257251",
+      "instancias": 85,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/701_hierro-nuevo",
+      "descargadas": 85,
+      "errores": 0
+    },
+    {
+      "numero": 801,
+      "modalidad": "MR",
+      "descripcion": "T2W_TSE_BH",
+      "series_uid": "1.3.46.670589.11.33071.5.0.9072.2025082020593035347",
+      "instancias": 31,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/801_t2w-tse-bh",
+      "descargadas": 31,
+      "errores": 0
+    },
+    {
+      "numero": 901,
+      "modalidad": "MR",
+      "descripcion": "T2_longTE_BH",
+      "series_uid": "1.3.46.670589.11.33071.5.0.9072.2025082021011162387",
+      "instancias": 31,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/901_t2-longte-bh",
+      "descargadas": 31,
+      "errores": 0
+    },
+    {
+      "numero": 1001,
+      "modalidad": "MR",
+      "descripcion": "T2W_SPAIR_BH",
+      "series_uid": "1.3.46.670589.11.33071.5.0.9072.2025082021021854427",
+      "instancias": 31,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/1001_t2w-spair-bh",
+      "descargadas": 31,
+      "errores": 0
+    },
+    {
+      "numero": 1101,
+      "modalidad": "MR",
+      "descripcion": "dual_FFE_BH",
+      "series_uid": "1.3.46.670589.11.33071.5.0.9072.2025082021040492468",
+      "instancias": 65,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/1101_dual-ffe-bh",
+      "descargadas": 65,
+      "errores": 0
+    },
+    {
+      "numero": 1201,
+      "modalidad": "MR",
+      "descripcion": "BTFE_BH",
+      "series_uid": "1.3.46.670589.11.33071.5.0.9072.2025082021044660479",
+      "instancias": 51,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/1201_btfe-bh",
+      "descargadas": 51,
+      "errores": 0
+    },
+    {
+      "numero": 1301,
+      "modalidad": "MR",
+      "descripcion": "T2W_TSE_BH",
+      "series_uid": "1.3.46.670589.11.33071.5.0.9072.2025082021061850602",
+      "instancias": 26,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/1301_t2w-tse-bh",
+      "descargadas": 26,
+      "errores": 0
+    },
+    {
+      "numero": 1401,
+      "modalidad": "MR",
+      "descripcion": "DIFF 0548-B",
+      "series_uid": "1.3.46.670589.11.33071.5.0.9072.2025082021072276637",
+      "instancias": 161,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/1401_diff-0548-b",
+      "descargadas": 161,
+      "errores": 0
+    },
+    {
+      "numero": 1402,
+      "modalidad": "MR",
+      "descripcion": "dDIFF 0-50-400-800 SENSE",
+      "series_uid": "1.3.46.670589.11.33071.5.0.15760.2025082021123710000",
+      "instancias": 40,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/1402_ddiff-0-50-400-800-sense",
+      "descargadas": 40,
+      "errores": 0
+    },
+    {
+      "numero": 1403,
+      "modalidad": "MR",
+      "descripcion": "eDIFF 0-50-400-800 SENSE",
+      "series_uid": "1.3.46.670589.11.33071.5.0.15760.2025082021123715001",
+      "instancias": 40,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/1403_ediff-0-50-400-800-sense",
+      "descargadas": 40,
+      "errores": 0
+    },
+    {
+      "numero": 1404,
+      "modalidad": "MR",
+      "descripcion": "B 01",
+      "series_uid": "1.3.46.670589.11.33071.5.0.3792.2025082021124045999",
+      "instancias": 24,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/1404_b-01",
+      "descargadas": 24,
+      "errores": 0
+    },
+    {
+      "numero": 1405,
+      "modalidad": "MR",
+      "descripcion": "B 50",
+      "series_uid": "1.3.46.670589.11.33071.5.0.3792.2025082021124195024",
+      "instancias": 24,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/1405_b-50",
+      "descargadas": 24,
+      "errores": 0
+    },
+    {
+      "numero": 1406,
+      "modalidad": "MR",
+      "descripcion": "B 400",
+      "series_uid": "1.3.46.670589.11.33071.5.0.3792.2025082021124343049",
+      "instancias": 24,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/1406_b-400",
+      "descargadas": 24,
+      "errores": 0
+    },
+    {
+      "numero": 1407,
+      "modalidad": "MR",
+      "descripcion": "B 800",
+      "series_uid": "1.3.46.670589.11.33071.5.0.3792.2025082021124504074",
+      "instancias": 24,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/1407_b-800",
+      "descargadas": 24,
+      "errores": 0
+    },
+    {
+      "numero": 1501,
+      "modalidad": "MR",
+      "descripcion": "e-THRIVE_BH",
+      "series_uid": "1.3.46.670589.11.33071.5.0.9072.2025082021123007666",
+      "instancias": 76,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/1501_e-thrive-bh",
+      "descargadas": 76,
+      "errores": 0
+    },
+    {
+      "numero": 1601,
+      "modalidad": "MR",
+      "descripcion": "e-THRIVE_",
+      "series_uid": "1.3.46.670589.11.33071.5.0.9072.2025082021131495820",
+      "instancias": 114,
+      "carpeta": "estudios/resonancia/2025-08-20_resonancia_estimacion-de-sobrecarga-hepatica-de-hierro-por-resonancia/dicom/1601_e-thrive",
+      "descargadas": 114,
+      "errores": 0
+    }
+  ],
+  "dicom_series": 22,
+  "dicom_instancias": 1077,
+  "dicom_descargadas": 1077,
+  "dicom_completo": true,
+  "dicom_metadata": {
+    "Modality": "MR",
+    "StudyDate": "20250820",
+    "StudyTime": "205232",
+    "StudyDescription": "ESTIMACION DE SOBRECARGA HEPATICA DE HIERRO POR RESONANCIA",
+    "SeriesNumber": 0,
+    "InstanceNumber": 1,
+    "Manufacturer": "Philips Medical Systems",
+    "ManufacturerModelName": "Achieva",
+    "ProtocolName": "ExamCard",
+    "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+    "SOPInstanceUID": "1.3.46.670589.11.33071.5.24.5.1.9164.2025082020524495276",
+    "SeriesInstanceUID": "1.3.46.670589.11.33071.5.0.9164.2025082020524495276",
+    "StudyInstanceUID": "1.2.840.113845.11.1000000002152132195.20250820205253.5573252"
+  }
+}

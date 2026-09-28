@@ -1,0 +1,46 @@
+RFC-MICROSITImpreso por: Hospital Británico – Orden Clinica
+10/09/2026Fecha y Hora de impresión: 10:17:19
+ORDEN CLÍNICA/ Laboratorio Amb HB Central
+ADERApellido:
+CME-HEMGUM:
+45683086DNI:22 añosEdad:
+CUT-HEMGUT:
+9297443Nro. Orden:
+26/04/2004F.Nac.:
+MANUELNombre:
+25/08/2025Fecha:
+UrgentePrioridad:
+MEDICUSFinanciador:
+CELESTEPlan: GRAVADOCond. de I.V.A.:
+10097779003Nro. Afiliado:
+20042/001Cod. Finan:
+Consultar las indicaciones para la realización de los estudios en la página web institucional  
+www.hospitalbritanico.org.ar
+Diagnóstico Presuntivo y Observaciones:
+ALTA
+Hospital BritánicoLugar donde se toma la muestra:            Firma
+MATIAS JAVIER CARRERAS
+156580M.N. --    M.P.
+Médico
+Descripción Cantidad
+Hemograma 1
+Recuento de plaquetas 1
+Urea Serica 1
+Ionograma 1
+Calcio Serico 1
+Fosforo Serico 1
+Magnesio Serico 1
+Acido Urico Serico 1
+Hepatograma 1
+LDH - Lactico Dehidrogenasa 1
+Gamma glutamil transpeptidasa GGT 1
+Creatinina Serica 1
+Inmunoglobulina G 1
+Chagas IFI 1
+Brucelosis -Rosa de Bengala 1
+HTLV I+II 1
+Chagas ELISA 1
+Chagas Hemaglutinacion 1
+Varicela Zoster IgG 1
+Herpes Simplex 1 IgG - HSV1 1
+Herpes Simplex 2 IgG - HSV2 1

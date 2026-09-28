@@ -1,0 +1,31 @@
+RFC-MICROSITImpreso por: Hospital Británico – Orden Clinica
+10/09/2026Fecha y Hora de impresión: 10:19:05
+ORDEN CLÍNICA/ Laboratorio Int HB Central
+ADERApellido:
+CME-HEMGUM:
+45683086DNI:22 añosEdad:
+CE-RTMOUT:
+10007661Nro. Orden:
+26/04/2004F.Nac.:
+MANUELNombre:
+19/02/2026Fecha:
+UrgentePrioridad:
+MEDICUSFinanciador:
+CELESTEPlan: EXENTOCond. de I.V.A.:
+10097779003Nro. Afiliado:
+20042/001Cod. Finan:
+Consultar las indicaciones para la realización de los estudios en la página web institucional  
+www.hospitalbritanico.org.ar
+Diagnóstico Presuntivo y Observaciones:
+LMA
+           Firma
+ALEJANDRA JUDITH SOLANO TORRES
+167751M.N. --    M.P.
+Médico
+Descripción Cantidad
+HIV 1 y 2 1
+HCV - Hepatitis C AC. Totales 1
+HBsAg - Hepatitis B Antigeno 1
+HBsAc - Hepatitis B Anti HBS 1
+HBc-Hepatitis B-Anti Core total 1
+VDRL 1

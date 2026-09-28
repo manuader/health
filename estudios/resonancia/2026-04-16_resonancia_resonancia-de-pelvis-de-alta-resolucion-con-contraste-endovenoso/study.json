@@ -1,0 +1,344 @@
+{
+  "idReport": "2625689",
+  "idLaboratory": "0013179600",
+  "descripcion": "RESONANCIA DE PELVIS DE ALTA RESOLUCION CON CONTRASTE ENDOVENOSO",
+  "servicio": "Diagnóstico por Imágenes",
+  "fecha": "2026-04-16",
+  "accession": "0013179600",
+  "study_uid": "1.2.840.113845.11.1000000002152132195.20260417002923.5975527",
+  "study_date": "20260417",
+  "modalidades": "MR\\PR\\SR",
+  "procedimiento": "RESONANCIA DE PELVIS DE ALTA RESOLUCION CON CONTRASTE ENDOVENOSO",
+  "urlViewer": "https://estudios.hbritanico.com.ar/im/#/125/96119bbeaf891ef350e2b7b2f60bbdee?fromportal=true",
+  "documentos_visor": [
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "71387645355939564F5772306E344C663075646F55673D3D0A"
+    }
+  ],
+  "documentos_extra": [],
+  "series": [
+    {
+      "numero": 0,
+      "modalidad": "MR",
+      "descripcion": "",
+      "series_uid": "1.3.46.670589.11.63769.5.0.13972.2026041700473590016",
+      "instancias": 1,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/000_mr",
+      "descargadas": 1,
+      "errores": 0
+    },
+    {
+      "numero": 101,
+      "modalidad": "MR",
+      "descripcion": "SURVEY",
+      "series_uid": "1.3.46.670589.11.63769.5.0.18416.2026041700494077117",
+      "instancias": 18,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/101_survey",
+      "descargadas": 18,
+      "errores": 0
+    },
+    {
+      "numero": 201,
+      "modalidad": "MR",
+      "descripcion": "T2W_TSE_Cor",
+      "series_uid": "1.3.46.670589.11.63769.5.0.18416.2026041700511210140",
+      "instancias": 35,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/201_t2w-tse-cor",
+      "descargadas": 35,
+      "errores": 0
+    },
+    {
+      "numero": 301,
+      "modalidad": "MR",
+      "descripcion": "T2W_TSE_SPAIR_COR",
+      "series_uid": "1.3.46.670589.11.63769.5.0.18416.2026041700533366176",
+      "instancias": 41,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/301_t2w-tse-spair-cor",
+      "descargadas": 41,
+      "errores": 0
+    },
+    {
+      "numero": 401,
+      "modalidad": "MR",
+      "descripcion": "AXIAL T2 pelvis",
+      "series_uid": "1.3.46.670589.11.63769.5.0.18416.2026041700571927218",
+      "instancias": 39,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/401_axial-t2-pelvis",
+      "descargadas": 39,
+      "errores": 0
+    },
+    {
+      "numero": 501,
+      "modalidad": "MR",
+      "descripcion": "DWI_3b_RT",
+      "series_uid": "1.3.46.670589.11.63769.5.0.18416.2026041700594140220",
+      "instancias": 145,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/501_dwi-3b-rt",
+      "descargadas": 145,
+      "errores": 0
+    },
+    {
+      "numero": 502,
+      "modalidad": "MR",
+      "descripcion": "dDWI_3b_RT",
+      "series_uid": "1.3.46.670589.11.63769.5.0.12072.2026041701015302000",
+      "instancias": 36,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/502_ddwi-3b-rt",
+      "descargadas": 36,
+      "errores": 0
+    },
+    {
+      "numero": 601,
+      "modalidad": "MR",
+      "descripcion": "T2W_TSE_sag",
+      "series_uid": "1.3.46.670589.11.63769.5.0.18416.2026041701015382404",
+      "instancias": 43,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/601_t2w-tse-sag",
+      "descargadas": 43,
+      "errores": 0
+    },
+    {
+      "numero": 701,
+      "modalidad": "MR",
+      "descripcion": "T2W_TSE_Cor",
+      "series_uid": "1.3.46.670589.11.63769.5.0.18416.2026041701061211435",
+      "instancias": 31,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/701_t2w-tse-cor",
+      "descargadas": 31,
+      "errores": 0
+    },
+    {
+      "numero": 801,
+      "modalidad": "MR",
+      "descripcion": "T2W_TSE_AX",
+      "series_uid": "1.3.46.670589.11.63769.5.0.18416.2026041701112920484",
+      "instancias": 43,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/801_t2w-tse-ax",
+      "descargadas": 43,
+      "errores": 0
+    },
+    {
+      "numero": 901,
+      "modalidad": "MR",
+      "descripcion": "STIR_TSE_MVXD_Ax fino",
+      "series_uid": "1.3.46.670589.11.63769.5.0.18416.2026041701161748507",
+      "instancias": 41,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/901_stir-tse-mvxd-ax-fino",
+      "descargadas": 41,
+      "errores": 0
+    },
+    {
+      "numero": 1001,
+      "modalidad": "MR",
+      "descripcion": "STIR_TSE_MVXD_Cor fino",
+      "series_uid": "1.3.46.670589.11.63769.5.0.18416.2026041701204243570",
+      "instancias": 29,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/1001_stir-tse-mvxd-cor-fino",
+      "descargadas": 29,
+      "errores": 0
+    },
+    {
+      "numero": 1101,
+      "modalidad": "MR",
+      "descripcion": "GADO mDIXON-W_dyn PERFUSION",
+      "series_uid": "1.3.46.670589.11.63769.5.0.18416.2026041701262093604",
+      "instancias": 425,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/1101_gado-mdixon-w-dyn-perfusion",
+      "descargadas": 425,
+      "errores": 0
+    },
+    {
+      "numero": 1102,
+      "modalidad": "MR",
+      "descripcion": "VmDIXON-W_dyn 15 GRADOS",
+      "series_uid": "1.3.46.670589.11.63769.5.0.1156.2026041701293949000",
+      "instancias": 88,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/1102_vmdixon-w-dyn-15-grados",
+      "descargadas": 88,
+      "errores": 0
+    },
+    {
+      "numero": 1103,
+      "modalidad": "MR",
+      "descripcion": "VmDIXON-W_dyn 15 GRADOS",
+      "series_uid": "1.3.46.670589.11.63769.5.0.22312.2026041701295168000",
+      "instancias": 112,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/1103_vmdixon-w-dyn-15-grados",
+      "descargadas": 112,
+      "errores": 0
+    },
+    {
+      "numero": 1104,
+      "modalidad": "MR",
+      "descripcion": "1 ER ANGIO",
+      "series_uid": "1.3.46.670589.11.63769.5.0.22348.2026041701301218000",
+      "instancias": 28,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/1104_1-er-angio",
+      "descargadas": 28,
+      "errores": 0
+    },
+    {
+      "numero": 1105,
+      "modalidad": "MR",
+      "descripcion": "2  ANGIO",
+      "series_uid": "1.3.46.670589.11.63769.5.0.14184.2026041701301671000",
+      "instancias": 28,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/1105_2-angio",
+      "descargadas": 28,
+      "errores": 0
+    },
+    {
+      "numero": 1106,
+      "modalidad": "MR",
+      "descripcion": "3  ANGIO",
+      "series_uid": "1.3.46.670589.11.63769.5.0.17816.2026041701302155000",
+      "instancias": 28,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/1106_3-angio",
+      "descargadas": 28,
+      "errores": 0
+    },
+    {
+      "numero": 1107,
+      "modalidad": "MR",
+      "descripcion": "4  ANGIO",
+      "series_uid": "1.3.46.670589.11.63769.5.0.10596.2026041701302607000",
+      "instancias": 28,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/1107_4-angio",
+      "descargadas": 28,
+      "errores": 0
+    },
+    {
+      "numero": 1201,
+      "modalidad": "MR",
+      "descripcion": "POST GADO 3D mDIXON-W_HR",
+      "series_uid": "1.3.46.670589.11.63769.5.0.18416.2026041701293757030",
+      "instancias": 1233,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/1201_post-gado-3d-mdixon-w-hr",
+      "descargadas": 1233,
+      "errores": 0
+    },
+    {
+      "numero": 1202,
+      "modalidad": "MR",
+      "descripcion": "ANGIO",
+      "series_uid": "1.3.46.670589.11.63769.5.0.21392.2026041701342165000",
+      "instancias": 20,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/1202_angio",
+      "descargadas": 20,
+      "errores": 0
+    },
+    {
+      "numero": 1203,
+      "modalidad": "MR",
+      "descripcion": "ANGIO",
+      "series_uid": "1.3.46.670589.11.63769.5.0.17608.2026041701342814000",
+      "instancias": 20,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/1203_angio",
+      "descargadas": 20,
+      "errores": 0
+    },
+    {
+      "numero": 1204,
+      "modalidad": "MR",
+      "descripcion": "ANGIO",
+      "series_uid": "1.3.46.670589.11.63769.5.0.15448.2026041701343388000",
+      "instancias": 20,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/1204_angio",
+      "descargadas": 20,
+      "errores": 0
+    },
+    {
+      "numero": 1205,
+      "modalidad": "MR",
+      "descripcion": "CORO FAT SAT",
+      "series_uid": "1.3.46.670589.11.63769.5.0.12776.2026041701343965000",
+      "instancias": 60,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/1205_coro-fat-sat",
+      "descargadas": 60,
+      "errores": 0
+    },
+    {
+      "numero": 1206,
+      "modalidad": "MR",
+      "descripcion": "SAG FAT SAT",
+      "series_uid": "1.3.46.670589.11.63769.5.0.5028.2026041701344648000",
+      "instancias": 60,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/1206_sag-fat-sat",
+      "descargadas": 60,
+      "errores": 0
+    },
+    {
+      "numero": 1207,
+      "modalidad": "MR",
+      "descripcion": "AX  FAT SAT",
+      "series_uid": "1.3.46.670589.11.63769.5.0.12128.2026041701345359000",
+      "instancias": 60,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/1207_ax-fat-sat",
+      "descargadas": 60,
+      "errores": 0
+    },
+    {
+      "numero": 1208,
+      "modalidad": "MR",
+      "descripcion": "AX  T1",
+      "series_uid": "1.3.46.670589.11.63769.5.0.15432.2026041701350108000",
+      "instancias": 60,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/1208_ax-t1",
+      "descargadas": 60,
+      "errores": 0
+    },
+    {
+      "numero": 1209,
+      "modalidad": "MR",
+      "descripcion": "COR  T1",
+      "series_uid": "1.3.46.670589.11.63769.5.0.10172.2026041701350889000",
+      "instancias": 60,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/1209_cor-t1",
+      "descargadas": 60,
+      "errores": 0
+    },
+    {
+      "numero": 1210,
+      "modalidad": "MR",
+      "descripcion": "SAG T1",
+      "series_uid": "1.3.46.670589.11.63769.5.0.17448.2026041701351580000",
+      "instancias": 60,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/1210_sag-t1",
+      "descargadas": 60,
+      "errores": 0
+    },
+    {
+      "numero": 1301,
+      "modalidad": "MR",
+      "descripcion": "VISTA OPCIONAL",
+      "series_uid": "1.3.46.670589.11.63769.5.0.18416.2026041701332277032",
+      "instancias": 151,
+      "carpeta": "estudios/resonancia/2026-04-16_resonancia_resonancia-de-pelvis-de-alta-resolucion-con-contraste-endovenoso/dicom/1301_vista-opcional",
+      "descargadas": 151,
+      "errores": 0
+    }
+  ],
+  "dicom_series": 30,
+  "dicom_instancias": 3043,
+  "dicom_descargadas": 3043,
+  "dicom_completo": true,
+  "dicom_metadata": {
+    "Modality": "MR",
+    "StudyDate": "20260417",
+    "StudyTime": "004710",
+    "StudyDescription": "RESONANCIA DE PELVIS DE ALTA RESOLUCION CON CONTRASTE ENDOVENOSO",
+    "SeriesDescription": "",
+    "SeriesNumber": 0,
+    "InstanceNumber": 1,
+    "Manufacturer": "Philips",
+    "ManufacturerModelName": "MR 5300",
+    "BodyPartExamined": "",
+    "ProtocolName": "ExamCard",
+    "SOPClassUID": "1.2.840.10008.5.1.4.1.1.66",
+    "SOPInstanceUID": "1.3.46.670589.11.63769.5.24.5.1.13972.2026041700473590016",
+    "SeriesInstanceUID": "1.3.46.670589.11.63769.5.0.13972.2026041700473590016",
+    "StudyInstanceUID": "1.2.840.113845.11.1000000002152132195.20260417002923.5975527"
+  }
+}

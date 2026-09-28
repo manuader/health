@@ -1,0 +1,105 @@
+{
+  "idReport": "2405824",
+  "idLaboratory": "0011952922",
+  "descripcion": "TOMOGRAFIA DE CEREBRO SIN CONTRASTE ENDOVENOSO",
+  "servicio": "Diagnóstico por Imágenes",
+  "fecha": "2025-08-03",
+  "accession": "0011952922",
+  "study_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1754157006.470254",
+  "study_date": "20250803",
+  "modalidades": "CT\\SR",
+  "procedimiento": "TOMOGRAFIA DE CEREBRO SIN CONTRASTE ENDOVENOSO",
+  "urlViewer": "https://estudios.hbritanico.com.ar/im/#/125/05e77283f554958448cfb8151088d716?fromportal=true",
+  "documentos_visor": [
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "376C7466563644416551456968517A57763858764E773D3D0A"
+    },
+    {
+      "document_name": "INFORME PRINCIPAL",
+      "document_type": "pdf",
+      "iddocument": "376C7466563644416551456968517A57763858764E773D3D0A"
+    }
+  ],
+  "documentos_extra": [],
+  "series": [
+    {
+      "numero": 3,
+      "modalidad": "CT",
+      "descripcion": "Cabeza 5.0 Axial",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1754157234.505923",
+      "instancias": 36,
+      "carpeta": "estudios/tomografia/2025-08-03_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso/dicom/003_cabeza-5-0-axial",
+      "descargadas": 36,
+      "errores": 0
+    },
+    {
+      "numero": 4,
+      "modalidad": "CT",
+      "descripcion": "Cabeza 0.5 Vol",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1754157244.527882",
+      "instancias": 584,
+      "carpeta": "estudios/tomografia/2025-08-03_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso/dicom/004_cabeza-0-5-vol",
+      "descargadas": 584,
+      "errores": 0
+    },
+    {
+      "numero": 5,
+      "modalidad": "CT",
+      "descripcion": "Cabeza 5.000 Coronal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1754157298.43509",
+      "instancias": 39,
+      "carpeta": "estudios/tomografia/2025-08-03_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso/dicom/005_cabeza-5-000-coronal",
+      "descargadas": 39,
+      "errores": 0
+    },
+    {
+      "numero": 6,
+      "modalidad": "CT",
+      "descripcion": "Cabeza 5.000 Sagittal",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1754157302.3332",
+      "instancias": 34,
+      "carpeta": "estudios/tomografia/2025-08-03_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso/dicom/006_cabeza-5-000-sagittal",
+      "descargadas": 34,
+      "errores": 0
+    },
+    {
+      "numero": 9000,
+      "modalidad": "CT",
+      "descripcion": "5",
+      "series_uid": "1.2.392.200036.9116.2.6.1.3268.2051117010.1754157234.696065",
+      "instancias": 1,
+      "carpeta": "estudios/tomografia/2025-08-03_tomografia_tomografia-de-cerebro-sin-contraste-endovenoso/dicom/9000_5",
+      "descargadas": 1,
+      "errores": 0
+    }
+  ],
+  "dicom_series": 5,
+  "dicom_instancias": 694,
+  "dicom_descargadas": 694,
+  "dicom_completo": true,
+  "dicom_metadata": {
+    "Modality": "CT",
+    "StudyDate": "20250803",
+    "StudyTime": "025223",
+    "StudyDescription": "TOMOGRAFIA DE CEREBRO SIN CONTRASTE ENDOVENOSO",
+    "SeriesDescription": "Cabeza 5.0 Axial",
+    "SeriesNumber": 3,
+    "InstanceNumber": 4,
+    "Manufacturer": "TOSHIBA",
+    "ManufacturerModelName": "Aquilion PRIME",
+    "BodyPartExamined": "CABEZA",
+    "ProtocolName": "Encefalo sin cte.",
+    "SliceThickness": 5.0,
+    "KVP": 120.0,
+    "Rows": 512,
+    "Columns": 512,
+    "PixelSpacing": "[0.466, 0.466]",
+    "ImageOrientationPatient": "[1.00000, 0.00000, 0.00000, 0.00000, 1.00000, 0.00000]",
+    "SOPClassUID": "1.2.840.10008.5.1.4.1.1.2",
+    "SOPInstanceUID": "1.2.392.200036.9116.2.6.1.3268.2051117010.1754157234.548072",
+    "SeriesInstanceUID": "1.2.392.200036.9116.2.6.1.3268.2051117010.1754157234.505923",
+    "StudyInstanceUID": "1.2.392.200036.9116.2.6.1.3268.2051117010.1754157006.470254"
+  }
+}

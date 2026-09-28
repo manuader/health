@@ -1,0 +1,24 @@
+RFC-MICROSITImpreso por: Hospital Británico – Orden Clinica
+10/09/2026Fecha y Hora de impresión: 10:19:54
+ORDEN CLÍNICA/ Hospital de día HB Central
+ADERApellido:
+CME-HEMGUM:
+45683086DNI:22 añosEdad:
+CUT-HEMGUT:
+10685559Nro. Orden:
+26/04/2004F.Nac.:
+MANUELNombre:
+24/07/2026Fecha:
+UrgentePrioridad:
+MEDICUSFinanciador:
+CELESTEPlan: GRAVADOCond. de I.V.A.:
+10097779003Nro. Afiliado:
+20042/001Cod. Finan:
+Diagnóstico Presuntivo y Observaciones:
+LMA PLAQUTOPENIA SEVERA
+           Firma
+MICAELA ANDREA QUARCHIONI
+144938M.N. --    M.P.
+Médico
+Descripción Cantidad
+Flash de Heparina 1

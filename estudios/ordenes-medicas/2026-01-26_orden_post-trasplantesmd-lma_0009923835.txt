@@ -1,0 +1,37 @@
+RFC-MICROSITImpreso por: Hospital Británico – Orden Clinica
+10/09/2026Fecha y Hora de impresión: 10:18:31
+ORDEN CLÍNICA/ Hemoterapia HB Central
+ADERApellido:
+CME-HEMGUM:
+45683086DNI:22 añosEdad:
+CUT-HEMGUT:
+9923835Nro. Orden:
+26/04/2004F.Nac.:
+MANUELNombre:
+26/01/2026Fecha:
+UrgentePrioridad:
+MEDICUSFinanciador:
+CELESTEPlan: EXENTOCond. de I.V.A.:
+10097779003Nro. Afiliado:
+20042/001Cod. Finan:
+Diagnóstico Presuntivo y Observaciones:
+POST TRASPLANTE 
+SMD/LMA
+           Firma
+ALEJANDRA JUDITH SOLANO TORRES
+167751M.N. --    M.P.
+Médico
+Descripción Cantidad
+Solicitud de Hemocomponentes 1
+TRANSFERENCIA
+Motivo de Transfusión
+Hcto < 21% - Hb < 7 gr/dl Plaquetas < 10.000 x mm3 TP Alterado
+Sangrado Activo ✔ Plaquetas 10.000 - 50.000 KPTT Alterado
+Síndrome Anémico Plaquetas < 50.000 pre-Qx CID
+Cirugía Otro
+Cual ?
+Datos Transfusión
+✔ Filtrados ✔ Irradiados Autóloga
+Transfusión Hemocomponentes
+Transfusión de concentrado de plaquetas de aféresisTrans.Hemoc1: 1Un.: Unidad
+Unidad Unidad Unidad

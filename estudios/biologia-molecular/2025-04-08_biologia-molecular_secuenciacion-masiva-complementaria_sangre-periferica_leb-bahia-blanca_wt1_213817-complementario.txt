@@ -1,0 +1,163 @@
+PACIENTE: ADER, MANUEL                                                                  PROTOCOLO N°: 213817 
+ID Paciente : 45.683.086 Fecha : 08/04/2025 
+F de nac : 26/04/2004 Origen : Ambulatorio 
+Sexo : Masculino Médico : Dr. Pose Cabarcos Julio 
+ 
+ 
+ 
+ 
+ 
+Estudio por Secuenciación Masiva en Paralelo 
+ 
+Motivo del estudio: paciente con Síndrome mielodisplásico. 
+ 
+Información clínica: Neoplasia mieloide, citopenias. 
+ 
+HPO: HP:0002863, HP: 0001876. 
+ 
+Muestra: ADN extraído a partir de sangre periférica. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+LABORATORIO DE ESPECIALIDADES BIOQUIMICAS 
+LAMADRID 405 (8000) | BAHIA BLANCA | TEL: 0291-4510427 - 4517826 
+info@leblaboratorio.com.ar | www.leblaboratorio.com.ar
+
+RESULTADO:  
+ 
+Se identificó una variante probablemente patogénica en el gen WT1, en estado heterocigota. 
+ 
+Variantes potencialmente relevantes asociadas al fenotipo del paciente 
+Posición 
+cromosómica 
+Gen 
+(OMIM) 
+Transcripto 
+(RefSeq) 
+Variante Condición 
+Profundidad 
+Frecuencia 
+Poblacional 
+Información 
+Externa 
+ACMG1 
+ 
+chr11-32396364 
+G>T  
+(GRCh38) 
+ 
+WT1 
+(*607102) 
+ 
+ 
+NM_024426.6 
+ 
+c.1157C>A 
+p.(Ser386*) 
+ 
+ 
+mosaico 
+21/72 
+29% 
+ 
+ 
+-- 
+ 
+-- 
+ 
+Probablemente 
+Patogénica 
+(PVS1_very strong, 
+PM2_supporting) 
+ 
+ 
+INTERPRETACIÓN  
+Se identificó la variante  NM_024426.6:c.1157C>A en el exón 7 del gen WT1, en estado 
+heterocigota. La misma genera la aparición de un codón de terminación prematuro en la 
+posición 386 de la proteína (p.(Ser386*)). Esta misma variante ha sido reportada por nuestro 
+laboratorio en muestra de médula ósea del paciente bajo el protocolo número 213817.  
+Para más información remitirse al protocolo n° 213817 (panel mieloide NGS) 
+CONCLUSIONES 
+En el paciente en estudio se identificó una variante probablemente patogénica en el gen WT1, en 
+estado heterocigota, previamente reportada en el caso en estudio en muestra de médula ósea. 
+Las alteraciones en el gen WT1 se reportan en menos del 5% de los pacientes con síndrome 
+mielodisplásico, por el momento sin una implicancia clara sobre el pronóstico. En base al 
+conocimiento actual, no se han detectado variantes patogénicas en el resto de los genes 
+estudiados asociados al fenotipo y las características clínicas remitidas por el médico solicitante. 
+Estos resultados deben ser interpretados en el contexto clínico y la historia familiar del paciente. 
+Se recomienda asesoramiento genético.
+
+HALLAZGOS SECUNDARIOS: 
+No se identificaron variantes patogénicas o probablemente patogénicas en el listado de 81 genes 
+accionables recomendado por el Colegio Americano de Genética Médica (ACMG) 
+(PMID:37347242). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  ----------------------------------------------------- 
+Dr. Juanes Matías 
+Doctor en Bioquímica  
+Especialista en Biología Molecular 
+M.N.  11.330
+
+Anexo 
+Preparación de la muestra 
+Se realizó la obtención de ADN genómico, a partir de la muestra de sangre periférica remitida. Luego de  
+superar satisfactoriamente los controles de calidad se procedió a la secuenciación masiva en paralelo. 
+Secuenciación masiva en paralelo: Secuenciación Masiva en Paralelo de Exoma completo (Tecnología de 
+captura-Twist exome 2.0; Laboratorio externo) y posterior análisis de genes seleccio nados de acuerdo a las 
+características clínicas del paciente referidas por el médico solicitante. Genoma de referencia: GRCh38. El 
+procesamiento bioinformático para la detección de variantes puntuales se realizó mediante un pipeline 
+desarrollado siguiendo los estándares de Genomic Analysis Toolkit (GATK) del Broad Institute. El análisis de 
+variantes del número de copias se realizó mediante un software bioinformático, que implementa un modelo 
+probabilístico (PMID: 28459104).  
+ 
+Genes analizados: 
+Se analizaron todos los genes con asociación comprobada y potencial asociación con las características clínicas 
+del paciente, en formato HPO, reportadas por el médico solicitante. 
+ 
+Profundidad media del ensayo: 82.6X                  Porcentaje de regiones ≥20X: 97.7% 
+ 
+La significancia clínica de las variantes se determina según los criterios actualizados de la ACMG (PMID: 
+25741868), la información disponible en las bases de datos gnomad, dbSNP, LOVD y/o ClinVar, y la bibliografía 
+disponible al momento del estudio. Sólo se reportan las variantes relevantes en los genes asociados al fenotipo 
+indicado por el médico solicitante. No se reportan variantes de significado incierto en un único alelo en genes 
+asociados a herencia autosómica recesiva. La interpretació n de las variantes detectadas se basa en el 
+conocimiento disponible a la fecha del estudio. Se recomienda solicitar el reanálisis del conjunto de datos de 
+secuenciación cada 12 meses en base a la evolución clínica del paciente. Asimismo, debe considerarse la 
+posibilidad de realizar estudios complementarios. 
+ 
+LIMITACIONES: 
+No es posible descartar la existencia de variantes relevantes en genes o regiones no incluidas en el panel 
+analizado. Este estudio puede no detectar variantes del número de copias, traslocaciones, expansiones de 
+tripletes, regiones con una alta homología de secuencia y no detecta cambios epigenéticos. Debido a la 
+limitación de esta tecnología, ciertas regiones pueden no estar cubiertas o estar pobremente cubiertas. En 
+estas regiones las variantes no pueden ser detectadas con seguridad.

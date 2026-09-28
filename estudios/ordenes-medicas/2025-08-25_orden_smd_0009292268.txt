@@ -1,0 +1,39 @@
+RFC-MICROSITImpreso por: Hospital Británico – Orden Clinica
+10/09/2026Fecha y Hora de impresión: 10:17:17
+ORDEN CLÍNICA/ Laboratorio Int HB Central
+ADERApellido:
+CME-HEMGUM:
+45683086DNI:22 añosEdad:
+CE-RTMOUT:
+9292268Nro. Orden:
+26/04/2004F.Nac.:
+MANUELNombre:
+25/08/2025Fecha:
+UrgentePrioridad:
+MEDICUSFinanciador:
+CELESTEPlan: GRAVADOCond. de I.V.A.:
+10097779003Nro. Afiliado:
+20042/001Cod. Finan:
+Consultar las indicaciones para la realización de los estudios en la página web institucional  
+www.hospitalbritanico.org.ar
+Diagnóstico Presuntivo y Observaciones:
+SMD
+           Firma
+ROCIO CABRAL
+185210M.N. --    M.P.
+Médico
+Descripción Cantidad
+Gamma glutamil transpeptidasa GGT 1
+Acido Urico Serico 1
+LDH - Lactico Dehidrogenasa 1
+Calcio Serico 1
+Hemograma 1
+Urea Serica 1
+Creatinina Serica 1
+Recuento de plaquetas 1
+Glucosa Serica 1
+Fosforo Serico 1
+Magnesio Serico 1
+Hepatograma 1
+Ionograma 1
+Formula Leucocitaria Porcentual 1

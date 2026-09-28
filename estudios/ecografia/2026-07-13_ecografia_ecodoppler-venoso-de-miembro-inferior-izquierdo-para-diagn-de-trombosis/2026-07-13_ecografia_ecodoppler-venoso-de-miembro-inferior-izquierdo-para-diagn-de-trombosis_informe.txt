@@ -1,0 +1,20 @@
+Paciente: ADER, MANUEL  Estudio: ECODOPPLER VENOSO DE MIEMBRO INFERIOR IZQUIERDO 
+PARA DIAGN. DE TROMBOSIS
+Fecha de Nacimiento: 26/04/2004 Médico Derivante: N/D
+Fecha del Estudio: 13/07/2026 09:46:49 Procedencia: Ambulatorio
+RIS A. N.: 2772299 Número de Pac.: 0002201988
+Estado Informe: Final
+ECODOPPLER VENOSO DE MIEMBRO INFERIOR IZQUIERDO PARA DIAGN. DE TROMBOSIS
+ 
+Se efectuaron maniobras de compresión, Doppler color y onda espectral evaluándose las venas: 
+vena femoral común, vena femoral superficial, vena femoral profunda (tercio superior), vena 
+safena interna (cayado), vena poplítea, tronco tibio peroneo y tibial posterior sin evidenciarse 
+signos de trombosis venosa profunda agudos.
+ 
+ECODOPPLER VENOSO DE MIEMBRO INFERIOR DERECHO PARA DIAGNOSTICO DE TROMBOSIS
+ 
+Se efectuaron maniobras de compresión, Doppler color y onda espectral evaluándose las venas: 
+vena femoral común, vena femoral superficial, vena femoral profunda (tercio superior), vena 
+safena interna (cayado), vena poplítea, tronco tibio peroneo y tibial posterior sin evidenciarse 
+signos de trombosis venosa profunda agudos.
+Pág: 1

@@ -1,0 +1,13 @@
+Paciente: ADER, MANUEL  Estudio: ECOGRAFIA DE PARTES BLANDAS ADULTOS
+Fecha de Nacimiento: 26/04/2004 Médico Derivante: N/D
+Fecha del Estudio: 20/09/2025 09:42:07 Procedencia: Ambulatorio
+RIS A. N.: 2515752 Número de Pac.: 0002201988
+Estado Informe: Final
+ECODOPPLER ARTERIAL Y VENOSO DE MIEMBRO INFERIOR IZQUIERDO
+Se efectuaron maniobras de compresión, Doppler color y onda espectral evaluándose las venas: 
+vena femoral común y vena safena interna (cayado) sin evidenciarse signos de trombosis venosa 
+profunda agudos.
+ECOGRAFIA DE PARTES BLANDAS ADULTOS
+Se realizó rastreo ecográfico en zona de catéter femoral izquierdo sin evidencia de alteraciones 
+agudas. No se observan colecciones.
+Pág: 1

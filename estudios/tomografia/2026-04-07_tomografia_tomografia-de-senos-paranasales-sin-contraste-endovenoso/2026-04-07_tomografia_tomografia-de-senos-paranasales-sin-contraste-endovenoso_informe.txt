@@ -1,0 +1,51 @@
+Paciente: ADER, MANUEL  Estudio: TOMOGRAFIA DE SENOS PARANASALES SIN CONTRASTE 
+ENDOVENOSO
+Fecha de Nacimiento: 26/04/2004 Médico Derivante: N/D
+Fecha del Estudio: 07/04/2026 11:33:08 Procedencia: Ambulatorio
+RIS A. N.: 2684637 Número de Pac.: 0002201988
+Estado Informe: Final
+TOMOGRAFÍA DE SENOS PARANASALES SIN CONTRASTE ENDOVENOSO
+TOMOGRAFÍA DE CUELLO SIN CONTRASTE ENDOVENOSO
+TOMOGRAFÍA DE TÓRAX SIN CONTRASTE ENDOVENOSO
+Técnica: Se efectuó tomografía computada multi-slice de senos paranasales, cuello y tórax sin 
+contraste endovenoso, mediante una adquisición volumétrica en el plano axial y posteriores 
+reconstrucciones multiplanares.
+Informe: 
+SENOS PARANASALES
+Se toma en consideración tomografía del día 31/03/2026.
+Persiste sin cambios la ocupación parcial aisladas de las celdillas etmoidales. Resto de senos 
+paranasales libres. 
+Estructuras y espacios aéreos que conforman los complejos ostiomeatales sin alteraciones.
+Configuración sinuosa del tabique nasal con componente predominante levoconvexo en el tercio 
+medio-anterior, asociado a espolón óseo homolateral. 
+Cajas timpánicas y celdillas mastoideas adecuadamente neumatizadas, sin ocupación significativa a
+consignar.
+  
+CUELLO
+Espacio visceral conservado.
+Espacios aponeuróticos de características conservadas.
+Estructuras faringo-laríngeas conservadas.
+Glándulas salivales y tiroides de características normales.
+Planos músculo-adiposos respetados.
+No se observan adenomegalias.
+TÓRAX
+Se toma en consideración tomografía del día 31/03/2026.
+No se evidencian opacidades nodulares, ni procesos de consolidación parenquimatosa.
+El árbol tráqueo bronquial principal es de calibre y permeabilidad conservado.
+No se observan adenomegalias en mediastino ni en regiones axilares.
+No se constata derrame pleural ni pericárdico.
+Está conservado el calibre de los grandes vasos mediastínicos.
+Port-a-cath con extremo en atrio derecho.
+Pág: 1
+
+Impresión diagnóstica:
+- Estudio sin cambios con respecto al de referencia.
+Adendas:
+Se realiza revisión conjunta de las imágenes con especialista en neurorradiología, evidenciándose:
+Engrosamiento difuso bilateral de los músculos platisma, asociado a alteración de los planos grasos
+en las regiones parotídeas y submandibulares de forma bilateral, con compromiso de menor grado 
+en la región infrahioidea.
+No se identifican otras alteraciones en el presente estudio sin contraste.
+Pág: 2
+
+Pág: 3

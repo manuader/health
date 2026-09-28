@@ -1,0 +1,14 @@
+10:56:50 INFO    import: Importado: ADER MANUEL A298740 INF.pdf -> estudios/citometria-de-flujo/2026-04-16_citometria-de-flujo_inmunofenotipo_medula-osea_alexander-fleming_A298740.pdf
+10:56:50 INFO    import: Importado: ADER MANUEL A310022 INF (1).pdf -> estudios/citometria-de-flujo/2026-07-16_citometria-de-flujo_inmunofenotipo_medula-osea_alexander-fleming_A310022.pdf
+10:56:50 INFO    import: Duplicado exacto (sha256) de un documento ya presente: ADER MANUEL A310022 INF.pdf
+10:56:50 INFO    import: Importado: ADER MANUEL.pdf -> estudios/citometria-de-flujo/2026-05-26_citometria-de-flujo_inmunofenotipo_medula-osea_alexander-fleming_A303661.pdf
+10:56:50 INFO    import: Importado: Ader_Manuel_NGS_Myeloid_Panel_Translation.pdf -> estudios/biologia-molecular/2026-02-06_biologia-molecular_ngs-panel-mieloide_leb-bahia-blanca_traduccion-en_226104.pdf
+10:56:50 INFO    import: Importado: Midostaurine_Ader_Manuel_Flow_Cytometry_Translation.pdf -> estudios/citometria-de-flujo/2026-04-16_citometria-de-flujo_inmunofenotipo_medula-osea_alexander-fleming_traduccion-en_A298740.pdf
+10:56:50 INFO    import: Notas_Medicas_0000000000000010011750096.pdf ya está en la historia como nota:0000000000000010011750096; se omite
+10:56:50 INFO    import: Notas_Medicas_0000000000000010012994295.pdf ya está en la historia como nota:0000000000000010012994295; se omite
+10:56:50 INFO    import: Importado: ResultadosLaboratorio (1).pdf -> estudios/laboratorio/2026-09-03_laboratorio_hematologia-quimica_medicus-diagnostico-maipu_13353561.pdf
+10:56:50 INFO    import: Importado: ResultadosLaboratorio (2).pdf -> estudios/laboratorio/2026-09-03_laboratorio_hematologia-quimica_medicus-diagnostico-maipu_parcial_13353561.pdf
+10:56:50 INFO    import: Duplicado exacto (sha256) de un documento ya presente: ResultadosLaboratorio (3).pdf
+10:56:50 INFO    import: Duplicado exacto (sha256) de un documento ya presente: ResultadosLaboratorio.pdf
+10:56:51 INFO    import: resultado_13639277.pdf ya está en la historia como res:lab:13639277; se omite
+10:56:51 INFO    import: resultado_13639320.pdf ya está en la historia como res:lab:13639320; se omite

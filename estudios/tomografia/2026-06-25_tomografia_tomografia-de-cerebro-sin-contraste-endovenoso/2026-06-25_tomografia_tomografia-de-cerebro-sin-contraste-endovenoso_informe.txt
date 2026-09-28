@@ -1,0 +1,22 @@
+Paciente: ADER, MANUEL  Estudio: TOMOGRAFIA DE CEREBRO SIN CONTRASTE ENDOVENOSO
+Fecha de Nacimiento: 26/04/2004 Médico Derivante: N/D
+Fecha del Estudio: 25/06/2026 00:50:42 Procedencia: Ambulatorio
+RIS A. N.: 2757896 Número de Pac.: 0002201988
+Estado Informe: Final
+TOMOGRAFIA DE CEREBRO SIN CONTRASTE ENDOVENOSO
+Técnica: Se efectuó tomografía computada multi-slice de cerebro sin contraste endovenoso, 
+mediante una adquisición volumétrica en el plano axial y posteriores reconstrucciones 
+multiplanares.
+Hallazgos:
+Se realiza comparativo con TC del 03/08/2025.
+Densidad conservada en el parénquima encefálico supra e infratentorial.
+Sistema ventricular y espacio subaracnoideo supra e infratentorial acordes a la edad sin signos de 
+dilatación ni compresión.
+No se evidencian colecciones extraaxiales.
+Línea media conservada.
+Fosa posterior sin particularidades.
+Impresión diagnóstica:
+-Examen encefálico sin evidencia de lesiones agudas. 
+Pág: 1
+
+Pág: 2

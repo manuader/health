@@ -1,0 +1,11 @@
+Paciente: ADER, MANUEL  Estudio: ECODOPPLER ARTERIAL Y VENOSO DE MIEMBRO SUPERIOR 
+IZQUIERDO
+Fecha de Nacimiento: 26/04/2004 Médico Derivante: N/D
+Fecha del Estudio: 23/07/2025 09:51:41 Procedencia: Ambulatorio
+RIS A. N.: 2461761 Número de Pac.: 0002201988
+Estado Informe: Final
+ECODOPPLER ARTERIAL Y VENOSO DE MIEMBRO SUPERIOR IZQUIERDO
+Se efectuaron maniobras de compresión, Doppler color y onda espectral evaluándose las venas: 
+yugular, subclavia, axilar, humeral, basílica, cefálica, radial y cubital sin evidenciarse signos de 
+trombosis venosa profunda agudos al momento del examen.
+Pág: 1

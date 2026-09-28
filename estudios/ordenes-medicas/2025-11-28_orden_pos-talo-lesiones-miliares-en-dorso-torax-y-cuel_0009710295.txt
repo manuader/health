@@ -1,0 +1,34 @@
+RFC-MICROSITImpreso por: Hospital Británico – Orden Clinica
+10/09/2026Fecha y Hora de impresión: 10:18:16
+ORDEN CLÍNICA/ Laboratorio Amb HB Central
+ADERApellido:
+CME-INFEUM:
+45683086DNI:22 añosEdad:
+CUT-INFEUT:
+9710295Nro. Orden:
+26/04/2004F.Nac.:
+MANUELNombre:
+28/11/2025Fecha:
+UrgentePrioridad:
+MEDICUSFinanciador:
+CELESTEPlan: EXENTOCond. de I.V.A.:
+10097779003Nro. Afiliado:
+20042/001Cod. Finan:
+Consultar las indicaciones para la realización de los estudios en la página web institucional  
+www.hospitalbritanico.org.ar
+Diagnóstico Presuntivo y Observaciones:
+Pos-TALO. Lesiones miliares en dorso, torax y cuello
+           Firma
+MARIA JOSE EUSEBIO
+131401M.N. --    M.P.
+Médico
+Descripción Cantidad
+Busqueda de SAMR 1
+Prestación Descripción Tp. de Muestra Origen de la muestra/Sitio Anatómico
+G2567B0201 Busqueda de SAMR
+HISOPADO 
+AXILAR, 
+INGUINAL Y 
+NASAL
+N/A
+Casilla de verificación
